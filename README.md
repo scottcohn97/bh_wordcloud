@@ -2,7 +2,7 @@
 
 ## Scott Cohn
 
-This project takes a folder of PDFs (`\bh_pdfs`), one per chapter, converts the files to a `.txt` files and places the `.txt` file in a new folder (`\bh_txts`). A cleaning function parses the text and finds the most frequent words and n-grams and compiles them into a list of top-X words. This list is ported to an external application, Wordl, to create a word cloud.
+This project takes a folder of PDFs (`\bh_pdfs`), one per textbook chapter, converts the files to a `.txt` files and places the `.txt` file in a new folder (`\bh_txts`). A cleaning function parses the text and finds the most frequent words and n-grams and compiles them into a list of top-X words. This list is ported to an external application, Wordl, to create a word cloud.
 
 This is an extension of the forthcoming microeconomics text found [here](http://simondhalliday.com/microeconomics/).
 
