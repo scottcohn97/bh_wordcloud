@@ -1,0 +1,3103 @@
+3
+Doing the best you can: Constrained optimization
+
+"What a useful thing a pocket-map is!" I remarked. "That's another thing we've learned from your Nation," replied Mein Herr, "mapmaking. But we've carried it much further than you." "What do you consider the largest map that would be really useful?" "About six inches to the mile." "Only six inches! " he exclaimed. "We very soon got to six yards to the mile. Then we tried a hundred yards to the mile. And then came the grandest idea of all! We actually made a map of the country, on the scale of a mile to the mile!" "Have you used it much?" I enquired. "It has never been spread out, yet," "The farmers objected: they said it would cover the whole country and shut out the sunlight!"
+Lewis Carroll, Sylvie and Bruno Concluded, 1893
+3.1 Introduction: The map and the territory
+Lewis Carroll, the author of this dialogue (not to mention Alice in Wonderland) was also a mathematician and a philosopher. The point Carroll made about maps also goes for economic models. Maps are useful because they convey the necessary information, not because they are an exact representation of the territory, as the people from Mein Herr's country discovered. Carroll's point? The map is not the territory.
+A good model is not reality, but it's a helpful guide.
+What qualifies a map or a model as useful depends on what we need it for: six inches to the mile might be adequate for a map of hiking trails, but such a
+
+DOING ECONOMICS
+This chapter will enable you to:
+· See how the preferences, beliefs and constraints framework from Chapter 2 forms the basis for mathematical models of economic behavior.
+· Recognize how preferences ­ whether entirely self regarding or altruistic ­ can be represented both in mathematical form (a utility function) and graphical form (an indifference map).
+· Understand that constrained optimization is a method that economists use to explain the actions that people take; it is not a description of the thoughts or feelings making up individuals' decision making processes (e.g. studied by a psychologists).
+· Explain how people are constrained ­ for example by limited time ­ and how these constraints give rise to opportunity costs and, along with our preferences, to tradeoffs.
+· Use the preferences, beliefs and constraints framework to analyse difficult policy-making choices, including how much of society's resources should be devoted to the abatement of environmental damages.
+· Understand ordinal and cardinal utility, explain how they differ and how cardinal utility provides a way to represent the societal cost of economic inequality.
+· Understand the shortcomings and limits as well as the insights of these models.
+
+Figure 3.1: The London underground transit system: the map represents, but is not the same as, the territory to which it corresponds. The map is a helpful model.
+
+100 M I C RO E C O N O M I C S - D R A F T
+
+hiking map would not be much use to an airplane pilot. The same is true of economic models.
+Think of a model as a lens. A good economic model is a way of focusing on what is important given the question that one wants to address without complicating the picture with things that do not matter for the question at hand.
+A key component of many economic models ­ those using the preferences, beliefs and constraints approach ­ is that we can understand the actions people take by assuming that they are doing the best they can under the circumstances that they are in.
+When implemented using mathematical reasoning, this is called constrained optimization, a mathematical method by which we can determine a course of action that accomplishes a goal (reflecting a person's preferences), given the information that the person has (beliefs) and the actions they may feasibly takes (a constraint.)
+We illustrate both a model and the method of constrained optimization by something that matters to all of us: Time, and how we use it.
+
+CONSTRAINED OPTIMIZATION A constrained optimization problem is one in which a decision-maker chooses the values of one or more variables to achieve an objective subject to a constraint that determines the feasible set.
+
+3.2 Time: A scarce resource
+Benjamin Franklin (1706-1790) ­ the American politician and inventor ­ once said, "Time is money." Franklin was referring to the presence of trade-offs in how people choose to spend their limited time. His three-word sentence is therefore a model with a simple message: it is illuminating to think about how people choose their daily actions to achieve their goals under the constraint of limited time in the same way that we think about how they spend their limited budgets.
+Spending an hour or minute on an activity provides us value of some kind: we enjoy the activity itself (e.g. eating) or the results of the activity (e.g. being paid a wage with which we can buy our food). But, since time is limited, choosing one activity also means we give up that time to do something else.
+We incur a cost of doing an activity because we forfeit the value of the next best thing we could have spent our time on instead: this is the opportunity cost of our time.
+Unless we have time to spare and are wondering how we will fill up our day, there is an opportunity cost to our use of time. As a result, we can model how we could best use our time by evaluating the benefits and costs (including opportunity costs) of pursuing one set of activities rather another. To do this we use constrained optimization.
+Before developing the concepts on which constrained optimization is based,
+
+OPPORTUNITY COST Where x and y are both valued, the opportunity cost of x in terms of y is how much y a person must give up to get a unit more of x.
+
+D O I N G T H E B E S T YO U C A N : C O N S T R A I N E D O P T I M I Z AT I O N 101
+
+Hours
+
+8 6 4 2 0 Civil & religious ShoppiPnegrsonaEl actainreg & drinking Care workHouseLweoisrukre & sports Paid work Sleeping
+
+Men Women
+
+Figure 3.2: Daily time use of American men and women. These data ­ for hours in each activity measured on the horizontal axis for U.S. adults in 2013 ­ differ from data restricted to those with small children, or retired people, or students. Source: Hofferth et al. (2013).
+
+let's look at the kinds of facts that a model of time use should be able to explain.
+Figure 3.2 shows how men and women from the USA used their time each day during the year 2013. The largest time use is for the categories sleep, work (meaning for pay), leisure, and house work. Men and women differ typically in the hours they devote to paid work and house work and care work, often reflecting differing social norms that they hold about the kinds of activities that it is "appropriate" or "natural" for men and women to do.
+But these social norms also change, sometimes in ways that show that the differences in the distribution of work time between men and women are far from determined by "nature" but instead reflect changed economic conditions. During the second half of the 20th century in the rich countries the fraction of women doing paid work outside the home dramatically increased. While we do not have detailed information like that shown in Figure 3.2 for the mid-20th century on how men and women spent their time, there almost certainly has been a decline in the total amount of time spent doing housework. Part of the change in the distribution of women's time between house work and work for pay is due to the availability at affordable prices of new technologies ­ household appliances ­ that reduced the amount of time required to clean house, wash clothes, and the carry out the other housework tasks. These include washers, refrigerators, and vacuum cleaners, which in the U.S. became common from the late 1940s onward, and dryers, dishwashers and microwaves somewhat later.
+Evidence that these new technologies contributed to the change in the distribution of women's work time comes from a comparison across countries of increases in the fraction of women working outside the home ­ called the labor force participation rate ­ and decreases in price of these labor saving household appliances (compared to other prices).1 The results are in Figure 3.3, which shows that in countries such as the U.S. where the prices of
+
+E X A M P L E In this video tinyurl.com/yyop8rzh Juliet Schor addresses the question of why we work so hard (from the CORE project. www.core-econ.org)
+F AC T C H E C K For a long historical view of why the washing machine was a "miracle" have a look at this video by Hans Rosling: <LINK HERE>
+
+102 M I C RO E C O N O M I C S - D R A F T
+
+Change in female labor force participation
+
+15 Netherlands 
+14
+
+13
+
+12
+
+US
+
+
+
+11 Denmark 
+
+10
+
+UK
+
+
+
+Italy 
+
+9
+
+Belgium
+
+
+Ireland
+
+8
+
+Luxembourg 
+
+
+
+France
+
+
+7
+
+Germany
+
+6
+
+
+
+5
+
+-0.30
+
+-0.25
+
+-0.20
+
+-0.15
+
+-0.10
+
+Changes in the home appliance price index
+
+Figure 3.3: The relative price of home appliances and the female and male labor force participation rates. The vertical axis represents the change in the fraction of adult women working outside the home, termed the female labor force participation rate (FLFP), as well as the change in the home appliance price index (HAPI) on the horizontal index. Notice that a bigger price decrease would be shown by a larger negative change (further to the left on the x-axis) so the US, Denmark and the Netherlands had big decreases in the prices of home appliances and big increases in the female labor force participation rate. Household appliances ­ like TVs ­ that did not reduce the amount of time necessary to perform housework tasks are excluded. The data are for the period 1975 to 1999 and include those OECD countries for which data during the 1970s exist. 1975 is treated as the base year for the labor force participation rate (=1). Source: de V. Cavalcanti and Tavares (2008).
+
+these appliances fell the most, women's labor force participation rate rose substantially. By contrast, in Germany where prices of household appliances fell the least, the increase in labor force participation was half as great as in the U.S.
+Other factors contributed, of course, most importantly the reduction in the number of children born per woman. But the fall in the prices of appliance, the study reporting these data concluded, was of approximately equal importance. It appears that economic changes ­ the new household appliances and their falling prices ­ changed how women spent their time ­ more working outside the home. This in turn may have been both a result and a cause for the changing social norms about "women's work" and the decreased adherence to the ideal of a family with a husband income earner and a wife raising (many) children and taking care of the home. This is an example of endogenous preferences, that is, preferences ­ for example, social norms about "women's work" ­ changing as economic conditions ­ the prices of home appliances ­ change.
+We begin with these examples because methods of constrained optimization ­ the preferences, beliefs, and constraints framework ­ provide a way of posing and in some cases answering questions like: Why do men and women spend the time they do on the various activities shown? Or why did work hours fall so dramatically in some countries over the 20th century? (In Chapter 7 we use a constrained optimization model to provide one answer to that question.)
+
+R E M I N D E R Preferences are endogenous if one's experiences result in durable changes in preferences.
+
+D O I N G T H E B E S T YO U C A N : C O N S T R A I N E D O P T I M I Z AT I O N 103
+
+We begin with preferences, before turning to constraints later in the chapter. Because we are not considering strategic interactions or other situations in which the relevant facts are not known, we do not treat beliefs until the next chapter.
+Checkpoint 3.1: Labor-saving household appliances and women's labor force participation
+Think about a form of the family that was common in the countries shown in Figure 3.3 in the 1970s: in those days described as a male "breadwinner" (working for pay) and a female "housewife."
+a. In that setting what was the opportunity cost of the time that the woman in the family spent working for pay outside the home?
+b. Explain how the availability of lower priced and more effective household appliances changed the opportunity cost of women working for pay outside the home?
+3.3 Utility functions and preferences
+In Chapter 1, we represented preferences ­ our evaluations of the outcomes our actions may bring about ­ as payoffs that is, numbers indicating how much the decision maker values each of the possible outcomes. We discussed, as an illustration, the choice of whether to take an umbrella or not, with a decision (Don't take the umbrella, It rains) resulting in a payoff of 3. The payoff to (Take the umbrella, It rains) was 15, meaning that if it rains the person valued having the umbrella by 5 times as much as not having it.
+In that example we simplified things by limiting the actions and the outcomes to just a few, for example, it either rained or it did not. The simplification allowed us to focus on 2 by 2 payoff matrices with just four possible outcomes, or equally simple game trees.
+But most of the economic interactions that we study are not that simple: we can contribute any amount to the public good (not just $10 or nothing), the farmers in Palanpur have the choice to plant a little bit earlier, or much earlier, and so on. Or, to return to the question of time: how we divide up our day among the activities in Figure 3.2 could be measured in variations of minutes devoted to each of the nine activities, giving us trillions of "outcomes" to choose amongst.
+We need a way to represent preferences when there are a great many outcomes, without expanding our payoff matrices to the unusable size of the 1:1 maps in the Lewis Carroll fable at the beginning of the chapter.
+
+R E M I N D E R : P R E F E R E N C E S represent the favorable (positive) or unfavorable (negative) feelings that could lead a person to choose one outcome over another. Included are tastes (food likes and dislikes, for example), habits (or even addictions), emotions (such as anger and disgust) often associated with visceral reactions (such as nausea or an elevated heart rate), social norms (for example, those that induce people to prefer to be honest or fair), and psychological tendencies (for aggression, extroversion, and the like). Do not think about a preference or the number a utility function assigns to some bundle as how good the bundle is.
+
+104 M I C RO E C O N O M I C S - D R A F T
+
+Why we use utility functions to represent preferences
+To do this we use a utility function, a mathematical expression that translates the full range of possible outcomes into a person's valuation of the outcome ­ her payoffs.
+The word "utility" (in ordinary language, "usefulness") is used to mean the same thing as "payoff." It is a number assigned to a particular bundle that has the property that when choosing between alternative bundles, a person will select the one with the highest (utility) number. Both "utility" and "payoff" sound like some monetary or other amount of something you take home as the outcome of a game. But in economics utilities, like payoffs are not something you get or even experience. You don't take them home, they are nothing more than numbers that indicate the course of action you will take.
+For simplicity, we call this number "how much the person values the outcome" but the utility function tells us nothing about why the bundle has a higher number. It could be any of the reasons for the collection of pro or con evaluations that make up our preferences for some bundle, ranging from food tastes and phobias, to addictions and ethical norms.
+What the function allows us to do is to take account of more complex outcomes than "Don't take the umbrella" and "It rains." The decision maker, as before, will choose the actions the she believes will result in the highest utility outcome.
+Suppose that our decision-maker, Anmei ("Ahn-may," an Uber driver, is deciding how much time to work, x, and what fraction of the resulting income to spend on food, y. The utility function then assigns a number ­ the level of utility ­ to each possible combination of x and y, one of which, say, is work for 4 hours and 15 minutes and spend 35 percent of the resulting pay on food. Any other combination, say, work four hours and spend 40 percent of the resulting income on food, will also be assigned a number, representing Anmei's valuation of that particular outcome. The number assigned to the second bundle can be greater than, less than, or the same as the previous bundle depending on whether the first is preferred, or the second or she is indifferent among them.
+This assignment of numbers is a utility function, u(x, y): for every outcome (x, y) the value of the utility function is the number representing a person's valuation of the outcome. Then if we know what combinations of x and y are
+available to Anmei based on the relevant constraints, then we can predict the choice Anmei will make, namely the combination with the highest utility (or if there were more than one bundle tied for highest, then one of these tied top bundles).
+
+UTILITY FUNCTION A utility function is an
+assignment of a number u(x, y), to every bundle (x, y) representing a person's
+valuation of that bundle. This means that if
+given the choice between two bundles (x, y) and (x0, y0), the individual will choose the first if u(x, y) > u(x0, y0).
+R E M I N D E R : " PAYO F F S " I N E X P E R I M E N T S Economists refer to the amount of money that a player in an experiment receives as as her payoffs, as we did in Chapter 2. But as we saw in the Ultimatum Game and the Public Goods Game, many people do not select the strategy with the highest possible monetary gain. We often think of payoffs as some kind of material gain ­ like the quantity of fish caught or the amount of grain harvested ­ but remember the word payoff like utility is just a number indicating what the actor will choose, and this is often not adequately measured by material gain.
+M - C H E C K We read x0 as "x prime" and x00 as "x double prime." We usually denote a bundle other than (x, y) as (x0, y0) to indicate a different composition of the underlying x and y.
+R E M I N D E R Consistency (or transitivity) requires that when considering three bundles
+(x, y), (x0, y0), and (x00, y00), if (x, y) is preferred to (x0, y0) and (x0, y0) is preferred to (x00, y00), then (x00, y00) cannot be preferred to (x, y).
+R E M I N D E R Completeness requires that all possible outcomes can be ranked. For any
+two bundles (x, y) and (x0, y0) either the person prefers (x, y) to (x0, y0) or the person prefers (x0, y0) to (x, y)) or the person is indifferent between (x0, y0) and (x, y)).
+
+D O I N G T H E B E S T YO U C A N : C O N S T R A I N E D O P T I M I Z AT I O N 105
+
+What do the utility numbers measure?
+We measure how much a person values various outcomes in two ways, either:
+· by indicating how valuable each is on some absolute scale, or
+· by simply ranking them in order.
+If Anmei compares two bundles (or outcomes), namely (x, y) and (x0, y0) with u(x, y) = 3 and u(x0, y0) = 9 there are two different statements we could make
+about Anmei, one much more informative than the other:
+· Anmei values (x0, y0) three times as much as (x, y) and
+· Anmei values (x0, y0) more than (x, y)
+In the first case above, utility is a number indicating by how much Anmei
+prefers (x0, y0) to (x, y). Utility is therefore called a cardinal measure (car-
+dinality in mathematics refers to the size of something). In Chapter 2 we represented people's preferences by the payoffs associated with particular
+bundle of games like (x0, y0) or (x, y). When we defined the expected payoffs
+to some course of action we added up the payoffs of each possible outcome (weighting them by the probability of each outcome occurring). Doing this required that utility is a measure of size. The numbers representing payoffs and expected payoffs in Chapter 2 are cardinal utilities
+In the second case the utility function gives us an ordering of better-worse for the pair of outcomes. When the utility function is measured in this way, we say that Anmei has ordinal preferences or that utility is ordinally measured. Ordinal utility says nothing about how much better the preferred outcome is.
+Instead of assigning numbers to the outcomes, in the case of ordinal utility, it would be clearer if we just assigned ranks, like instead of 1, 2, 3, 4 and so on, we used 1st, 2nd, 3rd, 4th (and in cases of indifference: for example, tied for 7th). In the cartoon figure about the Planting in Palanpur game (Figure 1.3), we listed the four possible outcomes as "Best, Good, Bad" and "Worst:" this is an example of ordinal utilities.
+If utility just an ordering, there is no way that we can say that the top ranked bundle is twice as good as the second-ranked bundle or ten times as good as the tenth-ranked bundle. Nor could we add up the ranks, saying, for example, that getting your second ranked bundle and your third ranked bundle with equal probability is as good as getting your first and fourth ranked bundle with equal probability. None of these statements make any sense. This is why when dealing with decisions involving risk, we used a cardinal measure.
+
+CARDINAL UTILITY A cardinal utility function assigns a number to each bundle, such that,
+with a cardinal utility function, u(x, y) = 10u(x0, y0) = 5u(x00, y00) means that (x, y) is preferred ten times as much as (x0, y0) which is preferred half as much as (x00, y00), and that (x, y) is preferred five times as much as (x00, y00). See also ordinal utility.
+ORDINAL UTILITY Let a b mean "a is preferred to b." An ordinal utility function ranks bundles, e.g. (x, y) (x0, y0) (x00, y00), without specifying how much (x, y) is preferred to (x0, y0) or (x0, y0) is preferred to (x00, y00). The assignment of numerical utilities representing ordinal preferences is meaningful only to express an ordering: u(x, y) > u(x0, y0) implies only that the first bundle is preferred to the second but not by how much. See also cardinal utility.
+
+106 M I C RO E C O N O M I C S - D R A F T
+
+So, for example, when we introduced the Palanpur farmers' uncertainty about when the other farmer or farmers would plant their crops, calculating their expected payoffs required adding up the values that each farmer attaches to an outcome. Because you cannot add up ordinal measures, we gave the payoffs numeric values (the numbers in the payoff matrix) representing cardinal utility.
+For some questions in economics the ordinal ­ better or worse ­ meaning of utility is all we need to understand and predict the actions that people will take. But in many situations, those involving risk and uncertainty, as we have just seen, or in evaluating the effects of differing rules of the game ­ policies to ensure competition in markets or concerning fairness, for example ­ addressed in Section 3.13, the cardinal measure is required.
+Checkpoint 3.2: Utility and payoffs
+Give examples of preferences that might lead people to act in ways that they would regret.
+
+M - C H E C K For simplicity, we generally restrict our analysis to outcomes that can be described in terms of two variables x and y, though it is straightforward to generalize this model to outcomes described by more than two variables. The actor therefore makes choices among "bundles" that combine different amounts of x and y.
+
+3.4 Indifference curves: Graphing preferences
+Indifference curves are a useful way to visualize a person's preferences. We will illustrate the concept of an indifference curve by Anmei, who is choosing among differing amounts of kilograms of coffee (x) and gigabytes of data (y).
+Every point given by the coordinates (x, y) in Figure 3.4a is a pair of the
+quantities of the two goods, called a bundle. Points a, b, and c therefore represent three bundles of differing amounts of coffee and data. Suppose that Anmei ranks the points a, b, and c equally ­ she is indifferent among the three bundles ­ then these three points lie on the same indifference curve, as shown in Figure 3.4 b. Her indifference curve represents the combinations of bundles among which she is indifferent. This means that for either bundle a ­ 8 gb of data and 2 kg of coffee ­ or bundle b ­ 4 gb of data and 4 kg of coffee
+­ or bundle c ­ 2gb of data and 8 kg of coffee, u(2, 8) = u(4, 4) = u(8, 2) = 4.
+Figure 3.4 b shows the indifference curve made up of all bundles for which Anmei's utility is equal to 4. Her indifference curve is labeled by a u with a subscript which represents the level of utility that is the same for all points on that indifference curve. Anmei prefers to consume more of both data and coffee, so she would like to be anywhere in the blue-shaded area where her utility would be greater than 4. She would rather not consume less of both data and coffee, so she would not like to be down to the area shaded in green where her utility would be less than 4.
+
+INDIFFERENCE CURVE The points making up an individual's indifference curve are bundles
+­ indicated by (x, y), (x0, y0) and so on ­
+among which the person is indifferent, so
+that u(x, y) = u(x0, y0) and so on.
+BUNDLE A bundle is a list of an individual's goods (or bads).
+
+D O I N G T H E B E S T YO U C A N : C O N S T R A I N E D O P T I M I Z AT I O N 107
+
+Gigabytes of data, y Gigabytes of data, y
+
+10
+
+10
+
+9
+
+8
+
+a
+
+7
+
+9
+
+8
+
+a
+
+7
+
+uA > 4 Better than u4A
+
+6
+
+6
+
+5
+
+4
+
+b
+
+5
+
+4
+
+b
+
+3
+
+3
+
+uA < 4
+
+2
+
+c
+
+2
+
+Worse than u4A
+
+c
+
+1
+
+1
+
+u4A = 4
+
+0 0 1 2 3 4 5 6 7 8 9 10
+Kilograms of coffee, x
+
+0 0 1 2 3 4 5 6 7 8 9 10
+Kilograms of coffee, x
+
+(a) Consumption bundles
+
+(b) An indifference curve
+
+The single indifference curve shown in Figure 3.4 b divides the space of all possible bundles of x and y into three categories: bundles that are respectively better or worse than any of the bundles making up u4 and bundles that are equally valued with a utility of 4.
+To predict the action that will be taken by a person in some given situation, we proceed in four steps:
+· Step 1: In this and the next section we use many such indifference curves ­ her indifference map ­ to evaluate all of the bundles that she could consider; we can do this because her utility function assigns a utility number to each bundle.
+
+Figure 3.4: One of Anmei's indifference curves: coffee and data. The dark green indifference curve uA4 represents all the combinations of x and y that provide Anmei (A) with the same level of utility, 4. The blue area above and to the right of Anmei's indifference curve shows combinations of the amounts of coffee and data that provide her with utility greater than 4. The light green area beneath her indifference curve shows the bundles of x and y that she values at less than 4. She would therefore rather choose a combination of x and y on the indifference curve shown than any point to the left or below it.
+
+· Step 2: In Section 3.7 we then limit the decision maker's choices to those that are feasible for her (that is, choices that are actually open for the decision maker to take).
+
+· Step 3: Putting steps 1 and 2 together, we use the evaluations in Step 1 to rank all of the feasible outcomes, showing us the one the decision-maker ranks the highest.
+
+· Step 4: We conclude that she will select the bundle identified in the previous step.
+
+Figure 3.5 shows three indifference curves, u3, u4, and u5, part of Anmei's indifference map. Anmei prefers more of both goods ­ that's why they are
+called "goods." Therefore, indifference curves to the upper right, like u5, are higher, (corresponding to the blue-shaded area in Figure 3.4). Indifference
+curves representing less preferred combinations, like u1 are to the lower left (corresponding to the green-shaded area in Figure 3.4). Of the three indifference curves plotted on the indifference map of Figure 3.5, uA3 provides Anmei with her lowest utility, whereas uA5 provides Anmei with her highest
+
+108 M I C RO E C O N O M I C S - D R A F T
+
+Gigabytes of data, y
+
+10
+
+9
+
+e
+
+8
+
+a
+
+7
+
+6
+
+5
+
+d
+
+4
+
+b
+
+u5A
+
+3
+
+2
+
+c
+
+u4A
+
+1
+
+u3A
+
+0
+
+0 1 2 3 4 5 6 7 8 9 10
+
+Kilograms of coffee, x
+
+Figure 3.5: An indifference map for kilograms of coffee, x, and gigabytes of data, y. The quantity of good x is on the horizontal axis and the quantity of good y is on the vertical axis. Three indifference curves are shown: uA3 , uA4 , and uA5 , where the rank of the utilities is uA5 > uA4 > uA3 . The constant level of utility for uA4 = 4. Points a, b, and c all lie on u2 and give Anmei the same utility of 4. Point d would give Anmei lower utility and point e would give Anmei higher utility (because every bundle is associated with some utility number, we could draw indifference curves through those points, and through any point in the figure).
+
+utility. A different person, one who valued coffee more than Anmei would have a different indifference map.
+If you think of her indifference curves as a kind of contour map, Anmei can be pictured standing somewhere on a mountain wanting to get to the top. She might, for example, be in the lower left corner of the contour map of a hill shown in Figure 3.6 wanting to reach the 800 meter plus top of the hill.
+Her utility is the altitude where she is standing, say, at a point on the 720 meters above sea level contour. Her indifference curves are the numbered contour lines on a map of the mountain she is climbing, each indicating locations on the mountain the same height above sea level.
+A map, as the quotation at the beginning of this chapter reminds us, is a representation of territory. The territory represented by Anmei's indifference map is her evaluation of all possible outcomes she might experience. An
+indifference curve runs through every point in the (x, y) plane, but just like
+maps that could not possibly show every contour line, we can plot only a selected number of them in any case.
+Anmei wants to climb as high as she can up the utility-mountain as possible, given whatever limitations she faces, including her own physical capacities and possibly impassible cliffs blocking her way. As Anmei advances up the mountain, she crosses contour lines, moving from lower to higher indifference curves. She is engaging in a constrained optimization process.
+Checkpoint 3.3: Maps, points and bundles
+Sketch your own version of the indifference map in Figure 3.5. Add two new points to your graph:
+a. A bundle, labeled f, where Anmei holds the same amount of y as she does at point b, but Anmei prefers bundle b to f.
+
+Figure 3.6: A contour map of a hill showing altitudes. Indifference curves are similar to contour lines, which are composed of all the points in the landscape which are at the same altitude. The lower left quarter of the contour map resembles the indifference map in Figure 3.5.
+
+D O I N G T H E B E S T YO U C A N : C O N S T R A I N E D O P T I M I Z AT I O N 109
+
+b. A bundle, labeled g, where Anmei holds the same amount of y as she does at bundle b, but which Anmei prefers to bundle b.
+
+c. Explain why the following is true: Consistency of preferences implies that
+
+indifference curves cannot cross. Draw two intersecting indifference curves
+
+and label points on them that enable you to show that these points violate
+
+the consistency assumption. Hint where (x, y), (x0, y0), (x00, y00) are bun-
+
+dles you will need to show something like (x, y)
+
+(x0, y0)
+
+(x00, y00) but
+
+(x, y)  (x00, y00) where  means "is not preferred to."
+
+3.5 Marginal utility and the marginal rate of substitution
+Indifference maps are used to summarize the values that an individual places on differing bundles of goods. But "goods" go beyond things like Anmei's coffee or data. Goods can be anything a person values, such as free time. (Indifference curves, as we will show later in the chapter, can also summarize the preferences people have about "bads" such as environmental degradation, that, unlike goods, are things that people would prefer to avoid).
+To see this, we will move from the choice about coffee and data, and think instead about a new person, Keiko (KAY-i-ko), who is a student making a choice about the use of her time. One decision she has already made is that she will sleep 8 hours every night, so she has 16 remaining hours of the day that she will use in some way. As Keiko progresses through her studies (no doubt fueled by coffee and using data), she has two important priorities, which she thinks of as "Living" and "Learning."
+· Learning comprises all the aspects of her life as a student that contribute to her goals of becoming an educated person and becoming qualified for an interesting career.
+· Living comprises everything else, including keeping up with friends, meeting new people, and taking care of herself.
+As there are only so many hours in a day, and because Learning takes time, Keiko faces what is called a trade-off between Learning and Living, the more she has of one the less she will have of the other. So she is facing another constrained optimization problem.
+We explain in this chapter's last but one section that constrained maximization is not a description of the the mental and emotional processes by which a decision-makers adopts one course of action over another. It is a research strategy that economists use to understand what people do, not how they come to do it. But to illustrate the method we will suppose that Keiko consciously maximizes her utility function subject to her only-24-hours-in-the-day constraint, by comparing the utility associated with each of the combinations of Learning and Living that are open to her. (OK only a student in economics would actually do this!)
+
+TRADE-OFF A trade-off is a situation in which having more of something desired (a "good") requires having less of some other "good" or more of something that the actor would like to have less of (a "bad").
+
+110 M I C RO E C O N O M I C S - D R A F T
+
+Keiko is a systematic and quantitatively oriented person, and decides to measure her Learning quantitatively with a number. In calculating her Learning, she takes account of feedback from her teachers, such as grades (marks), but also evaluates this feedback in terms of her own estimation of how much she has learned, such as how much her study is improving her writing skills and general understanding.
+Keiko measures her the amount of Living by the hours she can spend not studying, x, and the amount of her Learning by her personal rating, y.
+Key to how the preferences, beliefs and constraints approach works is the fact that for most of the things that we may value, if we have little of it, we highly value having more of it, but the more of the thing we have, the less valuable will be the next additional unit that we could have. This is called diminishing marginal utility, where the new idea here is "marginal."
+
+M-Note 3.1: The meaning of marginal
+
+The change in the value of a function ­ like utility, u(x, y) ­ when just one argument of the
+function x or y changes is a basic concept in calculus. The partial derivative of the function with respect to an argument ­ that is either ux(x, y) or uy(x, y) ­ is approximated by the effect of a small change in the argument on the value of the function, holding constant the
+other argument. If the decision-maker increases her consumption of x by a small amount Dx, then her utility becomes u(x + Dx, y)  u(x, y) + ux(x, y)Dx, so Du  ux(x, y)Dx
+
+So the marginal utility of x is ux(x, y)
+
+=
+
+Du Dx
+
+where
+
+Dx
+
+is
+
+small.
+
+Conventionally
+
+this
+
+is
+
+expressed as the effect on u of a one unit change in x.
+
+If the marginal utility of any thing that we value positively is less, the more of it that we have ­ diminishing marginal utility ­ then this means that:
+
+· the first partial derivative of the utility function with respect to good x is positive, ux > 0, (because more x is better than less) and
+· the second partial derivative of the utility function with respect to good x is negative, uxx < 0 (because as x increases, utility is increasing (ux > 0,) but at a diminishing rate, therefore giving us diminishing marginal utility).
+
+DIMINISHING MARGINAL UTILITY A property of some utility functions according to which each additional unit of a given variable results in a smaller increment to total utility than did the previous additional unit.
+F AC T C H E C K Diminishing marginal utility in economics is often based on the psychological principle of satiation of wants, which states that satisfying our wants is pleasurable, that our wants (for example hunger) are limited, when the resources allowing satisfaction of wants are limited we satisfy our most urgent wants first, and that the more satisfied is the want (by eating) the less pleasure do we derive from further satisfying the want.
+
+Diminishing marginal utility
+
+A change of one variable ­ like Keiko's Living ­ by one very small unit while holding constant everything else, including her Learning, is a marginal change, meaning the the change is very small and in only one variable. The change in utility corresponding to a marginal change in x or y is called the marginal utility of x or y. Keiko's marginal utility of Living, which we denote as ux, like her utility itself, depends on how much Living and Learning she is cur-
+rently experiencing. So we write ux as a function of x and y: ux(x, y).
+
+Similarly, Keiko's marginal utility of Learning, uy(x, y) or using the alternative
+
+notation
+
+Du(x,y) Dy
+
+,
+
+is how much her utility
+
+changes
+
+as
+
+she
+
+changes her Learning
+
+(y) by one unit, holding constant the amount of Living she does (x).
+
+Figure 3.7 shows just a slice of Keiko's preferences, namely how they vary
+
+M - C H E C K We also use the symbol for partial
+
+differentiation
+
+ u(x,y) x
+
+to
+
+mean
+
+the
+
+marginal
+
+utility of x. When it is not necessary to
+
+be reminded of the other variables (held
+
+constant) that the marginal utility depends
+
+on,
+
+we
+
+eliminate
+
+the
+
+(x, y)
+
+and
+
+just
+
+use
+
+u x
+
+or
+
+ux .
+
+D O I N G T H E B E S T YO U C A N : C O N S T R A I N E D O P T I M I Z AT I O N 111
+
+Utility, u(x, y)
+Marginal utility of Living, ux
+
+6
+
+1
+
+g 5
+
+i 4
+
+3 f
+2
+1
+
+f
+i g
+
+0
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10 12 14 16
+
+Living, x
+
+(a) Utility of Living holding Learning constant
+
+0
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10 12 14 16
+
+Living, x
+
+(b) Marginal utility of Living holding Learning constant at 3
+
+with the level of Living she experiences, when the level of Learning she ex-
+periences is fixed at y = 3. We can study the full range of her preferences
+when the values of both goods varies by looking at her entire indifference map.
+The marginal rate of substitution
+The marginal rate of substitution is the maximum amount of y that Keiko would be willing to give up to get a unit more of x. The marginal rate of substitution is also the least amount of y that Keiko would view as an adequate substitute for losing a unit of x. The marginal rate of substitution should be read as "units of good y per unit of good x."
+
+Figure 3.7: Diminishing marginal utility. In panel a, utility is an increasing and concave function of Living, meaning that the curve is positively sloped, but with a decreasing slope for higher levels of Living. The slope of the curve is the marginal utility and this is shown in panel b. The points in panel a correspond to the same points in panel b. For example, the height of point f in panel a shows the level of utility when Keiko experiences just 2 hours of Living and the slope of a tangent to the curve at that point is the marginal utility of Living. The height of point f in panel b shows the value of that slope, that is the marginal utility of increased Living when Keiko experiences 2 hours of Living.
+
+We show in M-Note 3.2 that the marginal rate of substitution is equal to the ratio of the marginal utilities of the two goods:
+
+mrs(x, y)
+
+=
+
+ux(x, y) uy(x, y)
+
+=
+
+mboxmarginalutilityo f x marginal utility of y
+
+(3.1)
+
+This is true because the amount of y that compensates Keiko for a small loss of x is the ratio of her marginal utility of x, which tells us how much she misses the x she has lost, to the marginal utility of y, which tells us how much she appreciates the compensating gain in y.
+
+The marginal rate of substitution provides us with an essential piece of infor-
+mation. Imagine that Keiko had some bundle (x, y) and she were offered the following exchange ­ trade away some of her y in order to get more x. You already know that mrs tells us the greatest amount of y that she would be willing to give up to get one more unit of x in such a trade. This why we call the mrs the willingness to pay y to get more x.
+
+MARGINAL RATE OF SUBSTITUTION The marginal rate of substitution is the negative of the slope of an indifference curve. It is also the willingness to pay for a small increase in the amount x expressed as how much of y the person would be willing to give up for this. In a model with y as money, this is called the offer price.
+
+Why does the mrs tell us her maximum willingness to pay? She would happily pay less than the mrs to get one more unit of x because this would increase
+
+112 M I C RO E C O N O M I C S - D R A F T
+
+Learning, y
+
+4
+
+Higher utility
+
+3
+
+f
+
+i
+
+2
+
+1
+
+Lower utility
+
+g u3A
+u2A
+h u1A
+
+0 2 4 6 8 10 12 14 16 18
+Living (hours), x
+
+Figure 3.8: An indifference map showing Keiko's evaluation of bundles of Living (x) and Learning y. The negative of the slope of the indifference curve is the marginal rate of substitution of Learning (y) for Living (x), mrs(x, y), capturing the trade-offs of Keiko's preferences for the two goods. The lettered points correspond to the same letters in Figure 3.7. At f, Keiko has a high level of Learning (3) and little Living (2 hours) and she is willing to give up a lot of Learning to get more Living (the slope is steep at point f, therefore her marginal rate of substitution is large). At h, Keiko has a low level of Learning (0.82) and a lot of Living (14 hours) and she is willing to give up very little Learning to get more Living (her slope is relatively flat at point h, therefore her marginal rate of substitution is small). Keiko has a Cobb-Douglas utility function with u(x, y) = x0.3y0.7.
+
+her utility (put her on a higher indifference curve). But she would not pay more. This is why we call the mrs the maximum willingness to pay.
+This is shown in Figure 3.8. At point f, Keiko spends 14 hours studying and attending classes and has 2 hours left over for Living, so, a lot of Learning and not so much Living. As a result her indifference curve at point f is steep. The largest amount of Learning that Keiko would be willing to give up in order to get one more unit of Living is the negative of the slope of her indifference curve at that point (0.64 at point f), which is the marginal rate of substitution at
+that point or mrs(x, y).
+You can see from Equation 3.1 that Keiko's indifference curve is steep (large
+mrs) because the marginal utility of additional Living (ux(x, y)) is large (she has little Living) and the marginal utility of Learning (ux(x, y)) is small (she has
+a lot of Learning).
+Comparing points f and g, we can see that if she were to have the same level of Learning (3) but much more Living (14 hours) we already know from the same points in Figure 3.7 b that her marginal utility of Living would be lower. So her indifference curve would be flatter, meaning that she would be unwilling to give up as much Learning to get another hour of Living than she was at point f when she had just two hours of Living.
+The same reasoning shows (and Figure 3.8 confirms) that Keiko's willingness to pay (in units of good y) for another unit of good x increases as she has more of good y (compare the slopes at points h and g).
+
+M - C H E C K When considering two goods ­ things that people value positively, like data and coffee, or living and learning ­ the indifference curves are downward-sloping. That is, they have a negative slope. The negative of the slope of an indifference curve is just its slope with the sign changed.
+
+D O I N G T H E B E S T YO U C A N : C O N S T R A I N E D O P T I M I Z AT I O N 113
+
+Before going on to the constraints facing Keiko we will now show how what you have learned so far can be used with an explicit mathematical function.
+
+M-Note 3.2: The mrs is the ratio of marginal utilities
+
+To derive the marginal rate of substitution using calculus, we use the method of total differ-
+entiation (covered in the Mathematics appendix). First of all, along an indifference curve
+the amount of utility is a constant, u(x, y) = u¯.
+
+So, to find the slope of the indifference curve we ask what changes in the quantities of x and y (one increasing the other decreasing) are consistent with u(x, y) not changing. This is what total differentiation tells us. The reason is that when we totally differentiate the utility function with respect to its arguments we get the change in Keiko's utility as the sum of the changes due to changes in her consumption of each good. The indifference curve is defined as the changes in x and y such that the change in Keiko's utility is zero.
+
+So we set the total derivative of of her utility function equal to zero:
+du = ux(x, y)dx + uy(x, y)dy = du¯ = 0
+
+(3.2)
+
+This equation says that since her utility is constant on an indifference curve by definition, the change in her utility is zero.
+
+Recall, too, that the derivative of a constant like u¯ is 0.
+
+We can now re-arrange equation 3.2 to find the mrs(x, y):
+
+Subtract uy(x, y)dy from both sides
+
+uy(x, y)dy = ux(x, y)dx
+
+Divide by uy(x, y) and dx mrs(x, y) =
+
+dy dx
+
+=
+
+ux(x, y) uy(x, y)
+
+(3.3)
+
+As a result, the negative of the slope of the indifference curve
+
+dy dx
+
+is
+
+equal
+
+to
+
+the
+
+ratio
+
+of
+
+the
+
+marginal
+
+utilities
+
+of
+
+the
+
+goods,
+
+ux uy
+
+(x,y) (x,y)
+
+.
+
+But
+
+the
+
+negative
+
+of
+
+the
+
+slope
+
+of
+
+the
+
+indifference
+
+curve is the marginal rate of substitution of y for x, so we have shown that the marginal
+
+rate of substitution is the ratio of the marginal utilities, and correspondingly that the
+
+slope of an indifference curve
+
+=
+
+ux(x, y) uy(x, y)
+
+(3.4)
+
+The mrs has the dimensions of an amount of good y per unit of good x because the marginal utility of y has the dimensions utility per unit y, and the marginal utility of x has the dimensions utility per unit x.
+
+3.6 Application: Homo economicus with Cobb-Douglas utility
+In Chapter 2, we saw that people may have some combination of preferences including self-regarding and other-regarding in its many forms: altruistic, fair-minded, reciprocal, and spiteful. Representing these preferences mathematically requires knowledge of what Keiko values including:
+· How important to her are Learning and Living?
+· Is her own Living and Learning all she cares about, or does she value other people's Living and Learning.
+
+114 M I C RO E C O N O M I C S - D R A F T
+
+In this section we study the preferences of a self-regarding Keiko: she does not care about the Living and Learning of others. We use what is called a Cobb-Douglas function utility function to illustrate how we can model the difference it makes what value she places on the two elements in her choice bundle.
+
+Here is a Cobb-Douglas utility function:
+u(x, y) = xa y(1 a)
+
+(3.5)
+
+The size of a, which is a positive number less than 1, is a kind of baseline measure of how much the individual values x independently of how much x
+and y she has. For example, we show in Chapter 7 that the fraction of a utilitymaximizing person's budget that will be spent on good x is a. The fraction spent on y will be 1 a. So if Keiko's a is greater than her friend's, then we would expect to see Keiko consuming more of the x good.
+
+When a person's preferences are described by a Cobb-Douglas utility function then as long as the Keiko has some of each good, x > 0 and y > 0, the following will be true:
+· her utility u(x, y) > 0 is positive, and
+
+· her utility increases as she consumes more of either good x or y, meaning that the marginal utility of both goods is positive.
+
+Because the marginal utilities for both goods is positive, Keiko will select a bundle with more of each over one with less of either if both bundles are available to her.
+
+Here is an example of a Cobb-Douglas utility function where a consumer,
+Anmei from earlier, has a stronger preferences for y than for x because a = 0.4 and (1 a) = 0.6.
+
+H I S TO RY The Cobb Douglas function is named after the economist and later U.S. Senator Paul Douglas and his then Amherst College colleague, mathematician and economist Charles Cobb, who jointly came up with the function in 1928 for an econometric study of the contributions of labor and capital goods to output in the U.S. economy.
+
+u(x, y) = x0.4y0.6
+
+(3.6)
+
+Let's assume that x is kilograms of coffee and y is gigabytes of data as we did earlier. The values of a and (1 a ) show that Anmei has a stronger preference for data than for coffee because a = 0.4 < 0.6 = (1 a ).
+
+M-Note 3.3: Cobb-Douglas diminishing marginal utility
+
+How do we check that marginal utility is diminishing? Let us examine the marginal utility of Living in the Cobb-Douglas utility function, assuming x > 0, y > 0.
+
+Utility function u(x, y) = xa y1 a
+
+(3.7)
+
+To find the marginal utility of x we differentiate Equation 3.7 with respect to x:
+
+Marginal utility of x
+
+ux
+
+=
+
+u x
+
+= axa 1y1 a
+
+(3.8)
+
+M - C H E C K In M-Note 3.4 we show that if
+
+Anmei is consuming the same amount of x
+
+and y then the maximum number of units
+
+of y that she would be willing to pay for
+
+one
+
+unit of
+
+x
+
+is
+
+1
+
+a a
+
+.
+
+So
+
+if a
+
+=
+
+0.4
+
+she
+
+her
+
+willingness
+
+to
+
+pay
+
+for
+
+a
+
+unit
+
+of
+
+x
+
+would
+
+be
+
+0.4 0.6
+
+or two-thirds of a unit of y.
+
+D O I N G T H E B E S T YO U C A N : C O N S T R A I N E D O P T I M I Z AT I O N 115
+
+Because 0 < a < 1, the marginal utility of x is positive, that is ux > 0. Why? x and y are both positive, as is the parameter a, as is the exponent 1 a. The exponent a 1 < 0,
+but this simply means that x can be read as being in the denominator of the marginal utility. For example, for a = 0.6, the marginal utility of x is:
+
+ux
+
+=
+
+0.6
+
+y0.4 x0.4
+
+=
+
+a
+
+y1 x1
+
+a a
+
+(3.9)
+
+You can see from Equation 3.9 that the larger is x the smaller will be the marginal utility
+
+of x. You already saw this in Figure 3.7 (in fact, we used a Cobb-Douglas utility function
+
+to make the indifference curves in that figure). To confirm that the marginal utility of x is
+
+diminishing, we need to differentiate the marginal utility of x with respect to x. That is,
+
+we
+
+need
+
+to
+
+find
+
+the
+
+second
+
+derivative
+
+of
+
+the
+
+utility
+
+function
+
+with respect
+
+to
+
+x,
+
+ 
+
+2u x2
+
+.
+
+So
+
+we
+
+partially differentiate Equation 3.8 with respect to x.
+
+Change in ux
+
+2u  x2
+
+=
+
+(a)(a 1)x(a 2)y(1 a) < 0
+
+Because 0 < a < 1, a 1 < 0. Therefore, a (a 1) < 0. Therefore, the rate of change
+
+of the marginal utility with respect to x is negative (marginal utility is diminishing), or what
+
+is the same thing: utility increases at a decreasing rate as x increases.
+
+Checkpoint 3.4: Positive utility for x and y
+Consider Anmei's consumption of coffee and data as described by Equation 7.19.
+a. Sketch a map of three indifference curves for Anmei based on her utility function.
+b. Confirm that any bundle with positive consumption of coffee and data (x > 0 and y > 0), is assigned a positive utility.
+c. How would you confirm whether consuming one more coffee or data increases Anmei's utility?
+d. * If both coffee and data increase her utility, how does Anmei's marginal utility change with a change in her consumption of coffee or data? (Hint: Mathematically, think through how you would find a "change in a change").
+
+M-Note 3.4: Cobb-Douglas / Coffee-Data
+
+We derive the marginal rate of substitution for the general Cobb-Douglas utility function.
+u(x, y) = xa y(1 a) = u¯
+
+To find the marginal rate of substitution, we need the marginal utilities of x and y. Consequently, we differentiate the utility function with respect to x to find ux, the marginal utility of coffee, and with respect to y to find uy, the marginal utility of data.
+
+ux = axa 1y(1 a) uy = (1 a )xa y(1 a) 1
+
+(3.10) (3.11)
+
+We substitute the marginal utilities (Equation 3.10 and 3.11) into the definition of marginal
+rate of substitution, mrs(x, y) (Equation 3.4) to find the formula for the marginal rate of
+
+116 M I C RO E C O N O M I C S - D R A F T
+
+substitution.
+
+mrs(x, y) = dy dx
+
+=
+
+ux(x, y) uy(x, y)
+
+=
+
+axa 1y(1 a) (1 a )xa y(1 a) 1
+
+Factor out x 1 and y 1
+
+=
+
+axa x 1y(1 a) (1 a )xa y(1 a)y 1
+
+Remember that x
+
+1
+
+=
+
+1 x
+
+and
+
+1 y1
+
+= y and cancel the terms xxaa
+
+and
+
+y(1 y(1
+
+a)
+a) :
+
+mrs(x, y)
+
+=
+
+ay (1 a) x
+
+(3.12)
+
+Equation 3.12 shows that if Anmei is consuming the same number of gigabytes of data
+
+and
+
+kilograms
+
+of
+
+coffee
+
+(say,
+
+5
+
+each) she
+
+will
+
+evaluate
+
+them
+
+at ratio
+
+(1
+
+a a
+
+)
+
+.
+
+The prefer-
+
+ences for each good (a and (1 a )) determines the ratio at which Anmei is willing to
+
+trade data for coffee, together with the amount of coffee and data she is actually con-
+
+suming. You can see that if Anmei had a different level of current consumption of the two
+
+goods, say, more x and less y her mrs would be lower.
+
+Checkpoint
+
+3.5: Diminishing mrs as
+
+y x
+
+falls
+
+Go back to Figure 3.5 and explain why the mrs is lower at point c than at point b, and lower at point d than at point b. Can you say if the mrs is lower at point a than at point d? Or at point e than at point a? Equation 3.12 may help you answer this question.
+
+3.7 The feasible set of actions: Opportunity costs and the mrt
+Keiko's preferences and the resulting utility numbers she assigns to each bundle are a reflection of what she wants to achieve, what her goals are. But her preferences do not tell us what she can feasibly obtain. To understand the bundles that are feasible for her, we need to know how she obtains Learning from spending her time studying. Remember, Keiko sleeps 8 hours every night and she is not considering changing that. Her choice is what she will do with the 16 hours in the rest of the day.
+
+A production function: How studying produces Learning
+The relationship between the time Keiko spends studying and the amount of learning she achieves is given by an equation that shows for the time (in
+hours) spent studying (h), how much Learning (y) results, y = f (h). This is
+a production function ­ a mathematical description of the relationship between the quantity of inputs devoted to production on the one hand and the maximum quantity of output that the given amount of input allows. Production functions are more often used to study things other than success in course-
+
+PRODUCTION FUNCTION A production function is a mathematical description of the relationship between the quantity of inputs devoted to production on the one hand and the maximum quantity of output that the given amount of input allows.
+
+D O I N G T H E B E S T YO U C A N : C O N S T R A I N E D O P T I M I Z AT I O N 117
+
+4 yf = 3.75
+yi = 3
+
+Studying to Learning
+
+g
+
+production function
+
+y = f(h)
+
+i
+
+4 yf = 3.75
+yi = 3
+
+g
+
+i
+
+Infeasible
+
+Learning, y Learning, y
+
+ye = 1.75
+
+e
+
+1
+
+ye = 1.75 1
+
+e
+Feasible set
+Feasible frontier
+
+0 2 4 6 8 10 12 14 16
+Studying (hours), h
+(a) The production of Learning by studying
+
+0 2 4 6 8 10 12 14 16
+Living (hours), x = 16 - h
+(b) The feasible frontier of Living and Learning
+
+work, that is outputs such as meals served, lines of code written, or bushels of corn harvested.
+Keiko's production function is depicted in Figure 3.9 a. From the figure you can see that for Keiko to obtain Learning she must spend hours (h) studying. Up to a maximum of 16 hours she can increase her learning by studying more. But starting from studying just a few hours, doubling the amount of studying she does does not double her Learning. We can see this by comparing points
+e0, i0, and g0. Four hours of study (h = 4), gets Keiko y = 1.75 points of Learning, as shown by point e0. But doubling her studying to 8 hours gets her
+just 3 units of Learning, far from a proportional increase. This is because if she has just 4 hours she focuses on the really important key points, while if she has 8 hours she gets into the details, which add to her Learning, but not as much as the key ideas.
+Keiko's learning production function illustrates an important common economic phenomenon: diminishing marginal productivity. The marginal productivity of hours studying is the effect of a small increase in studying time on the resulting Learning. As you can see from the fact that the production function in Figure 3.9 is flatter for more hours of study, marginal productivity of studying hours is therefore diminishing.
+
+Figure 3.9: Production of Learning by studying
+
+and the feasible frontier of Living and Learning. Points e0, i0 and g0 on the production function show
+
+combinations of hours of study and the maximum
+
+amount of Learning she could accomplish in that time. Point i0, for example, shows that if she studies
+
+8 hours she could attain learning equal to 3 (she
+
+could also attain less if she did spent the "studying"
+
+time texting with friends). The amount of Living
+
+that she can have is her 16 hours minus the time
+
+she spends learning, i.e. x = 16 h, as shown in
+
+panel b. Panel b shows the feasible frontier (dark
+
+green curve), which is the border of the feasible
+
+set (shaded in green). The feasible frontier is
+
+just a flipped version of her production function.
+
+Points beyond the feasible set (shaded in blue)
+
+are infeasible given the number of hours in the
+
+day and her Learning production function. In this
+
+figure the equation for the feasible frontier is given
+
+by: y = 4
+
+1 64
+
+x2 .
+
+The
+
+equation
+
+for
+
+the
+
+production
+
+function is given by: y = 4
+
+1 64
+
+(16
+
+h)2,
+
+or simplifying: y = h x = 16 h).
+
+1 2
+
+h 64
+
+(Remember
+
+This is similar to diminishing marginal utility. Just as the person satisfies her most pressing needs if she has very limited expenditures, but can turn to frills if she has more to spend, Keiko focuses on the essential points if her study time is limited but can turn to the examples and further illustrations if she has
+
+118 M I C RO E C O N O M I C S - D R A F T
+
+more time to spend.
+
+M-Note 3.5: An education production function
+
+The education function relating hours of studying to the resulting learning that we used to
+
+draw Figure 3.9 a is:
+
+production function
+
+y = f (h)
+
+=
+
+1 h2
+
+ h 64
+
+(3.13)
+
+The marginal product of time spent studying is the derivative of y with respect to h:
+
+marginal product of studying
+
+yh
+
+=
+
+dy dh
+
+=
+
+1 2
+
+h 32
+
+(3.14)
+
+So you can see that when studying time is limited, the marginal product is almost one-half;
+and with more study time the marginal product is less. When h = 12, for example, you can
+see from Equation 3.14 that the marginal product of studying time is only one-eighth.
+
+Checkpoint 3.6: The education production function
+
+a. Confirm that she will attain 4 units of Learning if she studies 16 hours.
+
+b. * If she studies 16 hours what will be the marginal product of her studying time?
+
+c. Imagine that at some point in the semester her education production function
+
+changed to be f (h)
+
+=
+
+2h(
+
+1 2
+
+h 64
+
+).
+
+Draw
+
+the
+
+new
+
+production
+
+function
+
+and
+
+say what changes in her situation might explain this change.
+
+The marginal rate of transformation and opportunity cost
+Because her waking hours are just 16 and Keiko defines Living as her time not studying, she has two ways to use her time ­ studying or not studying, so:
+Living = 16 hours hours of studying
+This makes it clear that
+· She has just one decision to make not two: if she chooses hours of studying, that also determines her hours of Living.
+· Because more time living means less time studying this means that the opportunity cost of living more is some amount of learning less.
+To understand what this opportunity cost is see Figure 3.9 b, showing the feasible set of outcomes that Keiko might experience. The feasible frontier shown there is the mirror image of the production function in the panel a. The horizontal axis is no longer studying hours but instead 16 minus studying hours, which is the amount of Living she can have for each level of studying she chooses.
+At e, Keiko can study for 4 hours, which means she is Living for 12 hours at e and her Learning is 1.75. Or (point g) she could study for 12 hours and have
+
+D O I N G T H E B E S T YO U C A N : C O N S T R A I N E D O P T I M I Z AT I O N 119
+
+learning of 3.75. All of the points like e, g, i, and the rest of the feasible frontier are choices that she could make.
+
+The feasible set is the area bounded by the feasible frontier and the x and y axes composed of all combinations of Living and Learning that she could experience.
+
+Turning to Figure 3.10 we can also contrast two points on the feasible frontier, such as points a and b. At point a, Keiko spends 13 hours studying and has 3 hours left over for Living, with the result of a lot of Learning and not so much Living. At point b, Keiko spends 8 hours studying and attending classes and has 8 hours left over for Living, but her Learning is lower than at point a. The difference between the two points on the feasible frontier illustrates another trade-off that is central to Keiko's choice: more living means less learning. And vice versa.
+
+If we apply the same reasoning to very small differences of the two goods, we
+
+can see that the opportunity cost in less learning that is required to get more
+
+living is the negative of the slope of her feasible frontier at that point, namely
+
+Dy Dx
+
+.
+
+This
+
+is
+
+called
+
+the
+
+marginal
+
+rate
+
+of
+
+transformation
+
+or
+
+mrt(x, y).
+
+The marginal rate of transformation is the smallest amount of y that Keiko has to give up to get a small unit more of x.
+
+The mrt is therefore Keiko's opportunity cost of x in terms of y or the minimum amount of y she has to sacrifice in order to get a small unit of x. The interpretation of the mrt as the opportunity cost of the x-good plays a major role in the reasoning in this book.
+
+Opp. cost of x
+
+= - Slope of feasible frontier =
+
+Dy Dx
+
+=
+
+mrt (x,
+
+y)
+
+The marginal rate of transformation should be read as "units of good y per unit of good x." What is being transformed into what? Free time is being given up and devoted to studying that is transformed into Learning. The marginal rate of transformation is determined by how productive are the hours of schooling she spends. You already know that the marginal product of study time declines the more she studies.
+As a result the feasible set is steep when she is devoting little time to studying, but as she studies more ­ moving upwards and to the left along the feasible set ­ the additional learning associated with more studying (and more Living given up) declines.
+This is also why the opportunity cost of studying less increases as you move downward and to the right long the curve. At point a where Keiko is studying most of the time ­ 13 hours ­ she is reading every page of the assigned readings twice, doing all of the practice problems and even reading the footnotes.
+
+FEASIBLE SET All of the combinations of the things under consideration that a decisionmaker could choose, given the economic, physical, or other constraints. FEASIBLE FRONTIER The boundary of a feasible set. In the case of two goods, it is the curve made of points that defines the maximum feasible quantity of one good for a given quantity of the other.
+MARGINAL RATE OF TRANSFORMATION The marginal rate of transformation is the quantity of some good that must be sacrificed to acquire more of another good. See opportunity cost, 3.2.
+H I S TO RY The 1975 collection of essays by Nobel Laureate Milton Friedman titled There's No Such Thing as a Free Lunch: Essays on Public Policy popularized the idea that there is an opportunity cost to having more of anything that we value.2
+
+120 M I C RO E C O N O M I C S - D R A F T
+
+Cutting back a bit on her studying is not going to cost her much in terms of learning.
+In this case, as shown in Figure 3.10, her feasible frontier exhibits an increasing marginal rate of transformation. Her feasible frontier starts off with low opportunity costs at point a, but her marginal rate of transformation increases as she moves along the feasible frontier ­ studying less ­ toward having more x and less y. This steepening of the frontier reflects the increasing opportunity cost of free time. In this case, Keiko has to sacrifice more y for x the more x and the less y she has.
+
+M-Note 3.6: A Living-Learning feasible frontier
+
+An equation for the feasible frontier has the form:
+
+Feasible frontier y = y¯ c(x)
+
+(3.15)
+
+The parameter y¯ is the maximum amount of y when x = 0, the y-intercept of the feasible frontier. The term c(x) is the cost of x, that is, how many units of y (Learning) one must give up to get the value of x (Living) that she chooses.
+
+We get the equation for the feasible frontier in Figure 3.9 b for Keiko's Living, x, and Learning, y, by starting with the education production function, Equation 3.13:
+
+Production function
+
+y = f (h)
+
+y
+
+=
+
+1 h2
+
+ h 64
+
+And then placing h in terms of x using h = 16 x and simplifying yields:
+
+y
+
+=
+
+4
+
+x2 64
+
+(3.16)
+
+The negative of the slope of the feasible frontier,
+
+dy dx
+
+=
+
+1 32
+
+x.
+
+This
+
+is
+
+the
+
+amount
+
+of
+
+x
+
+that
+
+she has to give up in order to get one more unit of y. The opportunity cost of additional
+
+Living is greater the more living she is doing because the more she "lives" the less she
+
+studies, and when she is studying just a few hours the marginal product of studying is
+
+high, and so studying less reduces Learning a lot.
+
+Checkpoint 3.7: Increasing opportunity costs
+
+Using Figure 3.9, we saw that the marginal rate of transformation was the
+
+negative of the slope of the feasible frontier. Suppose the feasible frontier is
+
+described by the equation:
+
+y=4
+
+1 64
+
+x2
+
+mrt =
+
+dy dx
+
+=
+
+1 32 x
+
+a. Find Keiko's marginal rate of transformation for each of the following: i. Four hours of Living ii. Eight hours of Living iii. 12 hours of Living
+
+D O I N G T H E B E S T YO U C A N : C O N S T R A I N E D O P T I M I Z AT I O N 121
+
+What pattern do you observe with the marginal rate of transformation as her hours of Living increase? b. What is her marginal product of hours of study at g0?
+
+Learning, y
+
+4
+
+a
+
+b
+
+3
+
+mrs(x, y) = mrt(x, y)
+
+u3A
+
+2
+
+c
+
+u2A
+
+1
+
+u1A
+
+Feasible frontier
+
+0 2 4 6 8 10 12 14 16 18
+Living (hours), x
+
+Figure 3.10: The mrs = mrt rule for two goods:
+Living and Learning. Keiko's feasible frontier for
+Living and Learning is shown in green. Three of her indifference curves are shown by uA1 , uA2 and uA3 in blue (uA3 > uA2 > uA1 ). At point b, her utility is maximized: the marginal rate of substitution equals
+the marginal rate of transformation by choosing to
+spend 8 hours Living which gives her a subjective
+Learning score of 3.
+
+3.8 Constrained utility maximization: The mrs = mrt rule
+By combining the insights of feasible frontiers and indifference curves ­ as in Figure 3.10 ­ we can understand what a constrained utility-maximizing choice by Keiko would be.
+· Constraints: She can choose some point on or within her feasible frontier given by her production function and the limits of her time.
+· Preferences: From among the points in her feasible set, she will prefer the bundle with the highest utility, meaning on the highest indifference curve.
+To understand Keiko's constrained utility-maximizing problem, we con-
+trast points a, b, and c in Figure 3.10. A bundle (x, y) is constrained utility-
+maximizing if there is no other point in the feasible set with a higher utility.
+Point a is on Keiko's feasible frontier and lies on indifference curve uA1 . But, a is not constrained utility-maximizing because Keiko could increase her utility by increasing her Living time and decreasing her Learning, by moving along the feasible frontier to the southeast. By similar reasoning point c cannot be the highest indifference curve she can reach.
+Keiko's constrained utility-maximizing point is b in Figure 3.10, the point on the feasible frontier that is on the highest indifference curve. We label it b because
+
+R E M I N D E R A bundle (x, y) is constrained
+utility-maximizing if there is no point in the feasible set that is on a higher indifference curve.
+
+122 M I C RO E C O N O M I C S - D R A F T
+
+it is the point where Keiko does the best she can.
+
+Figure 3.10 suggests a useful way to think about Keiko's constrained utilitymaximization problem. In the figure, we see that the constrained utilitymaximizing bundle is the point where Keiko's indifference curve is tangent to her feasible frontier. This means the indifference curve and the feasible frontier have the same slope at the constrained utility-maximizing point.
+
+The slopes of the indifference curve and the feasible frontier express trade-
+offs between the two goods. This is the basis of what we call the mrs = mrt
+rule.
+
+M-Note 3.7: Equating mrs to mrt to find the constrained maximum
+
+Suppose Keiko's utility for Living (x) and Learning (y) is described by a Cobb-Douglas utility function with parameter a = 0.4 and (1 a ) = 0.6:
+u(x, y) = x0.4y0.6
+
+We find her marginal rate of substitution by using the marginal utilities (see M-Note 3.4 if
+
+you
+
+have
+
+difficulty
+
+here)
+
+and
+
+substituting
+
+them
+
+into
+
+the
+
+equation
+
+mrs(x, y)
+
+=
+
+uAx uAy
+
+uAx = 0.4(xA) 0.6(yA)0.6 uAy = 0.6(xA)0.4(yA) 0.4
+
+mrs(x, y)
+
+=
+
+uAx uAy
+
+=
+
+2y 3x
+
+(3.17)
+
+Suppose her feasible frontier is the one we used in making the figures:
+
+y=4
+
+1 64
+
+x2
+
+Keiko's constrained maximum must be on her feasible frontier. We find her marginal rate of transformation by differentiating y with respect to x:
+
+dy dx
+
+=
+
+mrt(x, y)
+
+=
+
+1 32 x
+
+To find Keiko's constrained maximum, we use the two expressions above for mrs and mrt, equating them to find a point on the feasible frontier consistent with the mrs = mrt rule:
+
+mrs(x, y)
+
+=
+
+2 3
+
+y x
+
+=
+
+1 32 x
+
+=
+
+mrt(x, y)
+
+(3.18)
+
+Then
+
+multiplying
+
+through
+
+by
+
+3 2
+
+x:
+
+y
+
+=
+
+3 64
+
+x2
+
+=
+
+4
+
+1 64
+
+x2
+
+x2 = 64
+
+x=8
+
+y=3
+
+Keiko spends 8 hours on Living, studies 8 hours, and achieves a Learning level of 3.
+
+Doing the best you can: The mrs = mrt rule
+Summarizing the results so far, in Figure 3.10:
+
+D O I N G T H E B E S T YO U C A N : C O N S T R A I N E D O P T I M I Z AT I O N 123
+
+1. The negative of the slope of the feasible frontier is the opportunity cost of getting a unit more more of the x-good, in terms of the amount of the y-good foregone.
+2. The negative of the slope of an indifference curve is a measure of the person's willingness to pay for a little more of the x-good in terms of how much of the y-good she would be willing to give up to get an additional unit of the x-good.
+Using these two statements we can see why point a in Figure 3.10 could not be the utility-maximizing bundle. The indifference curve is steeper than the feasible frontier, so the value of getting more Living (by studying less) exceeds the associated opportunity cost in foregone Learning (point 2 above is greater than point 1). So she could do better by giving up some Learning in favor of more Living.
+The opposite is true at point c: the feasible frontier is steeper than the indifference curve. By giving up a unit of Living (studying more) she would get a substantial increase in Learning (that is what the steep feasible frontier means). Giving up a unit of Living could be compensated by a modest increase in Learning (that is what the flatter indifference curve means). So the benefits of giving up some Living in return for more Learning outweigh the cost. So any point like a and c where the feasible frontier and the indifference curve intersect cannot be the constrained utility maximizing output bundle.
+This gives us the mrs = mrt rule: The utility-maximizing output bundle is a
+point where
+Slope of feasible frontier = Slope of indifference curve
+which requires that:
+Marginal rate of transformation (mrt) = Marginal rate of substitution (mrs)
+Or, what is the same thing,
+Opportunity cost of x = Willingness to pay for x
+
+REMINDER: mrs AND mrt
+· mrs, the marginal rate of substitution, is the negative of the slope of an indifference curve.
+· mrt , the marginal rate of transformation, is the negative of the slope of the feasible frontier.
+
+The rule expresses a simple and true idea: if the opportunity cost of something is less than your willingness to pay you should choose more of it (if you can) and if the opportunity cost is greater than your willingness to pay, you should choose less of it (if you can).
+But there are cases in which the utility-maximizing bundle is not a tangency of the feasible frontier and an indifference curve:
+· It may be that an indifference curve is steeper than the feasible frontier, but there is no way to get more of the x-good. In this case the slope of feasible frontier does not measure the opportunity cost of getting more of the x-good; that is impossible (its cost is infinite). You will find an example
+
+124 M I C RO E C O N O M I C S - D R A F T
+
+of this situation below: The utility-maximizing bundle at point b Figure 3.14
+­ called a corner solution ­ there the mrs = mrt rule does not work.
+· We show in M-Note 3.8 that there are conditions under which a bundle
+such that mrs = mrt can also be a minimum not a maximum. We provide
+an example of this in Chapter 6.
+
+Checkpoint 3.8: Changes in Keiko's preferences
+
+With a = 0.6 and (1 a ) = 0.4, so that she values Living more than Learning
+
+and
+
+recalling
+
+that
+
+the
+
+mrs
+
+=
+
+ay (1 a)x
+
+and
+
+mrt
+
+=
+
+x 32
+
+,
+
+find
+
+Keiko's
+
+utility-maximizing
+
+choice with these new preferences.
+
+M-Note 3.8: When the mrs = mrt rule fails
+
+The rule can fail to identify the constrained utility maximum under two conditions: when the maximum is a corner solution (so the rule is not satisfied) and when the rule is satisfied at a minimum rather than a maximum. Positing a case with diminishing opportunity cost of obtaining one good in terms of the other good foregone will illustrate both cases.
+
+Setup: Assume that a person's utility varies with the amount of goods x and y: u(x, y) = x + y
+
+and the maximum feasible amount of good y is a function of good x: y(x) = (1 x)2
+
+(3.19)
+
+The rule may select a minimum, not a maximum. The marginal rate of substitution and marginal rate of transformation are:
+
+mrs(x, y) = ux = 1 uy
+
+mrt(x, y) =
+
+dy dx
+
+=
+
+2(1 x)
+
+Equating the mrs and mrt 2(1 x) = 1
+
+1 So, x = 2
+
+Using Equation 3.19
+
+y
+
+=
+
+1 4
+
+Note
+
+that using these
+
+values,
+
+the
+
+utility
+
+is
+
+u
+
+=
+
+3 4
+
+.
+
+Alternatively,
+
+we
+
+could
+
+set
+
+(x, y)
+
+=
+
+(1, 0),
+
+or (x, y) = (0, 1): both allocations are in the feasible set. In both cases, u = 1, which is
+
+higher than the one that we have reached using the condition mrs = mrt.
+
+The condition mrs = mrt will not give the utility maximum if the second order condition is
+violated: the second derivative of the utility function with respect to the variables must be negative. Let's calculate it, replacing Equation 3.19 into the utility function:
+
+u = x + (1 x)2
+
+
+
+du dx
+
+=
+
+ux
+
+=
+
+1 2(1 x)
+
+d dx
+
+du dx
+
+= uxx
+
+=
+
+2>0
+
+The utility maximum may be a corner solution. In the example the utility maximums at both
+x = 1 and y = 1 are corner solutions (only one of the goods is consumed).
+
+D O I N G T H E B E S T YO U C A N : C O N S T R A I N E D O P T I M I Z AT I O N 125
+
+Learning, y Learning, y
+
+Higher
+
+u3A
+
+utility
+
+u2A
+
+u1A
+
+4
+
+c
+
+3
+2 a
+1
+
+b
+Lower utility
+
+u3A 4
+
+3 mrs(x, y) = mrt(x, y)
+
+b
+
+2 a
+1
+
+u2A
+
+u1A
+
+c
+
+Feasible frontier
+
+0 2 4 6 8 10 12 14 16 18
+Studying (hours = 16 - Living), h
+(a) Indifference curves of Learning and studying
+
+0
+
+2
+
+4
+
+6
+
+8 10 12 14 16 18
+
+Studying (hours = 16 - Living), h
+
+(b) The utility-maximizing choices with bads
+
+There are also cases in which rule cannot be applied. Where either the indifference curves or the feasible frontier are not smooth but instead are kinked (are not differentiable), the derivatives on which the mrs and mrt are based will not exist at the kinks.
+Trade-offs between goods and bads
+In many situations it is easier to understand decisions in terms of a trade-off between a good and a bad rather than a trade-off between two goods. Recall that a bad is something that you would prefer to have less of, such as working harder than is comfortable or safe.
+For example, Keiko might think of her decision in terms of a trade-off between
+her time studying time that she does not enjoy, h = 16 x, and her Learning, y. The more time Living the better for Keiko, therefore x is a good. The more time studying the worse for Keiko, therefore h is a bad. But as before since x = 16 h, choosing (h, y) to maximize utility, u(16 h, y) is the same thing as choosing x to maximize utility u(x, y). These are just different ways of
+posing the same problem.
+Figure 3.11 shows Keiko's indifference curves and feasible frontier plotted in terms of study time, h and Learning y. Her indifference curves slope upward because hypothetically holding constant the level of Learning, an increase in studying, h, lowers Keiko's utility. So an increase in her study time requires an increase in Learning, y to compensate, in order to stay at the same level of utility. Utility increases as we move to the northwest and decreases as we
+
+Figure 3.11: The mrs = mrt rule: Keiko's problem of choosing (h, y) when h = 16 x = time
+
+studying, is a bad. Studying time, h is plotted on
+
+the horizontal axis, and Keiko's Learning, y is
+
+plotted on the vertical axis. Keiko's feasible frontier
+
+is shown in green in the right-hand panel. Three
+
+of her indifference curves are shown by u1, u2 and
+
+u3 in blue in both panels. The points a, b, and c
+
+are the same as in Figure 3.10. Keiko maximizes
+
+her utility at the point on her feasible frontier on
+
+the highest indifference curve, that is, at point b,
+
+choosing to spend 8 hours on Living and 8 hours
+
+on Learning. The production function, that is, the
+
+feasible
+
+frontier
+
+is
+
+y
+
+=
+
+s(
+
+1 2
+
+s 64
+
+).
+
+126 M I C RO E C O N O M I C S - D R A F T
+
+move to the southeast in this plot.
+
+Similarly, Keiko's feasible frontier slopes upward, because an increase in study
+
+time, h, leads to more Learning, y. This is her "learning production function"
+
+introduced earlier. So the slope of the feasible frontier is the marginal produc-
+
+tivity
+
+of
+
+studying
+
+time
+
+or
+
+Dy Dh
+
+and
+
+this
+
+is
+
+also
+
+the
+
+marginal
+
+rate
+
+of
+
+transformation
+
+of study time into Learning. (In this case "transformation" actually describes
+
+the process underlying the feasible frontier.)
+
+As was the case for tradeoffs between two goods, a bundle in the feasible set is the utility maximizing output bundle if there is no other feasible bundle
+with greater utility. And this is the bundle for which the mrs = mrt rule holds,
+namely the point on the feasible frontier where the marginal rate of substitu-
+tion equals the marginal rate of transformation (mrs(x, y) = mrt(x, y)).
+
+M-Note 3.9: The marginal utility of the bad
+
+The utility function for studying (h) and Learning (y) is given by: uA(h, y) = (16 h)0.4y0.6
+
+(3.20)
+
+To find the marginal utility of the "bad," studying, we need to partially differentiate Equation
+3.20 with respect to h. Remember that when we partially differentiate we treat the other variable as a constant, so the term y0.6 will simply remain where it is. We only have to
+think about the h term.
+
+ uA h
+
+= uAh
+
+=
+
+(0.4)( 1)(16 h)0.4 1y0.6
+
+uAh
+
+=
+
+|
+
+{0z.4}
+
+(16 |
+
+h) {z
+
+0.6
+}
+
+|y{0z.6}
+
+<
+
+0
+
+<0
+
+>0
+
+>0
+
+The first term is negative whereas the second and third terms are positive. So the
+
+marginal utility of hours of study is negative. We call such a utility a disutility and will
+
+often talk about the disutility of work or the disutility of effort. Remember: the marginal
+
+utility of a bad is a negative quantity, the marginal disutility of a bad is the same number
+
+but with the sign reversed, so it is a positive number.
+
+Checkpoint 3.9: Understanding goods and bads
+
+
+
+
+
+Using the production function that is the feasible frontier, namely y = h
+
+1 2
+
+h 64
+
+confirm that:
+
+a. if Keiko studies 8 hours she will attain a value of 3 for Learning
+b. If she decided to sleep only 7 hours and to study the entire time she is awake (17 hours), her Learning would be less than if she studied 16 hours.
+
+3.9 The price-offer curve, willingness to pay, and demand
+We often want to know how people respond to different options for exchange in the form of prices. We may be interested in knowing, for each price at which
+
+D O I N G T H E B E S T YO U C A N : C O N S T R A I N E D O P T I M I Z AT I O N 127
+
+y=m
+
+Infeasible (outside the budget)
+
+y=m a
+
+Money left over, y Money left over, y
+
+Feasible (within the budget)
+
+yb
+Budget Constraint y=m-px
+
+Kilograms of fish, x
+
+m x= p
+
+b u3
+
+u2
+
+c
+
+u1
+
+Budget constraint, bc1
+
+xb
+Kilograms of fish, x
+
+m x= p
+
+(a) The budget constraint
+
+(b) Utility-maximizing choice
+
+she can purchase any amount of the good she pleases, how much Keiko will purchase, namely the utility maximizing amount. This is Keiko's individual demand curve.
+Remember that in explaining Keiko's indifference curves we asked what is the maximum amount of Learning she would be willing to give up in exchange for more Living. The answer is given by her maximum willingness to pay, or what is the same thing her marginal rate of substitution of Learning for Living.
+
+Figure 3.12: Budget constraint and utility-
+
+maximizing choice for fish and money for
+
+other goods. The budget set is shaded in green
+
+and the budget constraint (feasible frontier) is
+
+the dark green line on the border of the budget
+
+set (feasible set). Harriet maximizes her utility
+
+subject to her budget constraint bc1. She maxi-
+
+mizes her utility at b where her marginal rate of
+
+substitution,
+
+mrs(x, y)
+
+=
+
+ux uy
+
+,
+
+equals
+
+her
+
+marginal
+
+rate of transformation or the price ratio of x to y,
+
+mrt(x, y) = p.
+
+We now ask almost the same question except that rather than giving up Learning to get more Living, Keiko is now giving up money ­ that is paying for a good according to its price.
+
+For each offered price she faces another constrained utility-optimization problem. The demand curve is constructed by a series of hypothetical constrained optimization problems, one for each possible offered price. Each price defines a feasible set; its boundary, the feasible frontier, defines the bundles of goods Keiko has access to. For each each of these feasible sets there is a bundle that maximizes her utility. This is a single point on her demand curve.
+
+Indifference curves tell us the utility number that Keiko assigns to each possible consumption bundle. Using this logic, her utility will be greatest with the bundle in the feasible set that is on the highest indifference curve. This is a standard constrained utility maximization problem in which we can apply the
+mrs = mrt rule.
+
+The budget constraint and feasible utility-maximizing choices
+We shall use one particular kind of feasible frontier to think this through: the budget constraint. The budget constraint defines an amount of money m
+
+128 M I C RO E C O N O M I C S - D R A F T
+
+that a person has or has access to, through wealth and credit markets, which constitutes their budget to spend on goods and services. People can use their budget to spend on goods at prices that are given to them. Imagine that you want to buy fish at a fish market. The price (p) is measured in dollars per kilogram.
+
+Figure 3.12 a shows the budget constraint for Harriet, someone deciding on how much fish to buy at price p. The budget set is shaded in green and the budget constraint (feasible frontier) is the dark green line on the border of
+the budget set (feasible set). Consumption bundles (x, y) in the budget set
+and on the budget constraint can feasibly be obtained with the current budget (m) at the price, p, for kilograms of fish, x. Outside the feasible set, in the shaded green area, the bundles of x and y cannot feasibly be obtained with the existing budget.
+
+We know how to find the utility-maximizing bundle for a given feasible frontier ­ or the budget constraint ­ with given indifference curves: we apply the
+mrs = mrt rule finding the bundle where the marginal rate of substitution
+equals the marginal rate of transformation. We can combine these insights and calculate what the consumer's utility-maximizing bundle will be for every potential price of the good given a fixed budget and when the other good, y, is money for other goods.
+
+Figure 3.12 b shows Harriet maximizing her utility subject to her budget constraint bc1. To find her utility-maximizing choice, we must apply the mrs mrt rule to find where her marginal rate of substitution (her willingness to pay in money for kilograms of fish) equals her marginal rate of transformation, here the price for a kilogram of fish.
+
+At point a she consumes too little of x and too much of y (her marginal utility of
+
+money for other goods (y) is much lower than her marginal utility of kilograms
+
+of fish (x), or her mrs(x, y) is too high, and she would be better off if she con-
+
+sumed less y and more x. Conversely, at c, she consumes too little of y and
+
+too much of x (her marginal utility of x is much lower than her marginal utility
+
+of y, or her mrs(x, y) is too low, and she would be better off if she consumed
+
+less x and more y. She maximizes her utility at b where her marginal rate of
+
+substitution,
+
+mrs(x, y)
+
+=
+
+ux uy
+
+,
+
+equals
+
+her
+
+marginal
+
+rate
+
+of
+
+transformation
+
+or
+
+the
+
+price ratio of x to y, mrt(x, y) = p.
+
+The demand curve: Utility-maximizing choices at difference prices
+With every change in price, the consumer's budget constraint will pivot as shown in the top panel of Figure 3.13.
+The budget constraint will pivot upwards as a good's price decreases, because a consumer can buy more of the good with the same budget. The opposite is true for price increases. As the price of a good increases, the same
+
+BUDGET CONSTRAINT An equation that represents all combinations of goods and services that one could purchase that exactly exhaust one's budgetary resources.
+PRICE-OFFER CURVE The price-offer curve shows every utility-maximizing consumption bundle for each price of the goods under consideration.
+
+Money left over, y
+
+D O I N G T H E B E S T YO U C A N : C O N S T R A I N E D O P T I M I Z AT I O N 129
+
+Figure 3.13: Offer curve and demand curve for
+
+fish: The price of x in the top panel is in terms
+
+of the money Jane sacrifices to get more fish.
+
+Offer Curve
+
+Similarly, in the lower panel the amount of money
+
+Keiko must sacrifice to get more fish ­ the price
+
+y3
+
+c
+
+u3
+
+per unit of fish ­ determines Keiko's quantity of fish demanded along the demand curve. Points a, b,
+
+p1 = 0.25
+
+and c in the top panel correspond to points a', b'
+
+y2
+
+b u2
+
+and c' in the lower panel.
+
+y1
+
+a p2 = 0.5
+
+x1 = 6
+
+p3 = 1
+
+u1
+
+x2 = 9 x3 = 10.5
+
+Price per kilogram of fish, p
+
+p=2
+
+Demand curve
+
+p3 = 1
+p2 = 0.5 p1 = 0.25
+
+a
+
+b c
+
+x1 = 6
+
+x2 = 9 x3 = 10.5
+
+Kilograms of fish, x
+
+budget buys less of the good, pivoting the budget constraint inward.
+With every pivot of the budget constraint, at the utility-maximizing point, the new budget constraint will be tangent to a new indifference curve which manually will be higher if the price of the good decreases and lower if the price of the good increases.
+Because we can calculate the utility-maximizing consumption bundle for each possible price, we can find a curve that records every utility-maximizing consumption bundle for each price, called the price-offer curve. Sometimes, for individual consumers, it is called the price-consumption curve because it indicates what the consumer will consume at different prices.
+Figure 3.13 maps three different utility-maximizing consumption bundles at three prices of x. With each price decrease, the budget constraint pivots outward from p1 to p2 to p3. With each change in the price of x, the utilitymaximizing bundle ­ the point at which the marginal rate of substitution is
+equal to the opportunity cost ­ changes. At p3 = 1, the bundle includes x = 6, at p2 = 0.5, the bundle includes x = 9, and at p1 = 0.25, the bundle includes x = 10.5. With each price change, there is a new bundle for both x
+
+M - C H E C K We can find the equation for the price-offer curve by using the equation for the budget line and combining it with the equation for the marginal rate of substitution. We do not derive it here as it is not required to understand the intuition of the demand curve.
+
+130 M I C RO E C O N O M I C S - D R A F T
+
+and y.
+The different bundles suggest a price-quantity relationship between the quantity demanded of x and different prices of x. As the price of x decreases, the quantity demanded increases.
+In the lower panel of Figure 3.13, we have taken each utility-maximizing consumption bundle from the different consumption bundles at each price and identified their coordinates on price-quantity axes. The price-quantity combinations provide a downward-sloping demand curve where quantity demanded, x, decreases as its price, p, increases.
+Measured horizontally from the vertical axis, it tells us the amount that can be sold to the consumer at each particular price. Measured vertically from the horizontal axis, it also tells us what is the consumer's maximum willingness to pay for each amount on the horizontal axis.
+
+3.10 Social preferences and utility maximization
+
+The preferences we have looked at so far have been entirely self-regarding, depicting a person who is concerned with their choices among bundles that they alone will experience. But people often make choices where they are not the only person affected, where what they choose can benefit or harm someone else. And we know from the Ultimatum Game in Chapter 2 that in these situations of inter-dependence people often care about the effects of their actions on others.
+
+Consider the Dictator Game that we mentioned in Chapter 2. In that game, a person, the Dictator has an endowment of money, z, to split between themselves and another person in any way they choose, including giving nothing or giving the entire quantity.
+
+Anmei is the Dictator and her endowment and the split she will make are
+z = pA + pB = $10, where pA is the amount in dollars that Anmei keeps for herself and pB is the amount that she gives to Ben. We can re-arrange the
+equation to find the feasible frontier for:
+
+Feasible dictator allocations pB = 10 pA
+
+(3.21)
+
+Looking at Equation 3.21, we can see that the feasible frontier is a line with a slope of 1: the feasible frontier slopes downward with a constant slope. Remember that the negative of the slope of the feasible frontier is the marginal
+rate of transformation: so a player in the Dictator Game who wishes to give
+$1 to someone else has an opportunity cost of $1 for doing so. If Anmei is like
+Homo economicus, she is purely self-regarding. She sets pB = 0 and keeps everything for herself and therefore z = pA = 10.
+
+E X A M P L E We demonstrate in Chapter 7 how to find the equation for the demand curve and how to see that a reduction in the price of fish has two effects. First, the lower price leads the person to buy less meat and more fish; this is the substitution effect. Second, the lower price also allows the person to buy more of everything if she chooses (fish, meat or whatever); this is called the income effect.
+R E M I N D E R A game is a mathematical representation of a strategic interaction, which means one in which players recognize that their payoffs depend on the actions taken by other players. So the so-called Dictator Game is not really a game at all, because the Dictator's payoffs do not depend at all on anything that the other player does.
+
+D O I N G T H E B E S T YO U C A N : C O N S T R A I N E D O P T I M I Z AT I O N 131
+
+What happens when the Dictator is an altruist who values making a generous offer to the other?
+To see what happens in these cases, let us contrast two pairs of people:
+
+· Anmei (A) is paired with Ben (B). Anmei makes choices about how much money she gets and how much money Ben gets.
+
+· Chen (C) is paired with Diane (D). Chen makes choices about how much money he gets and how much money Diane gets.
+
+To think about the choices that Anmei and Chen make, let us consider two different kinds of Cobb-Douglas utility functions that Anmei and Chen might have.
+
+Anmei's utility function uA(pA, pB) = (pA)1(pB)0 Chen's utility function uC(pC, pD) = (pC)0.7(pD)0.3
+
+(3.22) (3.23)
+
+Chen is other-regarding, he cares about Diane's payoff as is indicated by the positive exponent on her payoff in his utility function, though not as much as he cares about his own (compare the two exponents). Anmei is entirely selfregarding, placing a zero weight on Ben's payoff therefore all she cares about is her own payoff.
+We display indifference curves for Anmei and Chen in Figure 3.14. The indifference curves in panel a are unusual: they are vertical because the only thing that Anmei values is what is on the horizontal axis, namely, her payoff.
+Using the mrs = mrt rule, we find the constrained utility-maximizing point
+for each person where their highest indifference curve touches the feasible frontier.
+In this case, though, the feasible frontier is given by a straight line because it represents a split of money. The maximum amount of money that Anmei or Chen can keep is $10 and they can offer splits in 1 cent increments between themselves and their partners. The vertical intercept corresponds to the instance in which they give all $10 to their partners. The horizontal intercept corresponds to the instance in which they keep all $10 to themselves. Chen has preferences such that he would like a 70%-30% split of the $10 (his
+a = 0.7) and his highest indifference curve is tangent to the feasible frontier at
+a (7, 3) split shown by point b' in Figure 3.14 b.
+Anmei has preferences such that she would like a 100%-0% split of the $10
+(her a = 1, she places zero weight on Ben's payoff) and her highest indif-
+ference curve touches the feasible frontier at b in Figure 3.14 a at a (10,0) split (she keeps all the money). We can interpret the slope of her indifference curves as her maximum willingness to pay in order to give Ben a small positive payoff, and the ask: how much of her own payoffs would she be willing
+
+M - C H E C K Two things to remember when thinking about Equations 3.22 and 3.23.
+· The exponents in the Chen's Cobb Douglas utility function Equation 3.23 mean that if they both had the same payoff, then Chen would value increasing his own payoffs more than he would value increasing Diane's.
+· About Anmei's utility function, Equation 3.22, any number raised to a zero exponent is equal to 1, so because Anmei does not value Ben's payoffs at all (the exponent is zero) her utility is unaffected by the amount that he gets (her utility is simply how much she keeps for herself).
+R E M I N D E R : PAYO F F S A N D U T I L I T Y The term payoffs means money winnings in experimental games; utility is how much a person values a particular strategy profile. Here we have a case ­ Chen but not Anmei ­ in which payoffs are not the same thing as utility. Chen's utility function places a value on Anmei's payoffs, not just his own.
+
+132 M I C RO E C O N O M I C S - D R A F T
+
+11
+
+11
+
+u1A u2A u3A
+
+10
+
+10
+
+9
+
+9
+
+B's payoff (dollars), B D's payoff (dollars), D
+
+8
+
+8
+
+7
+
+Feasible
+
+frontier
+
+6
+
+7
+
+6
+
+a
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+b
+
+0 1 2 3 4 5 6 7 8 9 10 11
+A's payoff (dollars), A
+
+(a) Self-interested Anmei offers a (10, 0) split
+
+5 mrs = mrt
+4
+
+3
+
+b
+
+u3C
+
+2
+
+1
+
+c
+
+u2C
+
+0
+
+u1C
+
+0 1 2 3 4 5 6 7 8 9 10 11
+C's payoff (dollars), C
+
+(b) Chen is altruistic, offering a (7, 3) split
+
+to give up to transfer a penny to Ben? The answer is that there is no amount, however small, that would motivate her to do this.
+What allocation does she choose? Her highest utility is where her vertical indifference curve uA2 touches her highest feasible allocation to herself of $10. She keeps all the money. Her keeping all the money shouldn't surprise us because she gives no weight to Ben's payoff. In mathematics, a solution like this is called a corner solution. Notice that we couldn't use our standard
+requirement for finding the constrained utility maximum of mrs = mrt. But
+following the rules of constrained utility maximization, that Anmei would find the point in the feasible set with the highest utility, still applied to our problem and we found the solution.
+
+Figure 3.14: Utility maximization: Self-interested offer vs. altruistic offer. Anmei offers a split to Ben of (10, 0), whereas Chen offers Diane a split of (7, 3). Anmei's indifference curves are vertical because she gives no weight in her utility function to Ben getting any money ((1 a ) = 0), therefore she gets $10 and Ben gets $0. Between Chen and Diane, Chen gives some weight to Diane getting money ((1 a ) = 0.3), therefore his indifference curves are shaped like indifference curves we've looked at previously and at his constrained utility maximum Chen gets $7 and Diane gets $3. Notice that if Chen gives any less or any more to Diane, then he would be on a lower indifference curve, such as at points b' and a' on uC1 .
+
+M-Note 3.10: The mrs for a self-regarding dictator
+
+Why are Anmei's indifference curves vertical in Figure 3.14? To answer this question, we
+need to find her marginal rate of substitution. To find her mrs, we need the marginal utilities of the two arguments of her utility function: pA and pB the money payoffs that Anmei and Ben respectively get.
+
+Marginal utility to Anmei of Anmei's payoff:
+
+uAp A
+
+=
+
+ uA pA
+
+= 1 · (pA)(1 1)(pB)0 = 1
+
+Marginal utility to Anmei of Ben's payoff:
+
+uAp B
+
+=
+
+ uA pB
+
+= 0 · (pA)1(pB)(0 1) = 0
+
+D O I N G T H E B E S T YO U C A N : C O N S T R A I N E D O P T I M I Z AT I O N 133
+
+Therefore Anmei's marginal rates of substitution is:
+
+mrs(pA, pB) = upA up B 1
+= 0 = undefined
+
+(3.24)
+
+Now, the result of Equation 3.24 should not surprise us because the slope of a vertical line is undefined. Anmei's indifference curves endlessly rise and have no run, so the negative of an undefined number (the slope) remains an undefined number (the mrs). Her indifference map therefore represents a range of vertical lines where the horizontal intercepts correspond to the amount of money she keeps which is also the utility number associated with the particular indifference curve.
+
+Now, we might ask ourselves, what is Anmei's utility at her constrained utility maximum?
+Let's substitute in the values we have for pA = 10 and pB = 0.
+
+uA(pA, pB) = (pA)1(pB)0 = (10)1(0)0 = (10)1 = 10
+
+(3.25)
+
+Anmei has a utility that is equal to the amount of money she keeps for herself.
+
+M-Note 3.11: An altruistic person splitting the pie
+
+We will derive Chen's decision about splitting the pie between him and Diane. Using his utility function, Equation 3.23 and Equation 3.12, his marginal rate of substitution is:
+
+mrs(pC, pD)
+
+=
+
+7p D 3pC
+
+Now, let's assume that the size of the pie is z = 10, therefore, the feasible allocations are represented by pD = 10 pC, so his mrt (the negative of the slope of the feasible frontier)
+is
+
+mrt =
+
+dpD dpC
+
+=1
+
+Equating the mrs with the mrt, we can obtain how much Chen allocates to himself and to Diane:
+
+Using the feasible set
+
+7p D 3pC
+
+pD
+
+3 7
+
+pC
+
+10 7
+
+pC
+
+=1
+
+=
+
+3 7
+
+pC
+
+= 10 pC
+
+= 10
+
+) pC = 7
+
+and pD = 3
+
+That is why Chen offers Diane $3 of the total of $10 that she is able to allocate.
+
+Notice that the shares of the pie that Chen allocates to himself and to Diane are equal to the exponents of Chen's Cobb-Douglas utility function, Equation 3.23.
+
+Checkpoint 3.10: Chen's Choice and the mrs = mrt rule.
+1. What is the marginal rate of transformation in the game described in Figure 3.14?
+
+134 M I C RO E C O N O M I C S - D R A F T
+
+2. Why is the utility-maximizing bundle at point b in Figure 3.14 a an example of
+a case where the mrt = mrs rule does not work? How does this case differ
+from the case shown in panel b, where the rule does work? 3. Use the value of Chen's mrs at point c' in Figure 3.14 Panel b along with the
+value of the mrt to explain why for Chen the opportunity cost of giving more money to Diane is less than his willingness to pay (give up his own payoffs) so that Diane can have more.
+3.11 Application: Environmental trade-offs
+We think of environmental damage as something to be avoided, but stopping or slowing the damage ­ or "abating" the damage in the language of environmental science ­ is costly. Less damage means some combination of less consumption, changing our consumption patterns to be less damaging to the environment, or diverting our productive potential from producing goods that we can now consume to discovering and installing new technologies. We therefore face a trade-off between consuming goods and maintaining the quality of the environment. How much of these opportunity costs of improved environmental quality are we willing to pay?
+The constrained utility maximization method we have developed provides a way of posing and answering these questions using the preferences, beliefs, and constraints approach.
+
+H I S TO RY In the middle of the twentieth century, long before we worried about climate change and its unfolding calamities, Aldo Leopold, the American environmentalist raised an economic question: "Like winds and sunsets, wild things were taken for granted until progress began to do away with them. Now we face the question whether a still higher `standard of living' is worth its cost in things natural, wild and free." 3.
+Leopold was articulating a trade-off between, on the one hand, consuming goods and services ­ Leopold's higher "standard of living" ­ and on the other, the costs of environmental damage ­ the "cost in things natural, wild and free."
+
+Feasible combinations of conventional goods and environmental quality
+
+The opportunity cost of environmental quality is consumption of other (conventional) goods such as food, clothing, shelter, and transportation, which we must give up to secure a higher quality environment. There is a feasible frontier showing the combinations of environmental quality, x, and conventional goods, y, that are possible for a society. The feasible frontier in the case of environmental quality depends on the abatement technology, which represents how much consumption of conventional goods we have to give up to achieve a given level of environmental quality.
+
+Figure 3.15 shows a feasible frontier between conventional goods (y) and environmental quality (x). We measure environmental quality on a numeric scale from 0 (the environment that we would have if no abatement done) to 20 (the environment resulting if we were to divert to abatement uses all of society's resources above some minimum level of consumption). We measure conventional consumption as billions of dollars.
+
+The negative slope of the feasible frontier at any point is the marginal rate of
+
+transformation of reduced environmental quality into increased conventional
+
+consumption, or
+
+Dy Dx
+
+.
+
+The
+
+steeper
+
+the
+
+frontier,
+
+the
+
+greater
+
+is
+
+the
+
+increase
+
+D O I N G T H E B E S T YO U C A N : C O N S T R A I N E D O P T I M I Z AT I O N 135
+
+125 Policy-maker's
+indifference curves
+
+y = 100
+
+Abatement cost
+
+yb = 75
+
+b
+
+Figure 3.15: Trade-off between consumption of conventional goods and environmental quality. The constrained utility maximum is the point on the feasible frontier on the highest indifference curve u2, shown as point b where the mrs = mrt rule holds. The constrained maximum is at the point where the feasible frontier is tangent to the highest attainable indifference curve.
+
+Goods in billions, y
+
+50
+25
+0 0
+
+u3
+u2 u1
+
+Initial feasible frontier
+
+5 xb = 7 10
+
+x = 14
+
+20
+
+Environmental quality, x
+
+in feasible consumption allowed by a given small reduction in environmental quality.
+This is also the the opportunity cost of improved environmental quality. So a flatter frontier means a lower opportunity cost of abatement.
+To see this, starting at no abatement expenditures (y = y¯), the opportunity cost
+of improved environment is initially small (the frontier is nearly flat) and as the society implements more abatement, the cost more abatement increases as the environmental quality increases. The shape of the feasible frontier reflects an increasing marginal rate of transformation, or an increasing marginal opportunity cost of environmental quality.
+Put another way, if environmental quality is at its maximum at the intercept of the feasible frontier with the horizontal axis, people could consume a lot more conventional goods if it were willing to tolerate a small deterioration of environmental quality (the frontier is steep where it intercepts the horizontal axis). But the feasible increase in consumption of conventional goods allowed by a reduction in environmental quality falls as the level of environmental quality declines.
+Checkpoint 3.11: The mrt of the environmental feasible frontier
+a. * Refer to Equation 3.26 and find the marginal rate of transformation of the
+
+M - C H E C K An example of the function representing the feasible frontier is shown below, where y is the goods available for
+consumption, y¯ = 100 is the level of y that is
+feasible when environmental quality is at its minimum, and x is environmental quality.
+
+y
+
+=
+
+100
+
+1 2
+
+x2
+
+(3.26)
+
+This is the equation for the feasible frontier is graphed in Figure 3.15.
+
+136 M I C RO E C O N O M I C S - D R A F T
+
+feasible frontier.
+b. * Practice sketching the feasible frontier and confirm the intercepts with the horizontal and vertical axes as shown in Figure 3.15.
+
+3.12 Application: Optimal abatement of environmental damages
+How much abatement is the right level, taking account of both preferences for conventional goods (consumption) and the quality of the environment along with the opportunity costs in lost consumption?
+
+A citizen chooses a level of abatement of environmental damages
+
+To begin with the simplest case, think of just one citizen, Anmei, who might be representative of the attitudes of the whole society, trying to decide on the level of abatement that she would like to see implemented. She cares about both the quality of the environment, x, and the amount of conventional goods that will be available for people to consume.
+
+Anmei's utility function has the following form: u = u(x, y). Anmei considers what she would like to see her society do about the environment (x), taking
+account of the effects on everyone. In other words, she is thinking from an other-regarding perspective, like an ideal policy-maker.
+
+Anmei's indifference curves between environmental quality and conventional goods are downward sloping because she regards both environmental quality and conventional consumption as goods for which more is better. This means the marginal utility of both y and x are positive (e.g. uy > 0 and ux > 0). The negative slope of the indifference curves shown in Figure 3.15 at any point is Anmei's marginal rate of substitution between more consumption of goods and a better environment. Her marginal rate of substitution shows the amount of goods she would be willing to give up for a small improvement in the environment. As before, Anmei's indifference curves exhibit diminishing marginal utility of both environmental quality and consumption.
+
+An example of a utility function that Anmei might have is the Cobb-Douglas utility function:
+
+u(x, y) = xa y(1 a) = x0.4y0.6
+
+(3.27)
+
+Figure 3.15 shows three indifference curves defined by equation 3.27: uA3 is unattainable given the feasible frontier, uA1 intersects the feasible frontier twice, and uA2 is tangent to the frontier at point (xb, yb). Anmei's constrained maximum allows her and her fellow citizens to consume 75 million units of
+conventional goods and enjoy environmental quality of about 7 (see M-Note
+3.12 for the worked solution). If she were able to implement relevant envi-
+
+D O I N G T H E B E S T YO U C A N : C O N S T R A I N E D O P T I M I Z AT I O N 137
+
+ronmental and fiscal policies, this point is the best society can do in Anmei's opinion.
+What is the total opportunity cost in foregone conventional consumption of a level of environmental quality of 7? The maximum feasible level of conventional consumption with no abatement is $100 billion. The difference between the maximum feasible consumption of $100 billion and Anmei's preferred choice of conventional consumption of $75 billion is the opportunity cost of an environmental quality of 7. In our example, the abatement costs are equal to
+$100 billion $75 billion = $25 billion in conventional goods. A citizen with Anmei's preferences thinks that the sacrifice of $25 billion consumption goods
+is worth paying to have an environmental quality of 7 instead of zero.
+New technologies, and conflicts of interest
+If, with a mind to the future, some of the abatement costs are devoted to research to improve abatement technologies, this would pivot the feasible frontier outwards, as shown in Figure 3.16.
+As is shown in Figure 3.16, the shift of the feasible frontier would permit higher environmental quality of x  9.8 at the same level of consumption of $75 billion. But there would still be a trade-off: more conventional goods would require less environmental quality, or more environmental quality would require fewer conventional goods to stay on the feasible frontier.
+We can also use Figure 3.15 to see why people often disagree about environmental policy.
+· Preferences: peoples' preferences for conventional goods and the environment may differ
+· Beliefs: people may disagree about the opportunity costs or the benefits of environmental quality
+· Conflicts of interest: the costs and benefits of abatement fall on different people; those whose jobs or profits depend on carbon based energy or who do a lot of airline travel, for example, stand to bear more of the costs of addressing climate change, while regions likely to be particularly hard-hit like Africa bear a larger share of the benefits.
+M-Note 3.12: The trade-offs and opportunity costs of the environment
+
+F AC T C H E C K The pace of environment friendly innovation is astounding. Have a look at the reduction in costs of the photovoltaic cells used in solar panels dropping to one-onehundreth of their costs in 1975 in Figure 8.3.
+
+Let us work through the process that Anmei the policy-maker would go through to identify the combination of goods in billions of dollars with environmental quality.
+First, let us calculate her marginal rate of substitution from her utility function,
+uA(x, y) = (xA)0.4(yA)0.6. From earlier in the chapter, we know that the mrs(x, y) is the ratio of marginal utilities and we have already calculated this for a = 0.4 and (1 a ) = 0.6
+
+138 M I C RO E C O N O M I C S - D R A F T
+
+in Equation 3.17 in M-Note 3.7.
+
+mrs(x, y)
+
+=
+
+2y 3x
+
+(3.28)
+
+Anmei's feasible frontier, based on her beliefs and understanding of the existing science, is
+
+given by the equation y = 100
+
+1 2
+
+x2,
+
+for
+
+which
+
+we
+
+can
+
+find
+
+her
+
+mrt (x,
+
+y)
+
+=
+
+dy dx
+
+:
+
+dy = x dx
+
+)
+
+dy dx
+
+=
+
+x
+
+(3.29)
+
+We now set the mrt(x, y) given by Equation 3.29 equal to the mrs(x, y) given by Equation 3.28 and we isolate one of the variables, y:
+
+x
+
+=
+
+2y 3x
+
+Multiply through by 3x 3x2 = 2y
+
+Divide through by 2
+
+y
+
+=
+
+3 2
+
+x2
+
+(3.30)
+
+We can now substitute Equation 3.30 into the feasible frontier to find xb and yb, the values that solve Anmei's constrained optimization problem, the best she can do:
+
+3 2
+
+x2
+
+=
+
+100
+
+1 2
+
+x2
+
+2x2 = 100
+
+x2 = 50 p
+) xb = 50 = 7.07
+
+Having found xb, we can substitute it back into Equation 3.30 to find yb:
+
+y
+
+=
+
+100
+
+1 2
+
+(p50)2
+
+=
+
+100
+
+1 2
+
+(50)
+
+yb = 75
+
+So, as a result of Anmei's policy-making utility function and feasible frontier, she would choose a combination of environmental quality, x, of value 7.07 with consumption of good and services of $75 billion. $75 billion is $25 billion less than the maximum consumption
+of goods and services, y¯ = 100 billion, so the cost of abatement is $25 billion.
+
+Goods in billions, y
+
+D O I N G T H E B E S T YO U C A N : C O N S T R A I N E D O P T I M I Z AT I O N 139
+
+Policy-maker's indifference curves
+
+y
+Abatement cost
+yb
+
+br
+
+Figure 3.16: Trade-off between consumption of conventional goods and environmental quality with R&D. The choice between consumption of conventional goods and environmental quality with R&D pivoting the feasible frontier outwards leading to a new point of tangency on a higher indifference curve u3.
+
+u3 u2 u1
+
+Initial feasible frontier
+
+xb xr
+
+x
+
+Environmental quality, x
+
+Feasible frontier with R&D
+
+3.13 Cardinal inter-personally comparable utility: Evaluating policies to reduce inequality
+Most policy choices involve conflicts of interest like these concerning the abatement of environmental harms. Few policy choices are entirely win-win. Most policies ­ whether they concern taxation, immigration, health insurance, or the rate of inflation ­ result in benefits for some and losses for others.
+Ordinal and cardinal utility in policy evaluation
+How do we then evaluate competing policies? Don't think about this as a question about what would be a good outcome for you if you were a participant in the society. Instead, try to take the position of what Adam Smith called the Impartial Spectator who did not himself stand to gain or lose, but wanted instead to consider the gains and losses impartially.
+One answer you might give is just to count those who prefer each policy and select the most popular policy. All this requires is that people be able to rank the policies in question as better, worse, or indifferent. We could in this case treat utility as ordinal (that is, simply a ranking (or ordering) of
+
+Figure 3.17: John Stuart Mill (1806-1873). Philosopher-economist John Stuart Mill (18061873) referred to what we would now call the sum of the total utilities of a population as "a good" that should be promoted: "the general happiness is desirable . . . each person's happiness is a good to that person, and the general happiness, therefore, a good to the aggregate of all persons."4 Photo credit: Wikimedia Commons
+
+140 M I C RO E C O N O M I C S - D R A F T
+
+outcomes).
+Something like this might occur in a majority rule democratic political system, especially if citizens could vote on policies as they do in Switzerland and other countries in referendums asking citizens to vote for or against a particular policy.
+But this way of evaluating policies might result in evaluating positively those policies that confer minor gains to those in favor, and substantial losses to those preferring another policy. This does not seem like an ideal rule.
+An alternative is to weigh the amount of the gains to the beneficiaries of each policy against the size of the costs incurred by those who would have done better under some other policy. This kind of comparison requires that we know not only which policies people prefer, but how much they prefer them.
+To do this we treat utility as a cardinal measure for which utility is not just a ordinal ranking, but instead a number indicating how well off the person is under the option in question. As we explained in Section 3.3, treating utility as cardinal allows us to say two very different things:
+1. for Anmei, the outcome (x0, y0) is twice as good as (x, y) because for example uA(x0, y0) = 2uA(x, y)
+2. the sum of the Anmei's and Brenda's utility is greater with outcome (x0, y0) than with outcome (x, y) because uA(x0, y0) + uB(x0, y0) > uA(x, y) + uB(x, y)
+Both statements involve cardinal utilities, but they differ. The first statement compares how much Anmei values two different states that she will experience. It does not compare her evaluation of a state that she will experience with someone else's evaluation of the state they will experience. The first statement is an example of the cardinal utility that we introduced in Chapter 2 as the basis of expected payoffs (or expected utility) and the analysis of decision-making in risky situations.
+The second statement compares Anmei's utility with Brenda's utility. When utility is represented in this way it is called inter-personally comparable cardinal utility (or sometimes "cardinal full comparable utility"). If we consider utility to be cardinal in this inter-personally comparable sense, then we can compare how well off two or more people are, and how much better off or worse off a policy would make each of them. This provides a way to evaluate which policies should be implemented by asking whether the gains of those who benefit from a policy exceed the losses of those who do not.
+Why do these two methods of comparing utility matter? Remember that one of the problems with Pareto efficiency as a criterion for policy outcomes is that many outcomes can be Pareto efficient. So Pareto efficiency does not provide
+
+H I S TO RY Adam Smith in The Theory of Moral Sentiments conceived of the Impartial Spectator as follows, "We endeavour to examine our own conduct as we imagine any other fair and impartial spectator would examine it. If, upon placing ourselves in his situation, we thoroughly enter into all the passions and motives which influenced it, we approve of it, by sympathy with the approbation of this supposed equitable judge. If otherwise, we enter into his disapprobation, and condemn it."5
+
+H I S TO RY Lionel Robbins (1898-1984) was a leader in the "ordinal revolution" in economics. Economics, he wrote, does not need "to compare the satisfaction which I get from the spending of 6 pence on bread with the satisfaction which the Baker gets by receiving it. That comparison . . . is never needed in the theory . . . " Moreover, "There is no way of comparing the satisfactions of different people."6
+
+6
+
+5
+
+Bob's payoffs
+
+4
+
+d
+
+3
+
+c
+
+2
+
+a
+
+1
+
+b
+
+0
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Alfredo's payoffs
+
+Figure 3.18: Pareto comparisons in the Fisherman's Dilemma Game. The Pareto criterion selects c over a (which it dominates) but cannot rank points b, c, and d because all of them are Pareto efficient.
+
+D O I N G T H E B E S T YO U C A N : C O N S T R A I N E D O P T I M I Z AT I O N 141
+
+Marginal utility
+
+muB(1 - ah)
+
+A's marginal utility
+
+B's marginal utility g
+
+i
+
+
+muA(ah)
+0 0
+
+h
+
+ai
+
+ah
+
+1
+
+A's share of wealth, a
+
+Figure 3.19: Distribution of wealth, marginal utility, and total utility. In the figure a is the proportion of wealth belonging to Anmei (A). 1 a is the proportion of wealth belonging to Brenda (B). As a person's wealth increases, the marginal utility of wealth decreases. A's total wealth increases as you move along the bottom line from left to right, and as a result her marginal utility decreases. Because B's wealth increases as the division moves towards the left, B's marginal utility decreases from right to left. The utility functions used to create this figure are shown in M-note 3.13.
+
+an adequate basis for an Impartial Spectator preferring one outcome over the other. Using the second ­ stronger ­ conception of cardinal utility along with the judgement that one outcome is better than another if total utility is greater provides a rule for evaluating which Pareto-efficient outcome we might prefer as a society.
+In the payoffs for the Fishermen's Dilemma in Figure 1.13 (shown here in the margin for easy reference) three of the four outcomes of the game are Pareto efficient. The Pareto criterion provides no way to choose among them. By contrast the rule -- maximize total utility ­ selects the mutual cooperate outcome (point c) with total utility of 6.
+
+Cardinal utility and the distribution of wealth
+To see what adopting the "maximize total utility" rule would mean, imagine that the Impartial Spectator is given the task of dividing a given amount of wealth between Anmei and Brenda. The amount of wealth she has to divide is equal to 1, so each person can get a fraction of that wealth and, as long as the fractions sum to 1, then the outcome will be Pareto-efficient. Let the fraction that Anmei gets be a and Brenda's fraction be (1 a). Anmei and Brenda have identical preferences for wealth given by the identical cardinal utility functions: own utility = u(own wealth) so:
+· Anmei's utility: u(a)
+· Brenda's utility: u(1 a)
+The horizontal axis in Figure 3.19 shows all possible distributions of wealth between Anmei and Brenda.
+· Anmei's share of wealth, a, varies from 0 to 1.
+
+E X A M P L E When you say "I'll do the shopping; it'll be less trouble for me than for you" you are representing utility (the trouble of shopping) as cardinal and making an interpersonal comparison of utility (less trouble for me than for you). In fact, much of our everyday ethical reasoning and even simply being a good friend require making interpersonal comparisons of the benefits and costs that people experience.
+
+142 M I C RO E C O N O M I C S - D R A F T
+
+· At a = 0, Anmei gets nothing and Brenda gets everything. · At a = 1, Brenda gets nothing and Anmei gets everything.
+
+Figure 3.19 also shows the two marginal utility of wealth functions. For each of them the marginal utility of wealth declines the more wealth they have. So, in the figure Anmei's marginal utility curve slopes downward as she gets more wealth (moving from left to right). Remembering that for Brenda farther to the right means less wealth (the opposite of Anmei) her curve slopes upward because as she gets less wealth (moving from left to right) her marginal utility of wealth is higher.
+
+Suppose the status quo is ah, a situation in which Anmei is wealthy and
+Brenda is poor (Anmei's has share of wealth ah and Brenda's share of wealth is 1 ah). Anmei's marginal utility at ah, uAa (ah) is lower than Brenda's utility at the same point uBa (ah). The vertical difference between points g and h shows the magnitude of the difference in their marginal utilities.
+
+Because g > h, we know that a policy that takes a small amount of wealth from Anmei and transfers it to Brenda (moving to the left from ah) reduces Anmei's utility by less than it increases Brenda's. Redistributing wealth from Anmei to Brenda therefore increases total utility (the sum of Anmei's and Brenda's utilities).
+
+Applying this reasoning to other points in the diagram, we find that the dis-
+
+tribution of wealth that maximizes total utility is ai, where Anmei's marginal utility of wealth equals Brenda's marginal utility of wealth. Because Anmei's
+
+and Brenda's utility functions are identical, the total utility maximizing point
+
+distributes
+
+wealth
+
+equally,
+
+ai
+
+=
+
+1 2
+
+.
+
+M-Note 3.13: Maximizing total utility
+
+Adam Smith's Impartial Spectator would like to find the distribution of wealth, aW , such
+
+that the sum of the utility of the two will be as large as possible. Here are their utility
+
+functions (the same as those used to create Figure 3.19.)
+
+A's utility: u(a) B's utility: u(1 a)
+
+= =
+
+ a1
+
+a 2
+
+(1 a) 1
+
+1
+
+ a
+
+2
+
+(3.31) (3.32)
+
+The Impartial Spectator maximizes W = u(a) + u(1 a)
+
+(3.33)
+
+By differentiating W with respect to a, we can find ai, the Impartial Spectator's welfaremaximizing choice of a:
+
+Wa
+
+=
+
+ u(a) a
+
++
+
+
+
+u(1 a
+
+a)
+
+Differentiating the two utility functions (Equations 3.31 and 3.32) with respect to a to find
+
+D O I N G T H E B E S T YO U C A N : C O N S T R A I N E D O P T I M I Z AT I O N 143
+
+the two marginal utilities and setting the result equal to zero:
+
+= (1 a) a = 0
+
+)
+
+1 ai = 2
+
+Checkpoint 3.12: Maximizing total utility by redistributing wealth
+
+Using the utility functions in M-Note 3.13 answer the following questions:
+
+a. What is A's utility if she has all the wealth?
+
+b. What is B's utility if A has all the wealth?
+
+c. What is the total utility if A has all the wealth?
+
+d. What is the total utility if the wealth is equally distributed?
+
+e. Redraw the figure supposing that (instead of Equation 3.31) A's utility func-
+
+tion were u(a) = 2a(1
+
+a 2
+
+).
+
+f. Why might A and B differ in the way that this new utility function for A indicates?
+
+g. * What is the value of aW using A's new utility function?
+
+h. Explain why the change in A's utility function changed aW as it did.
+
+3.14 Application: Cardinal utility and subjective well-being
+A century ago economists thought that while ordinal comparisons like better or worse are possible, empirical interpersonal comparisons expressed by a number indicating the degree of preferences were impossible to make. But today researchers are actively engaged in measuring individual happiness and life satisfaction, using techniques ranging from surveys and natural observation to the methods of experimental neuroscience. They are asking such questions as: "How important is income for happiness?" "Is being without a job a bigger source of unhappiness than being without a spouse?" These researchers refer to happiness or life satisfaction as subjective well-being.
+To measure "pleasures and pains" in the lab, volunteers are exposed to an electrical shock and asked to report on their experience of that on a numerical scale. Others are asked to plunge their hands into extremely cold water for as long as they can stand it and immediately report their level of unhappiness having done so. Respondents in surveys are asked their "life satisfaction."
+This research has sought to understand the activities that make people most happy. Almost all people surveyed seem to like sex quite a lot, ranking "intimate relations" as having a high subjective well-being value. Ranked after sex, people like socializing, relaxing, sharing meals with friends, praying, and exer-
+
+Figure 3.20: Daniel Kahneman (1934-), a psychologist and Nobel Laureate in economics, has advocated a hedonistic (meaning concerning pleasure and pain) theory of utility. Kahneman titled one of his papers "Back to Bentham?" to pay homage to the early 19th century philosopher economist Jeremy Bentham's utilitarian theory.7 Photo credit: Wikimedia Commons
+F AC T C H E C K The Satisfaction with Life survey is based on five questions each of which is rated on a 7-point scale from Strongly Disagree (1) to Strongly Agree (7). Here are the questions: In most ways my life is close to my ideal; The conditions of my life are excellent; I am satisfied with my life; So far I have gotten the important things I want in life; and If I could live my life over, I would change almost nothing.
+
+144 M I C RO E C O N O M I C S - D R A F T
+
+cising. People don't like housework, childcare, commuting or working. People also report major changes in subjective well-being from painful events, like sudden loss of a job, a death in the family, or divorce, or from positive events like marriage, or the birth of a child.8 But when you ask someone about their happiness over time the measures are surprisingly consistent: people are likely to report similar activities or outcomes as providing them with happiness when you ask them at different intervals.
+What are the take-home messages about subjective well-being, the choices about how we spend our time, and how we value effortful work? First, people like a diverse array of activities and doing things they like provides them with happiness that can be measured in meaningful ways across different people and at different periods of time in our lives. Second, people who report greater subjective well-being are also better off by physical biological measures. For example, they are less likely to be ill. Subjective well-being also manifests in hormone levels, brain patterns, and palm temperature.10
+Third, while income matters for happiness (especially for people without much income) people value social relationships ­ marriage, a job, friendships ­ more than they value income.11 Making the transition from unemployed to employed boosts a persons subjective well-being by much more than would be predicted simply by the increase in income. This is because having a job is a source of respect and dignity, especially as it provides a way for people to express autonomy over themselves, competence in their expression of their abilities, and relatedness to other co-workers and people around their work.
+Checkpoint 3.13: Joy or misery?
+Think about the kinds of activities discussed above that provided people with joy (that they ranked highest in terms of providing them with subjective well-being).
+1. Compare them with their opposites: those that result in disutility or even misery.
+2. Come up with a list of activities that you engage in that provide you with joy which you try to prioritize.
+3. Why do you spend the time that you do on these activities? Why do you not spend more?
+4. Do you engage in activities that in the moment are unpleasurable but which you believe provide you with benefit nonetheless?
+5. Do you think such activities appear in the models we've developed?
+
+F AC T C H E C K Non-laboratory measures of subjective well-being suggest that people with higher subjective well-being tend to be less likely to contract a cold virus and to recover more quickly when they do contract the cold. Similar evidence exists for people who have recovered from wounds and had baseline and subsequent subjective wellbeing measured: those who are happier recover more quickly.9
+E X A M P L E The substantial subjective cost that people experience when they are out of work is one reason why employers (who have the power to terminate a person's job) have power over their employees. We shall return to this when we study the firm and the labor market.
+
+3.15 Preferences, beliefs, and constraints: An assessment
+Many scholarly disciplines in addition to economics are devoted to understanding human behavior including psychology, sociology, anthropology,
+
+H I S TO RY In his 1953 work, Essays in Positive Economics, Nobel Laureate Milton Friedman (1912-2006) observed that "predicting the shots made by an expert billiard player" could be done on the basis of "the complicated mathematical formulas that would give the optimum directions" of the shots. But this prediction would not be "based on the belief that billiard players, even expert ones, can or do" actually make these calculations.12
+
+D O I N G T H E B E S T YO U C A N : C O N S T R A I N E D O P T I M I Z AT I O N 145
+
+archaeology and history, but also more distant endeavors including literature, philosophy, neuro-science, computer science and biology. The preferences, beliefs and constraints approach, while a standard set of tools in economics that is widely used in other fields, is just one of many approaches.
+People newly familiar with the approach often raise the following questions about it.
+· Are people really all that selfish? This concern is based on a misunderstanding of the model, which says nothing about whether people are seeking to help others, aggrandize themselves, or a little of both. Our treatment of altruism, reciprocity and fair-mindedness shows that the model ­ using indifference curves and feasible sets, for example ­ can apply to a variety of motives.
+· Do people consciously optimise, for example, applying the mrs = mrt rule
+when they shop? The model is not a description of how people actually think or their emotional states when they take a break from studying, or support a particular environmental policy. We model instead what people would do if they did the best that they could. The fact that the model often yields predictions similar to what we observe empirically (including by experiments, econometric and other quantitative methods) does not require that the model is an accurate representation of the process by which people come to take one course of action over another.
+In some cases, people consciously optimize, going though mental calculations similar to the model. For example, a person buying a house or choosing between two job offers will weigh the pros and cons of the alternatives. But in other cases, the actions may not even appear to us as a decision, for example, what to eat for breakfast, what to wear today, or what our personal values should be. Without consciously trying to do so, people may arrive at something like the solution to these optimization problems by trial and error, or by observing others who seem to be successful or happy with their choices, or by following habits that will remain in place unless changed by some dramatically adverse consequences of following them.
+Other concerns about the model are more serious.
+· What about emotions and visceral reactions, aren't they important? This question points to a shortcoming of the approach; but it is not that the approach excludes emotions like fear, shame, and attraction. The shortcoming is that the preferences, beliefs, and constraints approach says almost nothing at all about motives, that is, it says nothing about the reasons why people rank some outcome as superior to another. Knowing more about motives like this would help us understand economic and other behavior.
+· Commitments and consequences. The framework is based on the idea that
+
+H I S TO RY: P O S I T I V E A N D N O R M AT I V E E C O N O M I C S The distinction between the economics of "what is" called positive economics and "what ought to be" called normative economics was made by John Maynard Keynes in his 1893 Scope and Method of Political Economy and by Milton Friedman in his 1953 The Methodology of Positive Economics. The distinction is controversial in part due to differences about the appropriate role for "what ought to be" statements in economics.13
+
+146 M I C RO E C O N O M I C S - D R A F T
+
+Actor Keiko Keiko Anmei/Chen Anmei/Brenda
+Impartial Spectator
+
+Utility depends on Learning, Living time Learning, study effort Payoffs to two players Conventional goods Environmental quality Wealth of A and B
+
+Action Time allocation study effort Distribution of endowment Choice of amount of conventional goods Redistribute wealth
+
+Constraints Learning-Living feasible frontier study-Learning production function The total endowment Consuming conventional goods degrades the environment Limited amount of wealth to distribute
+
+our behavior is based on our beliefs about the consequences our actions will bring about in the future. Don't we sometimes act to fulfill promises or other commitments made in the past, or just to "do the right thing" without regard to future consequences? Yes we do, and a shortcoming of the approach is that it does not address that kind of behavior.
+
+Table 3.1: The constrained optimization problems used in this chapter
+
+· Predicting behavior and evaluating outcomes. Economists use the same concept "utility" both in models designed to predict the actions that people will take and also to provide the basis for evaluating economic outcomes and public policies to improve them. The idea is that whatever it is that motivates people to make the choices they do should also be the objective of public policy and form the basis for our preferring one societal outcome over another. But treating actual behavior as if it were the pursuit of a concept of well-being that should be the basis of our judgement of societal outcomes is a mistake. The reasons for our actions (that is, our preferences) include addictions, weakness of will, shortsightedness, and other well documented socially dysfunctional aspects of human behavior that in retrospect are often deeply regretted by those acting on them.
+
+A sensible conclusion from reviewing these concerns about the preferences, beliefs and constraints approach might be that the approach is better for answering some questions than others, and learning to distinguish which is which is an important learning objective. As we said at the beginning of the chapter: the map is not the territory. Good maps don't have all the information about the territory they depict and good economic models require us to leave some things out.
+3.16 Conclusion
+In this chapter we have studied the constrained optimization problems shown in Table 3.1. Though the problems concerned are quite different, the models and analytical tools we used to analyse them are very similar. In each case the analysis of the decision involves two kinds of trade-offs:
+
+H I S TO RY Jeremy Bentham (1746-1832) is considered the founder of the philosophical tradition called utilitarianism, which forms the basis of much economic thinking both positive and normative. His most famous book begins: Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do, as well as to determine what we shall do. On the one hand the standard of right and wrong, on the other the chain of causes and effects are fastened to their throne.14
+
+· The first trade-off that appeared in each of these situations is the actor's relative valuation of the things she cares about, measured by the negative
+
+D O I N G T H E B E S T YO U C A N : C O N S T R A I N E D O P T I M I Z AT I O N 147
+of the slope of an indifference curve, that is, the marginal rate of substitution.
+· The second trade-off is that at any point on the feasible frontier, the opportunity cost of having more of one good that the actor values is that she must have less of another good that she values. This opportunity cost trade-off is measured by the negative of the slope of the feasible frontier, that is, the marginal rate of transformation.
+The result - the action taken doing the best she can under the constraints she faces - is determined in the same way in all the cases: by finding the point on the feasible frontier that is on the highest indifference curve. This will often be
+the bundle where the mrs = mrt rule holds. The table demonstrates that many
+seemingly different kinds of action can be studied with a common model, one that we will use often.
+In this chapter, we have focused on single actors and for the most part excluded from the model something important: other people. With the exception of the farmers of Palanpur, we have modeled the person facing a given situation defined by a feasible frontier and preferences represented by indifference curves. (We already explained that the second person in the Dictator Game is not really a player at all.)
+We now turn to a world populated by people interacting strategically, and we ask how economic institutions ­ the rules of the game ­ affect the outcomes of these interactions and in particular:
+· Is the resulting allocation one in which all of the potential gains form exchange have been realized?
+· Have the rules of the game advantaged some players at the expense of others, resulting in unequal outcomes.
+We shall continue to employ the tools of constrained utility maximization, understanding people's trade-offs through their marginal rates of substitution and of transformation. We will need these tools ­ and a few new ones ­ to understand the mutual gains made possible by people interacting and the conflicts that necessarily arise over how these gains will be distributed.
+Making connections
+Strategic and non-strategic social interactions: In the previous chapters we considered strategic social interactions ­ like the fishers and the farmers from Palanpur. Here we look at simpler aspects of behavior when a person is attempting to do the best they can in situations that are not strategic because the choice of how hard to study, or how much fish to buy is not greatly affected by others choices.
+
+

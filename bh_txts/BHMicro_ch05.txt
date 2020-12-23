@@ -1,0 +1,3712 @@
+5
+Coordination Failures & Institutional Responses
+
+Right now, my only incentive is to go out and kill as many fish as I can...any fish I leave is just going to be picked by the next guy.
+John Sorlien. Rhode Island (USA) lobsterman2
+5.1 Introduction: Tragedy averted
+Don't get him wrong: John Sorlien, the lobsterman, is not the kind of selfinterested and amoral Homo economicus you might find in an economics textbook. He is actually an environmentalist of sorts, and as President of the Rhode Island Lobstermen's Association he was up against a serious problem of incentives, not a shortcoming of human nature. When he started lobstering at the age of 22, he set his traps right outside the harbor at Point Judith, within a few miles of the beach, and made a good living. But the inshore fisheries have long since been depleted, and now his traps lie 70 miles offshore. He and his fellow lobstermen are struggling to make ends meet.
+Across the world in Port Lincoln on Australia's south coast, Daryl Spencer, who dropped out of school when he was 15 and eventually drifted into lobstering, has done much better. During the 1960's the Australian government assigned licenses ­ one per trap ­ to lobstermen working at the time, and from that time on, any newcomer seeking to make a living trapping lobsters off of Port Lincoln had to purchase licenses.
+Spencer purchased his start up licenses for a modest sum and by 2000 his licenses were worth more than a million U.S. dollars (in 2000 prices); considerably more valuable than his boat. More than giving Spencer a valuable asset, the policy has limited the Australian lobstermen's work: Spencer has 60 traps, the maximum allowed, at the same time in the Atlantic off of Point Judith, John Sorlien was pulling 800 traps and making a lot less money.
+Regulating the amount of lobsters trapped is a coordination problem. Point
+
+DOING ECONOMICS
+This chapter will enable you to: · Understand how the external effects of
+our actions on others that are not taken into account when people make choices lead to coordination failures. · Represent social interactions with graphical and algebraic indifference curves, feasible sets, best-response functions and Nash equilibria. · To see how at the Nash equilibria, the extent of both inequality and unrealized potential mutual gains will depend on the rules of the game. · To explain the dynamic process by which a Nash equilibrium may be attained. · Understand how government policies such as taxes or direct regulation, the exercise of ownership rights or power by private individuals and cooperation based on social preferences can help to avert a coordination failure. · See that the Pareto-improvement made possible in each of these cases occurs because (in very different ways) they induce actors to internalize the external effects that their actions have on others.
+Figure 5.1: Sounding the alarm on climate change, a coordination problem. Greta Thunberg, then 16 years old, speaking at the United Nations in 2019 about what is probably the most serious coordination problem that humanity has ever faced. She said: "We are in the beginning of a mass extinction, and all you can talk about is money and fairy tales of eternal economic growth. How dare you!"1
+
+Landings (tons of cod)
+
+202 M I C RO E C O N O M I C S - D R A F T
+600000 400000 200000
+
+Figure 5.2: The Grand Banks (North Atlantic) fisheries: cod landings in tons (1851-2014). In the 1960s new fishing technologies allowed a dramatic increase in cod fish caught ("landings") far outpacing the capacity of the fish to reproduce. This led to a partial collapse of the fishery in the 1970s and a total collapse in 1992 when the Canadian government banned fishing entirely. Restoration of fishing stocks to the sustainable levels of the past may occur by the 2030s. Sources: Frank, Petrie, Choi, and Leggett (2005) and Rose and Rowe (2015).
+
+0
+1850
+
+1870
+
+1890
+
+1910
+
+1930 1950
+Year
+
+1970
+
+1990
+
+2010
+
+Judith and Port Lincoln represent extremes along a continuum of failure and success; with the lobstermen of Port Lincoln reaping the mutual gains made possible by a joint decision to limit the number of traps. One may wonder why the Point Judith fishermen do not simply emulate the Australians. This is especially surprising since one of Sorlien's friends and a fellow Point Judith lobsterman visited Port Lincoln, returning with tales of millionaire fishermen living in mansions. But getting the rules right is a lot more difficult than the Port Lincoln story may suggest, and good rules often do not travel well.
+One of the common obstacles to successful coordination is that the rules that address the coordination problem also implement a division of the gains to cooperation. In Port Lincoln, those who were awarded the licences benefited; others did not. Had the young Daryl Spencer not agreed one day to help out a lobsterman friend and then decided to become a lobsterman himself, someone else would be a millionaire, and Spencer might still be painting houses and complaining about the high price of lobsters.
+Even if policies to address coordination failures could result in benefits for everyone affected, how a group coordinates, and what policies they coordinate on will affect how these benefits will be distributed. And this makes it difficult to agree on a policy. An example is the Ultimatum Game experiment, in which conflicts over the size of the Proposer's and Responder's "slice of the pie" sometimes result in neither getting any piece of the pie at all.
+A far more momentous coordination problem is climate change: conflicts between richer and poorer nations, conflicts between those who make their living in carbon-intensive industries and others who bear the costs of that production are prominent among the reasons for the failure to address the climate emergency.
+
+R E M I N D E R A coordination problem is a situation in which people could all be better off (or at least some be better of and none be worse off) if they were able to jointly decide how to act ­ that is, if they can coordinate their actions ­ than if they act independently.
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 203
+Figure 5.3: Abdul and Bridget trying to catch the same fish. The lake is a common pool resource, so the benefits are rival and each one's fishing imposes a negative external effect on the other. We call them fishermen which they were when it was Bob and Alfredo; but neither fisherpeople nor fishers seemed right. Picture credit: Anmei Zhi.
+Depleting a fishing stock is little different in the structure of its incentives and its consequences from many other social interactions. In Chapter 9, for example, using exactly the model we develop here of the coordination problem that fishers face "over-harvesting fish," that is depleting fish stocks, we will study how firms compete on markets "over-harvesting customers," each firm attempting to sell more, and as a result reducing the market for the products of competing firms.
+In the case of over-fishing or `over-harvesting' consumers, when one person fishes more, or a firm cuts prices, the external effects ­ on the catch of the other fishermen or the profits of other firms ­ are negative. But external effects can also be positive, for example if you find a way to reduce your carbon footprint, benefiting others including future generations.
+In this chapter we develop tools to understand the nature of coordination problems like the Tragedy of the Commons. We use these tools to analyse some of the policies (changes in the rules of the game) that improve the Nash equilibrium outcome when external effects are present.
+We will illustrate how coordination failures occur and how policies might address them with the example of common property resource problems (or common pool resource problems). The "common property" or "common pool" is the stock of fish available for catching or the pool of customers who might purchase the goods sold by the firms.
+Remember from Chapter 2 that common property resources are non-excludable and rival, people who use them impose external costs on each other. The "problem" is that self-regarding people will over-exploit the resource because they will not place any value on the negative external effects of their actions on others. Just such a pattern of exploitation is shown in Figure 5.2, which displays the catches of cod fish in the North Atlantic fisheries.
+
+204 M I C RO E C O N O M I C S - D R A F T
+
+5.2 A common property resources problem: Preferences
+Let's consider a specific example of a common property resource problem: the over-exploitation of an environmental resource. It could be the oceans, or forests, or a livable planet, but we'll stick to the problem of over-harvesting fish. We will look at the ways that the rules of the game and the preferences of the actors determine what we expect to happen in these situations.
+
+Preferences over fishing time and fish consumed
+We turn now to the problem confronted by two fishermen, called Abdul (A) and Bridget (B). We model just two fishermen as a way of representing how a large number of them might interact. They fish in the same lake, using their labor and their nets. To start, we assume they consume the fish they catch (what we call their "catch") and do not engage in any kind of exchange. As a benchmark for comparison with later changes in the rules of the game, we will begin by assuming that they do not make any agreements about how to pursue their economic activities. (Recall that this means that they are engaged in a non-cooperative game.)
+Each derives well-being from eating fish and experiences a loss of well-being (disutility) with additional fishing time. We represent their preferences when they are engaged in some amount of fishing with the following quasi-linear utility functions:
+
+Fisherman's utility = Fish consumption Disutility of fishing
+
+Abdul's utility Bridget's utility
+
+uA(hA, yA) =
+
+yA
+
+1 2
+
+(hA
+
+)2
+
+uB(hB, yB) =
+
+yB
+
+1 2
+
+(hB
+
+)2
+
+(5.1) (5.2)
+
+The utility function given by Equation 5.1 tells us four things about Abdul's preferences:
+· Consumption (yA) measured in pounds of fish is a "good;" Abdul derives utility from obtaining more consumption (consuming more fish) which is why yA has a positive sign.
+· Time spent fishing (hA) measured in hours is a "bad:" the second term has a negative sign.
+· Utility (uA) is increased by one unit if he is able to consume one more
+pound of fish, so the units in which we can measure utility are pounds of fish.
+· Marginal utility of fish consumption is not diminishing but instead is a constant (equal to 1, because the coefficient of y in the utility function is 1).
+
+M - C H E C K Abdul's utility function in fish and fishing time is quasi-linear : it is linear in fish ­ he derives a positive and constant marginal utility from consuming fish ­ but is negative (it is a disutility) and non-linear in fishing time. His marginal disutility of fishing time is not constant, it is greater the more time he spends fishing.
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 205
+
+Consumption, yA
+
+slope = hA = 15 slope = hA = 10
+
+yg = 247.5
+
+yf = 190
+
+f
+
+z = 112
+
+u3A
+
+u2A
+
+u1A
+
+uzA g
+
+Figure 5.4: Abdul's indifference curves over output (yA) and fishing time measured in hours (hA). Output (fish) (yA) is a "good" and provides Abdul with positive utility, whereas fishing time (hA)
+is a "bad." Notice that Abdul's indifference curves
+in fishing hours and output are upward-sloping,
+similar to the indifference curves over money
+(income, a good) and working time (a bad) in
+Chapter 4.
+
+0
+
+5
+
+hfA = 10
+
+hgA = 15
+
+20
+
+24
+
+A's hours, hA
+
+Bridget's utility function Equation 5.2 is interpreted in the same way as Abdul's. Both of them refer to some given time period, such as a week. So output and consumption are pounds of fish caught and eaten in a week, while time spent fishing is hours fished over the course of a week.
+If they do not fish at all, they are able to find work yielding them a utility (in-
+come minus the disutility of work on that job) equal to uz = yz. These are labeled with the subscript z because this is their fallback position (as the en-
+dowment allocation was in Chapter 4).
+To decide how much time to fish, people like Abdul have to balance their disutility of hours of work with the utility of consumption that they get from consuming the fruits ­ or the fish ­ of their work time. To understand this process, we look at Abdul's indifference curves. His indifference curves provide a comparison of all possible combinations of fishing time and fish consumption, even if many of those combinations are not available to Abdul.
+
+R E M I N D E R The indifference map provides information on how he evaluates all of the imaginable combinations of fishing time and fish caught. It says nothing about the actions and outcomes that are feasible for him.
+
+The marginal rate of substitution and the marginal cost of fishing time
+Four indifference curves derived from Abdul's utility function, equation 5.1, are presented in Figure 5.4. Notice the following:
+· The higher numbered (meaning more preferred) indifference curves are above (more fish) and to the left (less work).
+· The curves slope upwards because fish is a good and fishing time is a bad, so comparing points f and g he is indifferent between fishing less and consuming less (point f) and fishing more and consuming more (point g).
+· The lowest indifference curve is labeled uAz and its vertical axis intercept is point z or the level of utility measured in fish per week, yAz that he will
+
+206 M I C RO E C O N O M I C S - D R A F T
+
+receive if he does not fish at all.
+· For any given level of yA the indifference curve is steeper the more hours Abdul works: the more he works the greater is his dislike of working more compared to how much he likes eating more fish.
+· For any of the indifference curves, uA1 , uA2 and uA3 , the vertical intercept is the amount of utility (in pounds of fish) that, if they were not working at all, would be the same as the utility at every other point on that indifference curve.
+
+The negative of the slope of his indifference curve is Abdul's marginal rate of substitution between fish (yA) and fishing time (hA). This is the ratio of his marginal utility of fishing time to his marginal utility of fish. This quantity takes a particularly simple form in this case. Abdul's marginal utility of fish is 1 and (as is shown in M-Note 5.1) his marginal utility of fishing time is hA. So, the marginal rate of substitution of fish consumption for fishing time is:
+
+mrsA(hA, yA) = hA
+
+(5.3)
+
+Or, what is the same thing: slope of indifference curve
+
+= hA
+
+Abdul's marginal rate of substitution of fish consumption for fishing time is hA, and this is also his marginal utility of fishing time, which is negative,
+because he regards fishing time as a "bad."
+The slope of his indifference curve is his marginal disutility of fishing time (just the marginal utility with the sign reversed). This is Abdul's maximum willingness to pay (in forgone consumption) to work less. If he were working
+12 hours, then his disutility of hours of fishing hA = 12 is the greatest amount
+of fish he would be willing to give up in order to be able have an hour more free time. This can also be seen as the marginal cost of fishing more, if he is already fishing 12 hours.
+
+M-Note 5.1: The mrs and the marginal cost of fishing time
+
+When Abdul's utility is given by Equation 5.1:
+
+Abdul's utility
+
+uA(hA, yA) = yA
+
+1 2
+
+(hA
+
+)2
+
+We have:
+
+Marginal utility of fish consumed (holding hA constant) = Marginal utility of fishing time (holding yA constant) =
+
+ uA(hA, yA)  yA
+
+=
+
+1
+
+ uA(hA, yA)  hA
+
+=
+
+hA
+
+The marginal utility of fishing time is negative (it reduces Abdul's utility and is equal to hA). We use the term marginal disutility of fishing time for the same quantity but with a
+positive sign (it increases Abdul's disutility).
+
+R E M I N D E R From M-Note 3.2 you know that
+
+the slope of an indifference curve is
+
+ux uy
+
+the
+
+negative of the ratio of the marginal utility
+
+of the variable on the x-axis divided by the
+
+marginal utility of the variable on the y-axis.
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 207
+
+The marginal rate of substitution of output for hours of work mrsA(hA, yA) is the negative
+of the slope of the indifference curve, which is ratio of the marginal utilities:
+
+mrsA(hA, yA) =
+This is Equation 5.3 in the text.
+
+hA 1
+
+=
+
+hA
+
+Checkpoint 5.1: The lake as a common property resource
+a. Explain why the lake that Abdul and Bridget are fishing is a common property resource. What are its characteristics? Explain.
+b. Return to Chapter 1 and the choice of strategies that the fishermen had in the Fishermen's Dilemma to Fish 10 hours or Fish 12 hours. Substitute these values into the utility functions to see what the payoffs in the corresponding game table would be if the fishermen could only choose these two strategies. Find the Nash equilibrium of the game.
+
+5.3 Technology and environmental limits: The source of a coordination failure
+A coordination problem arises because Abdul or Bridget fishing more reduces the amount of fish the other catches in an hour of fishing.
+These external effects are part of the technology of fishing. A technology is a description of the relationship between inputs ­ such as fishing time, equipment, and fish in the wild ­ and outputs ­ in this case caught fish. A technology is often described mathematically as a production function. You already used a production function in Figure 3.9 where the input was time spent studying and the output was learning.
+We depict Abdul's production function in the top panel of Figure 5.5. The higher of the two green curves represents the relationship between his labor
+input and his fish output when Bridget is not fishing at all, that is: hB = 0.
+The lower black curve shows how his output varies with his time fishing when
+Bridget fishes hB = 12 hours.
+Here is Abdul's production function and a similar one for Bridget, where xA for Abdul and xB for Bridget represents the number of fish caught by each of them in a week and hA and hB are the hours of fishing time they work during the week. Thus, production functions translate the actions taken by the two ­ their fishing hours (hA and hB) ­ into the amount that each catches (xA and xB) and consumes (yA and yB).
+A's catch & consumption: yA = xA(hA, hB) = hA(a b (hA + hB)) (5.4) B's catch & consumption: yB = xB(hA, hB) = hB(a b (hA + hB)) (5.5)
+
+TECHNOLOGY A technology is a description of the relationship between inputs ­including work, machinery, and raw materials ­ and outputs.
+R E M I N D E R A production function is a mathematical description of the relationship between the quantity of inputs devoted to production on the one hand and the maximum quantity of output that the given amount of input allows on the other.
+
+The two parameters of the production function are:
+
+208 M I C RO E C O N O M I C S - D R A F T
+
+· a (Greek alpha) is the fisherman's maximum average productivity, that is, total catch divided by time spent fishing which would occur if one of them fished some small amount of time and the other did not fish at all. We let a > 0 otherwise they could not ever catch any fish.
+· b (Greek beta) measures the decrease in average productivity for each hour fished in total by the two. We consider the case in which b > 0 to reflect their interdependence and the negative external effect that each fishing has on the other's catch.
+
+M-Note 5.2: The mrt and marginal benefits of fishing time
+
+We begin with Equation 5.4:
+
+A's catch & consumption: yA = xA(hA, hB) = hA(a b (hA + hB))
+
+This is the production function shown in Figure 5.5 for two different values of hB. We know
+that the cost to Abdul is the disutility of fishing time. The benefit is the fish he catches and consumes, so differentiating equation Equation 5.4 with respect to hA we can find:
+
+Marginal productivity (benefit) of fishing time yAhA = a b (hA + hB) b hA
+
+(5.6)
+
+Equation 5.6 is the slope of the production function in Figure 5.5, and also known as the marginal benefit of fishing time. The mrt is the negative of the slope of the feasible frontier, so:
+
+mrt = yAhA = a b (hA + hB) b hA = slope of feasible frontier
+
+(5.7)
+
+M - C H E C K We adopt parameters for the production functions so that Bridget and Abdul cannot work so many hours that their average productivity becomes negative, so that fishing more would reduce their total catch. This is why we do not extend the lower of the two production function curves in Figure 5.5 beyond 24 hours, the point after which the function turns downwards.
+
+The parameter b expresses three important aspects of the technology:
+· Decreasing average productivity: If Abdul spends more time fishing, his catch will be larger, but his average productivity ­ the size of the catch per hour fished ­ decreases. (You can see this by dividing his output shown in Equation 5.4 by his time fishing hA to get his average productivity.)
+· Decreasing marginal product of work time: If Abdul already fishes a lot, then the additional amount of fish that he catches were he to fish a little more will be less than if he were initially fishing a lesser amount. You can see this from Equation 5.6 in M-Note 5.2.
+· Interdependence: The fact that hA appears in Bridget's production function and hB in Abdul's represents the external effects and therefore the interdependence between the fishermen. The fact that the sign of these terms is negative means that the external effect is negative.
+Abdul's production function in the top panel of Figure 5.5 is increasing but becomes flatter the more time Abdul fishes. The slope of this production function is the marginal product of time fishing, indicating for each level of hA the increase in the amount of his catch that would result if he increased his fishing time a little. The slope of the production function provides two related pieces of information, the slope is both:
+
+Consumption, yA (pounds, lb)
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 209
+
+slope = -mrt = mb
+
+y(hA, hB = 0)
+
+288
+
+k
+
+j
+
+y(hA, hB = 12)
+
+216
+
+0
+
+3
+
+6
+
+9 12 15 18 21 24 27 30
+
+30
+
+24
+18 Marginal benefit when, hB = 12
+12
+
+k
+
+Marginal benefit
+
+j
+
+when, hB = 0
+
+Figure 5.5: Abdul's production of fish with hours
+of fishing and marginal benefit of hours spent
+fishing. In the top panel, Abdul's light green total
+product line corresponds to when Bridget does not fish (hB = 0) and Abdul's dark green total product line corresponds to when Bridget fishes 12 hours (hB = 12). Similarly, in the lower panel, Abdul's light green marginal benefit line corresponds to when Bridget does not fish (hB = 0) and Abdul's dark green marginal benefit line corresponds to when Bridget fishes 12 hours (hB = 12). Points k and j in the upper and lower figure present the
+same information in different ways. The slope at k
+in the upper panel, for example, is the height of the
+marginal benefit curve in the lower figure.
+
+A's marginal benefit (pounds, lb)
+
+0
+
+3
+
+6
+
+9 12 15 18 21 24 27 30
+
+A's hours, hA
+
+· the marginal benefit of fishing time because it indicates how much he benefits if he fishes a little more (how much the larger catch from additional fishing time raises his utility); and
+· the opportunity cost (in lost fish consumption) of working less
+The italicized expressions are different ways of stating the negative of the marginal rate of transformation.
+In the lower panel of Figure 5.5 we show the marginal product of an hour of fishing based on the production function shown in the top panel, labeled the marginal benefit of hours of fishing. When Abdul fishes 12 hours a week (and Bridget does not fish), his catch is 288 but when she also fishes 12 hours (the lower green curve) his catch is just 216 lbs. Equally important, when Bridget is not fishing, and Abdul is fishing 12 hours, his marginal product is 18. The fact that the marginal benefit curve shifts downward when Bridget fishes 12 hours reflects the fact that in the top figure for any given amount of fishing time by Abdul, the curve is flatter if she is fishing more.
+Summarizing, by comparing the two curves in the upper and lower panels of Figure 5.5 we can see the effect of Bridget fishing more on Abdul. Compared
+
+210 M I C RO E C O N O M I C S - D R A F T
+
+to when she does not fish, his production function is:
+· lower : This is a negative external effect, reducing the utility that Abdul can attain for any level of fishing time that he does, and
+· flatter : its slope is also less, so when Bridget fishes more the marginal benefit to Abdul of his fishing more declines. This reduces Abdul's incentive to fish.
+M-Note 5.3: Numerical examples for productivity and external effects
+
+Throughout the chapter, we'll cover a worked example where Abdul and Bridget have
+
+the same level of productivity and external effect on each other. As an illustration, we set
+
+a
+
+=
+
+30
+
+and
+
+that
+
+b
+
+=
+
+1 2
+
+.
+
+Abdul and Bridget's utility functions therefore become the following:
+
+Abdul's utility: Bridget's utility:
+
+ uA(hA, hB) = hA 30
+
+1 2
+
+hB
+
++
+
+hA
+
+ )
+
+ uB(hA, hB) = hB 30
+
+1 2
+
+(hA
+
++
+
+hB
+
+ )
+
+1 2
+
+(hA
+
+)2
+
+1 2
+
+(hB
+
+)2
+
+(5.8) (5.9)
+
+In the case where the fishermen fished alone, that is the other fishermen had zero hours
+
+fishing, Abdul's utility would therefore be: uA = 30hA
+
+1 2
+
+(hA
+
+)2
+
+1 2
+
+(hA )2
+
+=
+
+30hA
+
+(hA )2 .
+
+When Abdul and Bridget both spend time fishing, the external effect reduces Abdul's utility,
+
+therefore he would have:
+
+uA
+
+=
+
+30hA
+
+1 2
+
+hA
+
+hB
+
+1 2
+
+(hA
+
+)2
+
+1 2
+
+(hA
+
+)2
+
+=
+
+30hA
+
+1 2
+
+hA
+
+hB
+
+(hA )2
+
+Checkpoint 5.2: The meaning of beta
+The negative external effect of one's fishing on the other is represented by beta. Why does b affect the person who is fishing's own utility even when no one else fishes? Why does it make economic sense?
+
+5.4 A best response: Another constrained optimization problem
+To understand the Nash equilibrium of the interaction between Abdul and Bridget we will need to know how each will best respond to any of the possible levels of fishing chosen by the other. To do this we will derive the best-response function of each. We begin, as we did in Chapter 4, with a simpler problem: showing how one of them, Abdul, will choose how many hours to fish, when Bridget is fishing at some given number of hours.
+
+R E M I N D E R A player's best-response function gives, for every possible strategy chosen by other players, the strategy that maximizes the player's utility. A strategy profile in which all players are playing a best response, is a Nash equilibrium.
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 211
+
+Consumption, yA (pounds, lb)
+
+300
+
+u3A
+
+225
+
+u2A
+
+144
+
+u1A
+
+f
+
+A's production function
+s
+Feasible set, hB = 0
+
+Figure 5.6: Abdul maximizes his utility subject
+to the constraint of his production function
+when Bridget does not fish. A's production function is xA(hA, hB = 0) and it defines his feasible consumption, yA, when B is not fishing at all.
+
+0
+
+3
+
+6
+
+9 12 15 18 21 24 27 30
+
+
+
+24
+
+g
+
+Marginal cost or disutility mcA = hA
+
+A's marginal costs & benefits (lb)
+
+15
+
+6
+
+h
+
+s
+
+mb = mc
+
+Marginal benefit when, hB = 0
+
+0
+
+3
+
+6
+
+9 12 15 18 21 24 27 30
+
+A's hours, hA
+
+Choosing a level of fishing time
+This problem is set out in Figure 5.6, which combines Abdul's indifference
+curves from Figure 5.4 with his production function (when hB = 0) from Figure
+5.5.
+Abdul might first consider fishing six hours, with results indicated by points f, g, and h in Figure 5.6. To determine if he should fish 6 hours he would compare:
+· the marginal cost of working more: namely the marginal disutility of working time, which is the slope of the indifference curve at f shown as point h in the lower panel with
+· marginal benefit of working more: namely, the marginal benefit of his fishing time, which is the slope of the production function at f shown as point g in the lower panel.
+From the figure we see that at point f:
+24 = slope of feasible frontier > slope of indifference curve= 6 marginal cost of fishing more < marginal benefit of fishing more
+
+212 M I C RO E C O N O M I C S - D R A F T
+
+So Abdul would see that he would increase his utility by working more than 6 hours.
+How much more? He will best respond if he follows some simple rule:
+· mb > mc If the marginal benefit exceeds the marginal cost as at point f, then fish more.
+· mb < mc If the marginal cost exceeds the marginal benefit, then fish less.
+· mb = mc If the marginal benefit equals the marginal cost, do not change
+how much you fish.
+He will therefore use the rule: choose the level of fishing time such that:
+
+marginal benefit = marginal cost
+
+slope of feasible frontier = slope of indifference curve
+
+or
+
+mrs = mrt
+
+Rules
+
+Tangency of
+
+Rule for what
+
+mrs = mrt
+
+An individual's feasible frontier and indifference curve
+
+Individual constrained optimization
+
+mb = mc
+
+Restatement of mrs = mrt using marginal costs and benefits
+
+Individual constrained optimization
+
+mrsA = mrsB
+
+Two or more people's indifference curves
+
+Societal (multiperson) Pareto efficiency
+
+Table 5.1: Three rules: individual constrained optimization, societal Pareto efficiency, and firm cost minimization.
+
+A best-response function: Interdependence recognized
+You can confirm from the figure that following the mrs = mrt rule in italics just
+above, Abdul will fish 15 hours if Bridget is not fishing, indicated by point s in the figure (s for "solo" because Bridget is not fishing). This gives us just one
+point on his best-response function hA(hB = 0) = 15 hours.
+What about when Bridget is fishing, for example, 12 hours? This case is illustrated in Figure 5.7 where the new feasible set constraining Abdul is smaller, because his catch for any amount of time that he spends fishing is reduced by Bridget also fishing.
+Abdul knows that the level of fishing that will maximize his utility under these new conditions is that which, again, following the rule, equates:
+· the slopes of an indifference curve and his production function so that the two are tangent in the top panel
+· or, to put it another way, the marginal benefit and the marginal cost of more fishing in the bottom panel.
+This gives us a second point on Abdul's best-response function, hA(hB = 12) = 12. It is no surprise that Abdul fishes less when Bridget fishes more
+because we already know that Bridget's fishing more reduces the marginal benefit to Abdul's fishing.
+What about Abdul's response to Bridget fishing other hours. We do not have to go through the above process, tediously making a separate figure for each level of fishing time she might choose.
+
+Consumption, yA (pounds, lb)
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 213
+
+xA(hA, hB = 0)
+
+s
+
+300
+
+u3A
+
+u3A
+
+u2A u1A
+
+225
+
+u2A
+
+144
+
+u1A
+
+n Feasible set, hB = 12
+
+xA(hA, hB = 12)
+
+Figure 5.7: Abdul maximizes his utility subject to the constraint of the production function when Bridget spends 12 hours fishing. The feasible set is now smaller because of the negative
+external effect that her fishing imposes on Abdul.
+In the top panel, at point n his indifference curve labeled uA1 is tangent to his production function, meaning in the lower panel, that the marginal
+disutility of fishing time is equal to the marginal
+productivity of fishing time, or the marginal cost of
+fishing more is equal to the marginal benefit.
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+24
+
+Marginal benefit
+
+30
+
+when, hB = 0
+
+24
+
+Marginal disutility mcA = hA
+
+15
+
+Marginal benefit when, hB = 12
+
+12
+
+s n
+
+A's marginal costs & benefits (lb)
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+24
+
+A's hours, hA
+
+Instead we can use mathematical expressions for the marginal costs and benefits of fishing to determine Abdul's best response not as a discrete point, but as a continuous function, giving us his fishing time for any level of fishing Bridget might do.
+Using the rule that the best response is the number of hours that equates marginal benefits to marginal costs we have a general rule that can be expressed mathematically and which allows us to isolate hA as a function of hB and the parameters a and b . A best response is a value of hA that satisfies the following rule:
+
+Slope of production function = Slope of indifference curve
+
+Marginal benefit of fishing more = Marginal cost of fishing more
+
+Using Equations 5.3 and 5.7:
+a b (2hA + hB) = hA
+
+(5.10)
+
+Finally, re-arranging Equation 5.10 to isolate hA and to express his optimal fishing hours as a function of Bridget's hours hA(hB), we have:
+
+Abdul's best-response function:
+
+hA(hB)
+
+=
+
+a 1
+
+b hB + 2b
+
+(5.11)
+
+214 M I C RO E C O N O M I C S - D R A F T
+
+How does Abdul's fishing time hA change when the variable (hB) and the parameters (a and b ) change?
+· Change in Bridget's fishing time (hB): If Bridget decreases her fishing time, Abdul's marginal benefit curve shifts up, and Abdul's best response is to increase his fishing time to balance his marginal cost with the higher marginal benefit. Abdul's best-response function does not shift, he chooses a different level of fishing due to the change in Bridget's fishing time.
+· Change in maximum productivity (a): If Abdul's basic productivity increases, and nothing else changes, this shifts his marginal benefit curve up and independently of any change in Bridget's fishing time, he will increase his fishing time to balance his marginal cost with the higher marginal benefit. This is a shift in Abdul's best-response function itself, not just a movement from one point on it to another as in the bullet above.
+· Change in the external effect (b ): If the external effect increases, Abdul's marginal benefit curve pivots downward with a corresponding decrease in fishing time (b changes the slope of his marginal benefit curve). Like the increase in a, in this case Abdul changes his fishing time due to a shift in this best-response function.
+
+The best-response function for Bridget can be derived in the same way we derived Abdul's. Therefore her best-response function is:
+
+Bridget's BRF :
+
+hB(hA)
+
+=
+
+a b hA 1 + 2b
+
+(5.12)
+
+M-Note 5.4: Marginal benefits, marginal costs, and finding the best responses
+
+In M-Note 5.3, we used the example of a
+
+=
+
+30 and b
+
+=
+
+1 2
+
+to
+
+provide
+
+utility
+
+functions
+
+for
+
+Abdul and Bridget, as represented in equations 5.8 and 5.9. We now use those parame-
+
+ters to identify the first-order condition for Abdul's utility maximization where his marginal
+
+benefits equal his marginal costs and therefore to provide a best-response function.
+
+uA(hA, hB)
+
+=
+
+ hA 30
+
+1 2
+
+(hB
+
++
+
+hA
+
+ )
+
+1 2
+
+(hA
+
+)2
+
+uAhA
+
+=
+
+ uA  hA
+
+=
+
+ 30
+
+1 2
+
+hB
+
+ hA
+
+|h{Az} = 0
+
+|
+
+{z
+
+} Marginal cost
+
+Marginal benefit
+
+We can isolate Abdul's hours of work, hA, to find his best response to Bridget's hours of work:
+
+Abdul's BRF: Bridget's BRF:
+
+hA (hB )
+
+=
+
+30
+
+1 2
+
+hB
+
+2
+
+= 15
+
+1 4
+
+hB
+
+hB (hA )
+
+=
+
+30
+
+1 2
+
+hA
+
+2
+
+= 15
+
+1 4
+
+hA
+
+(5.13) (5.14)
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 215
+Each of them therefore has a best-response function that is a function of the other per-
+son's time spent fishing: hA(hB) for Abdul and hB(hA) for Bridget.
+
+M-Note 5.5: Mathematics of the best-response function
+
+To understand each player's response to the other, it is useful to understand their marginal
+utilities of hours of fishing. We do this for Abdul, in the understanding that Bridget will have symmetrical results. We will therefore find uAhA , Abdul's marginal utility of his own hours
+of fishing, uAhB , marginal utility to Abdul of Bridget's hours of fishing, and hA(hB), Abdul's
+best-response to Bridget's choice of hours. We start with Abdul's utility function:
+
+uA(hA, hB) = hA(a
+
+b (hA + hB))
+
+1 2
+
+(hA
+
+)2
+
+We can differentiate Abdul's utility function with respect to his own hours (hA) to find his marginal utility of his own hours of work. We also differentiate his utility function with re-
+spect to Bridget's hours of work to find how his utility changes when Bridget changes her hours (hB).
+
+Let us first find A's marginal utility of hA:
+
+uAhA
+
+=
+
+ uA  hA
+
+=a
+
+b hB
+
+2b hA
+
+hA
+
+= a b hB hA(1 + 2b )
+
+(5.15)
+
+And now, the marginal effect on A's utility of B's hours (hB):
+
+uAhB
+
+=
+
+ uA  hB
+
+=
+
+b hA
+
+(5.16)
+
+Using Equation 5.15, if we set Abdul's marginal utility uAhA
+
+=
+
+ uA  hA
+
+= 0, then we can find his
+
+best response to Bridget's hours of work:
+
+Isolate hA term
+
+uAhA
+
+=
+
+ uA  hA
+
+=a
+
+b hB
+
+hA(1 + 2b ) = 0
+
+hA(1 + 2b ) = a b hB
+
+A's BRF:
+
+hA
+
+=
+
+a b hB (1 + 2b )
+
+Which is what we found from setting marginal benefit equal to marginal cost to find Abdul's
+
+best-response function in Equation 5.11.
+
+Checkpoint 5.3: How the BRFs change
+
+Consider how the parameters would change the best-response functions in M-Note 5.3.
+
+a.
+
+What would happen if a
+
+b
+
+=
+
+1 3
+
+?
+
+= 30 changed to a
+
+=
+
+24 and b
+
+=
+
+1 2
+
+changed
+
+to
+
+b. What would the vertical and horizontal intercepts be for each of Abdul and
+
+Bridget's best-response functions? Sketch the best-response functions you
+
+found in a.
+
+216 M I C RO E C O N O M I C S - D R A F T
+
+24
+
+1
+
+ + 2
+
+=
+
+15
+
+hBN = 12
+
+B's best-response function
+
+n Nash equilibrium
+
+A's best-response function
+
+Figure 5.8: Nash equilibrium: mutual best responses for Bridget and Abdul. The equations for the best-response functions are:
+
+hB hA
+
+=
+
+a b hA 1 + 2b
+
+hA hB
+
+=
+
+a b hB 1 + 2b
+
+If a = 30 and b = 0.5, the parameters we used in the previous figures, then we can see that when Bridget does not fish (the intercept of Abdul's best-response function with the horizontal axis) he fishes 15 hours. The point at which their bestresponse functions intersect is the Nash equilibrium of the interaction. Using these same parameters, we can see that the Nash equilibrium given by Equation 5.17 is that they both fish 12 hours.
+
+B's hours, hB
+
+0 0
+
+hAN = 12
+
+1
+
+ + 2
+
+=
+
+15
+
+24
+
+A's hours, hA
+
+5.5 How will the game be played? A symmetric Nash equilibrium
+We do not have enough information to answer the question in the section title. To do this we need answers to other questions. Is one of them powerful enough determine the allocation unilaterally, stating: I fish 15 hours, and you are excluded from fishing? Is there a government that can place a tax on fishing to discourage over-harvesting the stock? Can Abdul and Bridget agree to fish less? If they did, can they count on their agreement being enforced? In other words, we need to know more about the rules of the game.
+One possibility is that the two are independent (they do not make agreements with each other) and neither has any particular advantage in their interaction. So they simply try to do the best that they can, given what the other is doing and given the information they have. We will investigate other rules of the game later.
+
+R E M I N D E R We began our analysis of Ayanda and Biko trading data and coffee in a similar way, with the two being symmetrical traders with neither of them having any particular advantage in the bargaining process.
+
+A stationary allocation among symmetric players
+To study this case, we graph the two best-response functions in Figure 5.8. This gives us all the information we need to determine the Nash equilibrium of their interact on.
+A Nash equilibrium is a mutual best response, so Abdul's choice of fishing hours must be a best response to Bridget's choice of fishing hours, which must in turn be a best response to Abdul's choice of fishing hours. This
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 217
+
+sounds complicated but with a little help from the mathematics we have already done, it is not: A Nash equilibrium is a point that is on both of the players' best-response functions.
+
+We label the point n and define the hours that they work at the Nash equilib-
+rium as (hAN , hBN ), where point n is the Nash equilibrium in the figure and
+the superscript N indicates each player's Nash equilibrium hours. A Nash
+equilibrium is a pair of fishing times (hAN , hBN ) that satisfy each fisherman's
+best-response function.
+
+We show in M-Note 5.6 how to find the Nash equilibrium hours of fishing for
+
+each person. At the Nash equilibrium, the two fishermen will spend the same
+
+amount of time fishing.
+
+hAN
+
+=
+
+hBN
+
+=
+
+a 1 + 3b
+
+(5.17)
+
+Equation 5.17 shows that each fisherman's hours spent fishing is defined by the parameters a and b , capturing the effects on their best-response of their maximum productivity, their decreasing marginal productivity, and the negative external effect each has on the other.
+
+The Nash equilibrium fishing hours, hAN and hBN , are equal because Abdul
+and Bridget have identical utility functions and production functions (other than reversing the superscripts), and they are determined by the parameters a and b . The greater is the maximum productivity, a, the greater will be their
+equilibrium hours of fishing. The larger is the negative effect each has on their own productivity and on the other person's productivity, b , the lower their
+equilibrium hours will be.
+
+M-Note 5.6: Finding Nash equilibrium fishing time
+
+By definition of the Nash equilibrium, Abdul's Nash equilibrium fishing time must be a best response to Bridget's Nash equilibrium fishing time, and Bridget's Nash equilibrium fishing time must be a best-response to Abdul's Nash equilibrium fishing time. A Nash equilibrium
+is therefore a pair of fishing times (hAN , hBN ) that satisfy the following equations:
+
+hAN
+
+=
+
+hA(hBN )
+
+=
+
+(a b hBN ) (1 + 2b )
+
+hBN
+
+=
+
+hB(hAN )
+
+=
+
+(a b hAN ) (1 + 2b )
+
+(5.18) (5.19)
+
+Equations 5.18 and 5.19 are two linear equations in two unknowns. We can solve the equations for the unknowns, which are the fishing times at the Nash equilibrium.
+There is a particularly simple way to do this in our case because:
+1. The two fishermen have identical utility functions (they are mirror images of each other); so
+2. we know that it must be that hAN = hBN , and
+3. we can therefore set the Nash equilibrium level of fishing of the one equal to the best-response function of the other.
+
+218 M I C RO E C O N O M I C S - D R A F T
+
+So substituting hB = hA, into Abdul's best-response function is:
+
+hA (hB )
+
+=
+
+a b hA 1 + 2b
+
+Multiplying out and isolating hA :
+
+hA + 2b hA = a b hA
+
+hA + 3b hA = a
+
+hA(1 + 3b ) = a
+
+hAN
+
+=
+
+a 1 + 3b
+
+= hBN
+
+Checkpoint 5.4: Storms and sustainability
+Imagine that the external effect increased, as it would, for example, if greater climate volatility produced storms that caused the two fishermen to fish in the same limited part of the lake.
+· Use the equation for the best responses of the two to redraw the figure. Why do the fishermen best respond by fishing less?
+· Use the equation for hAN and hBN to show that the Nash equilibrium level of fishing will decline.
+· Use what you have learned to explain how the best-response functions and the Nash equilibrium would change if the fishermen jointly adopt a strategy to let go of young fish to make the fish population more sustainable and reduce the external effect they have on the other fisherman.
+
+5.6 Market dynamics: getting to the Nash equilibrium
+When we used the equation for the Nash equilibrium level of hours of fishing (Equation 5.17) to say what the effect of a change in a or b would be, we used what is called comparative static analysis.
+When using comparative statics we compare the status quo Nash equilibrium before the change with the Nash equilibrium after the change.
+· The word static refers to the Nash equilibrium because at a Nash equilibrium there are no reasons for the actors to change what they are doing.
+· The process is comparative because we compare two or more equilibrium states before and after a change.
+We did the following:
+· We started with Abdul and Bridget at the Nash equilibrium, each fishing 12 hours.
+
+COMPARATIVE STATICS A method which analyses the process of change by comparing the status quo Nash equilibrium with an equilibrium after some change in the underlying data of the problem.
+R E M I N D E R When we say "other things equal" we are using the ceteris paribus assumption which allows us to compare what happens when one variable of interest changes.
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 219
+
+A's marginal costs & benefits (lb) B's hours, hB
+
+24
+
+Marginal benefit
+
+when hB = 12
+
+12
+
+mbA > mcA at 6 hours
+
+Marginal disutility mcA = hA
+
+n
+
+mbA < mcA
+
+at 18 hours
+
+24 A's best-response function
+
+mbA > mcA
+
+mbA < mcA
+
+mbB < mcB 15
+12
+
+mcB < mcB
+
+n
+
+B's best-response
+
+function
+
+mbB > mcB mbA > mcA
+
+mbB > mcB mbA < mcA
+
+0
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+24
+
+0
+
+A's hours, hA
+
+6
+
+12
+
+15
+
+18
+
+24
+
+A's hours, hA
+
+(a) Marginal benefits and costs when B fishes 12 hours
+
+(b) Dynamic analysis of A and B's choices
+
+· We then assumed that other things (like the weather) that might affect their fishing time are held constant (this is the ceteris paribus assumption or 'other things equal').
+· Then we compared the two Nash equilibria, one before the change in a or b and the other after the change.
+· We assumed that after the change Aram and Bina would be at the new Nash equilibrium, working some different number of hours.
+
+Figure 5.9: How players can get to the Nash equilibrium: A dynamic analysis. Panel a shows the marginal costs and benefits of Abdul's fishing if Bridget fishes 12 hours. Panel b shows the dynamics of the choices in terms of the fishermen's marginal benefits and marginal costs. The horizontal arrows show the direction Abdul will move if he is initially at the base of the arrow. The vertical arrows show the same for Bridget. The inequalities involving marginal benefits and costs (mb, mc) are the reason for the movement shown in the arrows (which are called "vectors").
+
+· Finally we considered the difference in work hours between the two Nash equilibria to be the effect of the change on work hours.
+
+This type of analysis is called static because it compares two static (unchanging) situations without looking at how the change takes place, that is, how they get to the new Nash equilibrium. This is an essential method of economic analysis, simplifying the matter by a shortcut. The shortcut is that we did not explore who did what to implement the move. In contrast, an analysis that includes the process of change rather than focusing exclusively on equilibria is called dynamic (the term dynamic refers to change, it is the opposite of static).
+We did not even explain why Abdul and Bridget would have been at the original Nash equilibrium in the first place. Fortunately, the way we have derived our best responses provides a method to fill in the necessary dynamic analysis.
+
+E X A M P L E Static analysis is like inferring movement by looking at two photos taken at some time interval; dynamic analysis is like watching a film of the same process.
+
+Remember, when Abdul was selecting a best response he adopted a simple check list based on the marginal benefits of fishing more (mb) and the marginal costs of fishing more (mc): if mb > mc, then fish more; if mb < mc,
+then fish less; if mc = mc don't change how much you are fishing.
+
+220 M I C RO E C O N O M I C S - D R A F T
+
+When we introduced this check list we focused on the last line, because that is the equality that determines the utility-maximizing level of fishing for Abdul, that is, it is a point on his best-response function.
+The first two "if" statements tell Abdul what to change when they are not at an equilibrium because he is not fishing the optimal amount given what Bridget is doing, that is when he is `off' his best-response function.
+As Figure 5.9 shows, these first two lines of Abdul's checklist tell us that starting at any allocation (that is any combination of fishing hours of each of them) in which direction he should move, shown by the arrows (called vectors). The dynamic analysis gives the following simple instruction: if you are not on your best-response function, move toward it.
+Abdul's arrows are green and horizontal (when he changes his fishing hours he moves left or right). The same reasoning allows us to show the dynamic arrows for Bridget, they are blue and horizontal, because when she changes her hours that moves the allocation point up or down.
+For example, in Figure 5.9 a, if Abdul is fishing 6 hours the marginal benefits of fishing more exceed the costs (the bracketed term on the left). So in Figure 5.9 b, the horizontal green arrows show that he will fish more. Similar reasoning (in reverse) applies to the case where he is fishing, for example, 18 hours. The extent by which the benefits differ from the costs depend on how much fishing Bridget is doing. Figure a shows the case for when she is fishing 12 hours. You can also work out how Bridget will adjust her hours if she is fishing more or less than the amount indicated by her best-response function.
+You can see from the figure that unless the allocation is at point n one or both of them will have an incentive to move (horizontally for Abdul, vertically for Bridget) in ways that will lead them towards the Nash equilibrium.
+This explains why if the Nash equilibrium shifted because of some change in either a or b , we would expect the two to alter their fishing hours to move towards the new Nash equilibrium. It also explains, if enough time had passed since the change to which they are responding, then we would expect both Bridget and Abdul to be at (or very close to) the Nash equilibrium. We now introduce a way that we can evaluate all of the possible equilibria of this game by the standards of Pareto efficiency and the resulting level of inequality.
+
+M-Note 5.7: Numerical Nash equilibrium
+
+In M-Note 5.4, we found the best responses for Abdul and Bridget given by Equations 5.13
+
+and 5.14. Using the method we outlined above and the same parameter values (a = 30
+
+and b
+
+=
+
+1 2
+
+),
+
+we
+
+set
+
+Abdul's
+
+Nash
+
+equilibrium
+
+hours
+
+of
+
+fishing
+
+(hAN
+
+)
+
+equal
+
+to
+
+Bridget's
+
+M - C H E C K Abdul might adopt the instruction: in any period, close half of the difference between the hours I am now working and the hours indicated by my best-response function, given how many hours Bridget is now working. For example, if Abdul were fishing 6 hours while Bridget fished 12 hours, he would increase his hours by
+(12 6)/2 = 3 hours.
+M - C H E C K They could have moved away from the equilibrium rather than towards it, had their best-response functions been different. The checkpoint provides an example. Whether and how actors may get to an equilibrium depends on their bestresponse functions, and the details of how they act when they are not at an equilibrium.
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 221
+
+best-response function to find the Nash equilibrium level of fishing time:
+
+Abdul's Nash equilibrium hours :
+
+hAN
+
+=
+
+15
+
+1 4
+
+hAN
+
+=
+
+Bridget's
+
+BRF
+
+Collect terms
+
+hA + 5 4
+
+1 4
+
+hA hA
+
+= =
+
+15 15
+
+4 Multiply by 5
+
+hAN
+
+=
+
+
+
+4 5
+
+
+
+15
+
+=
+
+12
+
+=
+
+hBN
+
+(5.20)
+
+As a result, we see that each will fish 12 hours at the Nash equilibrium. Therefore they each obtain the following Nash-equilibrium utility (by substituting hAN and hBN into their
+
+utility functions):
+
+uAN (hAN , hBN )
+
+=
+
+ hAN 30
+
+1 2
+
+(hBN
+
++
+
+hAN
+
+ )
+
+1 2
+
+(hAN
+
+)2
+
+=
+
+ 12 30
+
+1 2
+
+(12
+
++
+
+ 12)
+
+1 2
+
+(12)2
+
+= 216 72 = 144 = uBN
+
+Each of them has a utility of 144 at the Nash equilibrium and the total welfare (sum of
+utilities) is W N = uAN + uBN = 288.
+
+Checkpoint 5.5: Market dynamics
+Redraw a version of Figure 5.9 b, by removing the vectors (the arrows) and relabeling the best-response functions so that A's best-response function is now B's and similarly B's is now A's. Now consider some point in the lower left of the diagram and think about how A would respond (moving to the right, towards his best-response function), and how B would respond, moving up towards her best-response function. The arrows should look like they do in the original version of Figure 5.9 b. Do the same for the other three sets of arrows (two of them will not look like the original figure). Use the arrows you have drawn to say how the two will act if they are not at the Nash equilibrium (which is still the intersection at n). If they got to n, do you think they would stay there? Why?
+5.7 Evaluating outcomes: Participation constraints, Pareto improvements, and Pareto-efficiency
+Because the symmetrical interaction is just one of many possible rules of the game that Bridget and Abdul might engage in, we need to go beyond the Nash equilibrium for that game and think find a way to evaluate all of the possible allocations that they might experience.
+To do this, as in Chapter 4 we use the indifference maps of the two players superimposed on the same set of outcomes. Recall that in the previous chapter every point in the Edgeworth box indicated an allocation composed of a bundle of goods for Ayanda and another bundle of goods for Biko. We will see that the same is true in this case if we plot an allocation as the pair of fishing
+
+222 M I C RO E C O N O M I C S - D R A F T
+
+hours of the two, hA, hB. We start with Abdul's preferences.
+
+Because the utility of each depends on their own fishing time and the fishing time of the other, that is because
+
+Abdul's utility: Bridget's utility:
+
+uA(hA, hB) uB(hA, hB)
+
+(5.21) (5.22)
+
+we can plot indifference curves with fishing time on each axis: Bridget's fishing time (hB) on the vertical axis and Abdul's fishing time (hA) on the horizontal axis.
+We do this in panel a of Figure 5.10, where every point in the figure is a particular allocation of fishing times (hA, hB). Using these allocations we can calculate the utility that Abdul would experience were that allocation to occur. On this basis we can calculate Abdul's indifference curves based on his hours of fishing and Bridget's hours of fishing. Abdul prefers curves labeled with higher numbers, uAj > uAn > uAk (169 > 144 > 121). Notice two things about the indifference curves:
+· The vertical dimension, or the effect of Bridget fishing more. Abdul's preferred indifference curves are lower. This is because the less Bridget fishes the better it is for Abdul.
+· The horizontal dimension, or the effect of Abdul fishing more. If Bridget is fishing at the "low" level indicated in the figure and supposing that Abdul initially does not fish at all but considers fishing a little, he will start by finding himself at successively higher indifference curves as he fishes more, crossing the indifference curves labeled uAk , and then uAn and up to uAj . But if he spends too much time fishing he will then cross from uAj back down to indifference curve uAn and again go back down to uAk .
+
+Another perspective on a best-response function
+We can use the horizontal dimension of the figure to identify a point on Abdul's best-response function, associated with Bridget hypothetically fishing just 8 hours. We take this thought experiment as a constraint on Abdul's utility maximization. Remember Abdul prefers indifference curves that are lower down (indicating Bridget fishing less). The most preferred indifference curve that is feasible is the one tangent to the constraint, at point j, which is therefore a point in Abdul's best-response function.
+It may help to think of his indifference map as showing the contours of the shoulder of a hill, and Abdul as walking along a horizontal line at 8 hours towards point j, trying out different amounts of time he might devote to fishing. This is exactly what he did in Figure 5.6, comparing the marginal benefit and marginal cost of fishing more. At first he is climbing ­ crossing contours
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 223
+
+A's best-response
+
+function
+
+16
+
+k
+
+hHBigh = 16
+
+k
+
+12
+
+ukA = 121 n
+
+hBN = 12
+
+n
+
+unA = 144
+
+8
+
+j
+
+hLBow = 8
+
+j
+
+ujA = 169
+
+B's hours,hB B's hours,hB
+
+ukA unA
+
+ujA
+
+6
+
+8
+
+13
+
+A's hours, hA
+
+(a) Abdul making a choice constrained by Bridget's hours
+
+0
+
+11 12 13 15
+
+18
+
+A's hours, hA
+
+(b) Abdul's best-response function
+
+indicating ever-higher altitudes - higher utility. When he fishes 6 hours, he
+achieves utility uAk = 121, proceeding on to fish 8 hours, he achieves uAn = 144, and finally fishing 13 hours, he achieves uAj = 169. At point j his path
+levels off and if he continues to increase his fishing time he will descend to lower altitudes ­ lower utility ­ once more.
+Figure 5.10 b illustrates how two additional points on Abdul's best responsefunction are derived. The best-response function is constructed by considering all of the possible levels of fishing that Bridget could hypothetically do, and then reason as we did for point j.
+Notice that Abdul's best-response function intersects the indifference curves where the indifference curves are flat. If the indifference curve is flat then the mrs must be zero. In M-Note 5.8 we show why this must be true. In the right panel you can see that as Bridget's fishing time increases from 8 to 16 hours, Abdul's fishing time declines from 13 to 11 hours. He identifies his bestresponse hours of fishing by finding the point on his best-response function that corresponds to the number of hours Bridget fishes.
+
+Figure 5.10: A new look at Abdul's constrained optimization problem for selecting his fishing time depending on Bridget's fishing time. To illustrate the construction of Abdul's best-response function, in panel a we consider Abdul's decision about how many hours to work, given that Bridget has (hypothetically) decided to work 8 hours. The horizontal blue line is the constraint on Abdul's utility-maximizing process. In panel b, we consider three hypothetical levels of Bridget's fishing time. The horizontal lines represent Bridget's fishing time at each of these levels, and are the constraint on Abdul's maximization process. One of these horizontal lines is tangent to each of Abdul's indifference curves hB = 8 tangent to uAj at point j, hB = 16 tangent to uAk at point k, and hBN = 12 tangent to uAn at point n. Abdul's entire bestresponse function is made of points like j, n, and k, for each of Bridget's possible levels of fishing hours.
+
+M-Note 5.8: Why is the best-response function made up of points
+where the indifference curves are flat?
+Abdul's utility function defined over his and Bridget's hours of fishing is uA(hA, hB). To find the slope of his indifference curves in (hA, hB) space, we proceed as we did in M-Note
+3.2. We totally differentiate his utility function and set the result equal to zero:
+duA = uAhA dhA + uAhB dhB = 0
+
+dhB dhA
+
+=
+
+uAhA uAhB
+
+224 M I C RO E C O N O M I C S - D R A F T
+
+which, using Equations 5.15 and 5.16, becomes:
+
+uAhA uAhB
+
+=
+
+(a b hB (1 + 2b )hA) b hA
+
+1 or, multiplying by 1
+
+=
+
+a b hB (1 + 2b )hA b hA
+
+(5.23) (5.24)
+
+The numerator of this expression is the marginal effect on Abdul's utility of fishing more, which for modest amounts of fishing time is positive. This is why the indifference curves slop upwards when he is fishing 6 or 8 hours in Figure 5.10.
+Abdul's best-response function gives the values of hA and hB for which the derivative of Abdul's utility with respect to his fishing time is equal to zero or:
+uAhA = a b hB (1 + 2b )hA = 0
+If uAhA = 0, then the numerator of Equations 5.25 and 5.23 is zero, so the slope of the indif-
+ference curve is equal to zero, which means that it is flat.
+
+Checkpoint 5.6: The marginal rate of substitution
+Although each of the fishermen doesn't "control" the hours of work that the other does, we can still think in sensible ways about the marginal rate of substitution.
+a. Consulting Figure 5.10, what is the sign of the marginal rate of substitution going from left to right along the indifference curve leading up to point n on uA2 (on the left-hand side of point n)? Why?
+b. Continuing to consult Figure 5.10, what is the sign of the marginal rate of substitution going from left to right along the indifference curve on the righthand side of point n on uA2 ? Why?
+c. Why does the sign change at point n?
+Fallback positions and the Pareto improving lens
+We have said that rules of the game other than symmetrical interaction will lead to different Nash equilibrium allocations. As long as the interaction among the two is voluntary ­ there are no "offers you cannot refuse" ­ we can limit the possible outcomes by thinking about the alternatives that the two would have, should they decide not to fish at all. Any allocation in which they both fish and that makes either of them (or both) worse off than how they would do if they did not fish at all will not occur for the simple reason that they will not fish if they could do better by not.
+Recall that that if they do not fish at all, they both have a fallback option yield-
+ing them a utility uz = yz. This is their fallback position (like the allocation z in
+the Edgeworth box of the previous chapter). But they only receive their fallback if they do not fish, so the opportunity cost of fishing ­ what they cannot have if they fish ­ is yz. In Figure 5.11 we show both Abdul's and Bridget's indifference maps. We see from the numbering of the utility labels on the curves
+
+B's hours, hB
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 225
+
+24 u1B = 144
+
+B's PC
+
+21
+u3B = 155.8
+18
+
+Pareto-efficient
+
+15
+
+curve
+
+uzB = 112
+
+12
+
+9
+
+6
+
+3
+
+0
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+A's hours, hA
+
+A's PC
+
+uzA = 112
+
+u3A = 155.8 u1A = 144
+
+18
+
+21
+
+24
+
+Figure 5.11: Abdul's indifference curves and
+Bridget's indifference curves showing their
+fallback levels of utility (their participation constraints), uAz and uBz . At their fallback positions, they are not fishing at all and have their fallback utility u2 = y2 = 112.
+
+that Bridget's indifference curves give greater values the closer they are to the vertical axis (as Abdul's did with the horizontal axis).
+For each of them, one of their indifference curves is particularly important: it is labeled uAz and uBz . These two curves show all of the allocations hA, hB that yield, for Abdul and Bridget respectively a level of utility equal to the
+utility of their fallback position namely uz = yz. This is the participation con-
+straint for each of them: they will not participate in fishing unless they can do at least this well. Any point between these indifference curves is a Paretoimprovement over their fallback position: both are better off than their fallback option shown by the Pareto-improving lens shaded in yellow.
+
+The Pareto-efficient curve
+
+There is another important curve in Figure 5.11: the purple solid and dashed Pareto-efficient curve. We know that Pareto-efficiency requires that the fishermen's indifference curves be tangent, that is, for their marginal rates of substitution to equal. You can see two of these tangencies in the interior of the Pareto improving lens. The other tangencies defining the Pareto-efficient curve are not shown. The Pareto-efficient curve is made up of all points repre-
+senting allocations that satisfy the mrsA = mrsB rule:
+
+mrsA
+
+=
+
+uAhA uAhB
+
+=
+
+uBhA uBhB
+
+= mrsB
+
+(5.25)
+
+The figure clarifies the difference between Pareto improvements and Pareto
+
+226 M I C RO E C O N O M I C S - D R A F T
+
+efficiency :
+· The points on the purple Pareto-efficient curve that are indicated by a dashed line outside the yellow Pareto improving lens are Pareto-efficient but not Pareto improvements over the fallback no fishing option.
+· The points in the yellow Pareto-improving lens that are not on the purple Pareto-efficient curve are Pareto improvements over the no fishing option but not Pareto efficient.
+Checkpoint 5.7: Understanding the parameters
+a. Draw the lens of Pareto improvements over the no-fishing option, if the
+fallback option of both improved to uz = 144.
+b. Do the same if Abdul's fallback option improved (to 144) but Bridget's remained unchanged.
+
+5.8 A Pareto-inefficient Nash equilibrium
+
+We return now to the symmetrical interaction between Bridget and Abdul, in which the Nash equilibrium is the allocation at the intersection of their bestresponse functions. And we ask: is that allocation Pareto-efficient?
+
+To answer, we combine two figures we have already introduced: Figure 5.11 showing the two fishermen's indifference curves and Figure 5.8 showing their best-response functions. The combination of these figures results in Figure 5.12.
+
+Figure 5.12 shows that the Nash Equilibrium is not Pareto-efficient: at the Nash allocation (point n) the indifference curves of the two intersect rather than being tangent. So allocation n cannot be Pareto-efficient.
+
+How do we know that their indifference curves cannot be tangent at that point that is, how do we know that
+
+mrsA
+
+=
+
+uAhA uAhB
+
+6=
+
+uBhA uBhB
+
+= mrsB
+
+(5.26)
+
+The answer is that the Nash equilibrium is a point on both best-response
+functions, defined by uBhB = 0 for Bridget's best response and uAhA = 0 for
+Abdul's best response. At the best response each fisherman adjusts their
+own fishing time to maximize utility so that these two terms will be zero. If we
+substitute the zeroes for the marginal utilities in Equation 5.25, we find the
+following:
+
+· The first expression is now zero divided by uAhB so the slope of Abdul's indifference curve is zero; it is flat (as in Figure 5.12, and as we shows in
+M-Note 5.8), and
+
+R E M I N D E R To understand Figure 5.12 it will help to remember that for Abdul down is better (his indifference curves have higher utility the lower they are) because the less Bridget fishes the better it is for him. Similarly, Bridget is better off on the indifference curves further to the left.
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 227
+
+· The second expression is now uBhA divided by zero, so the slope of Abdul's indifference curve is infinite; it is vertical (as in Figure 5.12 too)
+A flat line cannot be tangent to a vertical line, so the condition for Pareto efficiency is violated and the Nash equilibrium is not Pareto-efficient.
+
+Checkpoint 5.8: Checking the marginal rate of substitution
+
+Use
+
+the
+
+values
+
+of
+
+a
+
+=
+
+30
+
+and
+
+b
+
+=
+
+1 2
+
+and
+
+substitute
+
+them
+
+into
+
+the
+
+expression
+
+for
+
+marginal rate of substitution for Abdul and Bridget (e.g Equation 5.23 for Abdul).
+
+a. Confirm that when Abdul sets his mb = mc, the numerator is zero.
+b. Also confirm that if you find the equivalent for Bridget, the mrsB = · (or it
+is undefined) when Bridget sets her marginal benefits equal to her marginal costs.
+
+A view from a Pareto-inefficient status quo Nash equilibrium
+We now imagine Abdul and Bridget, fishing 12 hours each as indicated by the Pareto-inefficient Nash equilibrium. They realize they could both do better. And they consider the options. Each fisherman might propose some different allocation. To agree on an alternative level of fishing, the proposal would have to implement a Pareto improvement. The Pareto improvement would need to be over the Nash equilibrium, not over their no-fishing fallback option. Remember that the Nash equilibrium is already better than their fallback positions.
+With allocation n the new fallback for the agreement, we now have a new yellow shaded Pareto-improving lens. There are two things to notice about Pareto-improvements over the Nash allocation:
+· both fishermen spend less time fishing and both are better off (have higher utility than at the Nash equilibrium) and
+· the new Pareto-improving lens is much smaller than the lens of Pareto improvements over the no-fishing fallback option.
+The reason why there exist allocations that are Pareto improvements over the Nash is as follows.
+· Reason 1: Each of them would benefit a lot if the other were to fish less and
+· Reason 2: at the Nash equilibrium each of them would experience very little lost utility by themselves fishing a little less.
+Reason 1 concerns each fishermen's marginal utility with respect to the other's hours of fishing, and we can see that uAhB < 0 and uBhA < 0 because each fisherman's fishing time reduces the other's productivity.
+
+228 M I C RO E C O N O M I C S - D R A F T
+
+u3B
+
+unB
+
+uzB
+
+B's best-response
+
+15
+
+function
+
+hBN = 12 hB* = 10
+
+Pareto-efficient curve
+
+n i
+
+Figure 5.12: The Nash equilibrium and the Pareto-improving lens. The Pareto-improving fishing times (in which both fish less) are in the pale yellow lens. Notice that Abdul's indifference curve at the Nash equilibrium is flat, and Bridget's at the same point is vertical (their marginal rates of substitution are not equal). This being the case there must be a Pareto-improving lens and the Nash equilibrium cannot be Pareto-efficient.
+
+B's hours, hB
+
+uzA unA
+
+A's best-response function
+
+u3A hA* = 10
+
+hAN = 12 15
+
+A's hours, hA
+
+Concerning Reason 2, suppose that, at the Nash equilibrium level of the fishing times, Bridget decided she would try to bribe Abdul to fish less. How much would she have to give him to fish a tiny bit less? The answer is "almost nothing" because at the Nash equilibrium, changes in his fishing time have no effect on his utility. The reason is that the marginal benefits of fishing a little more or less equal the marginal costs of fishing a little more or less (that is how he chose that level of fishing to do).
+So Abdul's fishing a little less would not matter much to Abdul but it would definitely benefit Bridget. A similar result is true for Bridget: Abdul could bribe her to fish a little less for a tiny portion of his fish. This being the case if they both could agree to fish less (and just forget about the bribes) they would both be better off.
+The conclusion is that Bridget and Abdul need not lament their sorry condition at the Nash equilibrium. If a deal can be enforced ­ an agreement to limit fishing, maybe along with a bribe ­ there's a deal to be made that benefits them both.
+We turn now to considering changes in the rules of the game that might reduce fishing times, keeping in mind that we are thinking about not just two people, but an entire community of people ­ perhaps the entire world's population if we are considering coordination problems such as climate change or the spread of epidemic diseases.
+M-Note 5.9: The Nash equilibrium cannot be Pareto-efficient
+To show that the Nash equilibrium is not Pareto-efficient we ask if they could agree each to fish an arbitrarily small amount less would they both be better off. If the answer is "yes," then the Nash equilibrium cannot be Pareto-efficient. We know that uAhB < 0 and uBhA < 0
+each would be better off if the other fished less. We also know that uAhA = 0 and uBhB = 0
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 229
+
+because these equalities define Bridget's and Abdul's best-response functions, and the Nash Equilibrium they are trying to improve on is a pair of strategies each of which is a best response to the other.
+So for any change dhA and dhB, representing an agreement to change their fishing time, we can evaluate the change in each utility associated with change in the fishing times of each.
+
+duA = uAhA dhA + uAhB dhB duB = uBhA dhA + uBhB dhB
+Eliminating the terms equal to zero in the expressions above, namely those involving uAhA and uBhB we have:
+
+or, rearranging
+
+duA = uAhB dhB < 0 duB = uBhA dhA < 0
+
+duA dhB
+
+= uAhB
+
+<0
+
+duB dhA
+
+= uBhA
+
+<0
+
+Both expressions are negative: the utility of each would be enhanced by an agreement to fish a little less. The Nash equilibrium allocation of fishing times is not Pareto-efficient.
+
+Checkpoint 5.9: Pareto-improvements
+
+Use
+
+the
+
+numerical
+
+values
+
+of
+
+a
+
+=
+
+30
+
+and
+
+b
+
+=
+
+1 2
+
+.
+
+a. How much utility would the players have if they both simultaneously reduced their hours of work from the Nash equilibrium values of 12 hours to 11 hours? Would they be better or worse off?
+b. If one reduced their hours to 11 hours, what would the other's best response be? Would they actually reduce their hours to 11 or not?
+
+5.9 A benchmark socially-optimal allocation
+
+To provide a benchmark or standard against which we might evaluate the various rules of the game that might improve on the Nash equilibrium of the symmetric interaction above, we will reintroduce the Impartial Spectator, who we relied on for the same purpose in Chapter 4. The Impartial Spectator wishes to determine fishing time and distribute fish so as to maximize a social welfare function, which, because she values the utilities of the two equally, is just the sum of the utilities of the two:
+
+Total social welfare = Abdul's utility + Bridget's utility W = uA(hA, hB) + uB(hA, hB)
+
+(5.27)
+
+R E M I N D E R In Chapter 4, we gave the Impartial Spectator Cobb-Douglas preferences over the two players' utilities. Here we have the Impartial Spectator sum the utilities of the two fishermen, as the Impartial Spectator did in Chapter 3.
+
+230 M I C RO E C O N O M I C S - D R A F T
+She knows that the solution to this problem must be Pareto-efficient, because if it were not, then one of the two could be made better off without worsening the condition of the other, so this could not be the optimum for the Impartial Observer, who values the well being of both. This means that the socially optimal allocation must be somewhere along the Pareto-efficient curve in Figure 5.12. But where?
+
+A socially optimal allocation
+To answer the question, we transform the view of the problem in Figure 5.12, where the space in the figure is defined for hours of fishing, into a new graph, Figure 5.13, in which presents the same information in terms of the utilities of the two. The Pareto-efficient curve in Figure 5.12 appears in Figure 5.13 as the dark green curve that is frontier of the feasible set of utilities.
+Its slope is the marginal rate of transformation of Bridget's utility into Abdul's utility. This provides the answer to the question: along the feasible frontier, how much does Bridget's utility have to fall in order for Abdul's to increase by one unit?
+You can see that when Bridget has almost all of the feasible utility then it does not `cost' Bridget much for Abdul to have a little more (the frontier is not very steep); but the marginal rate of transformation rises (the curve steepens) as Abdul gains more utility. The reason is that when Bridget has most of the utility, she is working long hours (almost 15) and incurring a substantial disutility of working time as a result. Taking account of both her reduced disutility and her smaller catch, fishing a little less would not reduce her utility much. But for Abdul fishing a little more would substantially increase his utility. So when Bridget is doing most of the fishing (and gaining most of the utility) the opportunity cost of increasing Abdul's utility (in terms of Bridget's forgone utility) is small.
+The Impartial Spectator's values are expressed by her indifference curves (the blue lines), their slopes, her marginal rate of substitution, are a constant, namely 1, because she values the utility of the two equally.
+The point z represents the fallback utilities of the two (namely 112), and the yellow shaded area is the set of feasible Pareto-improvements over this fallback position. You can see that the Impartial Spectator's social optimum point, i, is found where the highest feasible Impartial Spectator's indifference curve is tangent to the utility possibilities frontier (the frontier of the feasible set). So
+this is another case of the mrs = mrt rule, but now for the Impartial Spectator,
+rather than Abdul or Bridget.
+
+R E M I N D E R This is exactly what the Impartial Spectator did in the previous chapter, for example, Figure 4.5.
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 231
+
+B's utility, uB
+
+W3 = 350
+
+225
+
+W2 = 300
+
+W1 = 250 150
+
+112
+
+Feasible utilities
+
+A's PC
+
+i z
+
+B's PC
+
+Utillity possibilities
+frontier
+
+112 150
+
+225
+
+A's utility, uA
+
+Rules that implement the social optimum
+
+We know that acting on the basis of their best-response functions Abdul and Bridget over-exploit the resource. They could both do better if they adopted a different rule for deciding how much to fish. Before turning to institutions that might implement such a new rule for their decisions, let's think about a rule that would exactly implement point i in the figure. The Impartial Spectator reminds the two fishermen that the coordination failure occurring at the Nash equilibrium occurs because when they chose their fishing time they did not take account of the external costs that their fishing imposed on the other fisherman. Rules that would avert (or lessen) this coordination failure will get each of them to internalize these costs.
+
+To find the optimum, point i in Figure 5.13, the Impartial Spectator proposes the following rules that, if followed, will maximize her social welfare function (Equation 5.27). We show in the M-Note 5.10 how these are derived.
+
+hA = a 2b hA 2b hB hB = a 2b hA 2b hB
+
+(5.28)
+
+Focusing on the equation for Abdul, the socially optimal condition looks very similar to Abdul's best-response function when he was maximizing his own utility, except for one big difference. We show Abdul's best-response function again below as his own optimality condition, Equation 5.29:
+
+Marginal private costs = Marginal private benefits
+
+Abdul's own optimality condition hA = a 2b hA b hB
+
+(5.29)
+
+Comparing Equations 5.28 and 5.29 we can find the following:
+
+Marginal social costs = Marginal private benefits
+
+Abdul's social optimality condition hA + b hB = a 2b hA
+
+(5.30)
+
+Figure 5.13: Feasible utilities, the utility possibility frontier, and the Impartial Spectator's iso-social welfare indifference curves. Here we show the utility possibilities frontier and feasible utilities for the Impartial Spectator. All points on the frontier are Pareto-efficient. The points above and to the right of the fishermen's participation constraints constitute the bargaining set, that is the outcomes that are Pareto-superior to their fallback options, uAz = uBz = 112. The Impartial Spectator's iso-social welfare indifference curves show her equal valuation of the utility of the two and the negative of the slope of her iso-social welfare curves is her marginal rate of substitution. The slope of her iso-social welfare curves is -1 indicating that she values the two utilities equally. The negative of the slope of the utility possibilities frontier is the marginal rate of transformation of Bridget's utility into Abdul's. That is, it is the opportunity cost of Abdul having more utility in terms of the utility that Bridget forgoes as a result.
+The impartial spectator will therefore choose point i where mrs = mrt to maximize social welfare given the constraint of the utility possibilities frontier.
+
+232 M I C RO E C O N O M I C S - D R A F T
+
+we see that the difference is that there is an extra b hB in the socially optimal condition (Equation 5.28). This is the negative external effect of Abdul's fishing on Bridget's utility. In Equation 5.30 we have moved the b hB term to the left-hand side of the equation, adding it to the marginal private cost of fishing more (namely the disutility of hours of fishing, hA). Together, these are the marginal social cost. So Equation 5.30, the condition for Abdul's fishing time to implement a social optimum says the following.
+
+marginal private cost + marginal external cost = marginal private benefit
+
+The left-hand side is called the marginal social cost. The private cost (marginal or average) is the cost that the decision-maker bears as a result of some action that he or she takes. The social cost is the private cost plus any costs imposed on others as negative external effects. The Impartial Spectator's rule causes Abdul to act is if he is taking account of this cost ­ treating the costs he imposes on Bridget no differently than his own disutility of labor ­ when deciding on how much to fish.
+
+Imposing the same condition on Bridget, the Impartial Spectator provides a
+
+rule where each fisherman internalizes the negative external effect of their
+
+hours of fishing on the other. As a result, we arrive at the levels of socially optimal fishing time for Abdul and Bridget, denoted by as hAi and hBi :
+
+Abdul's socially optimal fishing time : Bridget's socially optimal fishing time :
+
+hAi
+
+=
+
+a 1 + 4b
+
+hBi
+
+=
+
+a 1 + 4b
+
+(5.31) (5.32)
+
+Because b > 0, we see that each of the players' Nash equilibrium levels of
+
+fishing time are higher than the socially optimal levels:
+
+hAN
+
+= hBN
+
+=
+
+a 1 + 3b
+
+>
+
+a 1 + 4b
+
+= hAi = hBi
+
+These socially optimal levels of fishing time correspond to point i (for impartial) in Figure 5.12 where Abdul and Bridget have the same fishing time (10 hours) and the same level of utility.
+The job description of the Impartial Spectator is not to figure out how this optimal allocation might be implemented ("way above my pay scale," she says). We leave that to a second (also imaginary) person who we will introduce in the next section.
+M-Note 5.10: The Impartial Spectator's choice
+We know that the Impartial Spectator has the following social welfare function, and we can
+
+PRIVATE COST The private cost (marginal or average) is the cost that the decision-maker bears as a result of some action that he or she takes. SOCIAL COST The social cost is the private cost that the decision-maker bears plus any costs imposed on others as negative external effects.
+R E M I N D E R In Chapter 1.16 we showed how making a defector in the Prisoners' Dilemma game responsible for paying for the harm they inflict on a cooperator internalizes these external effects and replaces the Paretoinefficient dominant strategy equilibrium with a Pareto-efficient outcome.
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 233
+
+substitute the fishermen's utility functions into W as follows:
+
+Total Social Welfare = Abdul's Utility + Bridget's Utility
+
+W = uA + uB
+
+=
+
+ hA a
+
+b (hA + hB) + hB(a
+
+ b (hA + hB)
+
+1 2
+
+(hB
+
+)2
+
+1 2
+
+(hA
+
+)2
+
+=
+
+ahA + ahB
+
+2b hAhB
+
+1 2
+
+(hA
+
+)2
+
+1 2
+
+(hB
+
+)2
+
+(5.33)
+
+Next, we need to find the social welfare maximum, or optimal social welfare, for the Impar-
+tial Spectator. To do this, we partially differentiate W with respect to the hours of fishing of each fisherman, hA and hB, as follows to find the first order conditions for the social welfare optimum:
+
+WhA
+
+=
+
+W  hA
+
+= a 2b hB 2b hA hA = 0
+
+hA
+
+=
+
+a b hB b hB 1 + 2b
+
+WhB
+
+=
+
+W  hB
+
+= a 2b hA 2b hB hB = 0
+
+hB
+
+=
+
+a b hA b hA 1 + 2b
+
+(5.34) (5.35)
+
+Notice that Equations 5.34 and 5.35 look similar to the best-response functions we found previously, but that each incorporates an additional b hB for Abdul in the numerator of Equation 5.34 and b hA for Bridget as shown in the numerator of Equation 5.35. These
+terms correspond to the cost of the external effect that each fisherman imposes on the
+other.
+
+M-Note 5.11: Numerical choice of the Impartial Spectator
+
+We substitute each fisherman's utility function (Equations 5.8 and 5.9) into the social
+
+welfare
+
+function
+
+and
+
+use
+
+the
+
+parameter
+
+values
+
+of
+
+a
+
+=
+
+30
+
+and
+
+b
+
+=
+
+1 2
+
+.
+
+W
+
+= =
+
+uA + uB hA 30
+
+1 2
+
+(hB
+
++
+
+hA
+
+ )
+
+1 2
+
+(hA
+
+)2
+
++
+
+hb
+
+ 30
+
+1 2
+
+(hA
+
++
+
+hB
+
+ )
+
+1 2
+
+(hb
+
+)2
+
+= 30hA + 30hB hAhB 2(hA)2 2(hB)2
+
+(5.36)
+
+As in M-Note 5.10, the Impartial Spectator needs to determine how much each person should work. To determine this, we differentiate the social welfare function defined by Equation 5.36 with respect to the two hours of work:
+
+W WhA =  hA
+
+= 30 hB 2hA
+
+) hA
+
+=
+
+30 2 hB = 15
+
+1 2
+
+hB
+
+W WhB =  hB
+
+= 30 hA 2hB
+
+) hB
+
+=
+
+30 2 hA = 15
+
+1 2
+
+hB
+
+(5.37) (5.38)
+
+We can solve for the Impartial Spectator's choice of work hours for Abdul and Bridget by substituting Equation 5.38 for hB into Equation 5.37. Following the process of substitution
+
+234 M I C RO E C O N O M I C S - D R A F T
+
+as usual, we find:
+Collect terms Multiply by
+
+hAi
+
+=
+
+15
+
+1 2
+
+ 15
+
+1 2
+
+hAi
+
+
+
+hAi
+
+=
+
+15
+
+7.5
+
++
+
+1 4
+
+hAi
+
+3 4
+
+hAi
+
+=
+
+7.5
+
+4 3
+
+hAi
+
+=
+
+4 3
+
+(7.5)
+
+=
+
+30 10
+
+hAi = 10 = hBi
+
+Each of them will work 10 hours. At the allocation (hAi , hBi ), each has a utility of 150, which
+is higher than they had at the Nash equilibrium (i.e. 144) and the total social welfare is
+Wi = uAi + uBi = 150 + 150 = 300.
+
+Checkpoint 5.10: Changing things for the Impartial Spectator
+
+Assume
+
+that
+
+a
+
+=
+
+24
+
+and
+
+b
+
+=
+
+1 3
+
+instead
+
+of
+
+the
+
+values
+
+you
+
+have
+
+used
+
+so
+
+far.
+
+a. What would the number of hours be at the Nash equilibrium? How much utility would each player have and what would the total utility be?
+b. How many hours would the Impartial Spectator choose? How much utility would each player have and what would the total utility be?
+c. Sketch the best-response functions you found for (a).
+
+Remedies: Preferences, power, and policy
+Stories about two fictional people such as Abdul and Bridget and their textbook lake are light years away from real fishermen in Point Judith, U.S.A or Port Lincoln, Australia. John Sorlien, the lobsterman who we quoted at the start of the chapter, is in competition not with a single other fisherman, but with hundreds. Unlike Abdul and Bridget (so far) real-world fishermen and lobstermen do sometimes cooperate to pursue common objectives (Sorlien headed the Rhode Island Lobstermen's Association).
+A friendly conversation and a handshake might be enough for Bridget and Abdul. But how might such an agreement be arrived at, and how might it be enforced in Rhode Island or South Australia? An even greater challenge is how to design and enforce similar agreements ­ for example to burn less carbon in order to mitigate climate change ­ that span not thousands of actors but billions living under the jurisdiction of hundreds of independent governments.
+But the parable of Abdul and Bridget has provided an important insight. Illuminating the basic source of coordination failures: the negative effect of their own fishing on the other person (uAhB and uBhA , that is) is not part of the utility-maximizing process by which each choose how much to fish.
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 235
+
+Addressing these external effects is where institutions come in, meaning changes in the rules of the game. There are three basic approaches whether the common property resource that is being over-exploited be a fish stocks in a lake or the limited carbon emissions carrying capacity of earth's atmosphere.
+· Regulation of the exploitation of the resource by a government.
+· Private ownership of the resource so that private incentives will deter overexploitation.
+· Management of the resource through local interactions among the the resource users.
+These three approaches are sometimes referred to as states (meaning governments), markets, and communities, or similar terms.4
+
+H I S TO RY In 1968, Garrett Hardin wrote that "freedom in the commons means ruin to all" and as a result he advocated ­ "mutual coercion mutually agreed upon." But Hardin's pessimism overlooked the many non-coercive ways that local communities have prevented the tragedy.3
+
+5.10 Government policies: Regulation and taxation
+To underline the fact that we are not modeling actual governments but instead an ideal of what a well-informed set of public officials seeking to implement better allocations might do, we will introduce a second hypothetical character, the Mechanism Designer. He is tasked with finding policies to implement outcomes that would be recommended by the Impartial Spectator according to her values of efficiency and fairness. He is an economist, with an engineering mentality, she is a philosopher and her job is to identify good, better or best outcomes.
+The Mechanism Designer's job then is to implement the best that can be done. The Mechanism Designer is the main character in Chapter 16 which is about public policy. You can think about him as an economist advising a government about how to design and implement its policies.
+A government has many options to address coordination failures such as common property resource over-exploitation, including educating the public about the costs and promoting basic research to find ways of making the resource more sustainable. But we focus on just two:
+· Fiat: Governments can order the implementation of an allocation ­ for example, reduced fishing ­ that they or the voters who elected them prefer. A fiat is an order.
+· Taxation: Governments regularly implement taxes as incentives: taxes make activities more costly and can therefore discourage these activities, while still allowing each person or firm to choose how much of the activity to engage in given the increased costs.
+
+F AC T C H E C K In response to the rapid depletion of fish stocks in 1992 the Canadian government simply banned fishing for cod in the Grand Banks region of the North Atlantic. Stocks have been slowly recovering since then.5
+
+236 M I C RO E C O N O M I C S - D R A F T
+
+Fiat power
+With respect to fiat, the government, if it knew all the relevant information,
+could select hA = hAi and hB = hBi to maximize total utility. The government
+might implement this outcome by direct regulation, simply issuing a fishing permit allowing each fisherman a certain number of hours. Any deviation from the permitted hours would result in revocation of the permit and the fishermen would have to revert to their no-fishing fallback positions.
+Point i in Figure 5.12 is the Impartial Spectator's efficient fishing time allocation that corresponds to what the government would choose. Assuming the government had no reason to favor one fisherman over the other from the standpoint of fairness, a Pareto-efficient and equal distribution of fishing times would be the fiat allocation.
+
+Optimal taxes: Internalizing external effects
+Rather than implementing the efficient fishing time plan by fiat, however, the government might want to let the fishermen each decide how much to fish, but to change their incentives in order to address the coordination failure. The government would levy what is called a Pigouvian tax on fishing designed to eliminate the discrepancy between the social and private marginal costs and benefits of fishing.
+The problem for the government is to select a tax rate on fishing time that as an intended byproduct will motivate the fishers to implement an allocation that maximizes total utility while at the same time maximizing their own utility. This means bringing the fishermen's private incentives (the utility function that each maximizes) into alignment with the conditions laid out by the Impartial Spectator.
+The problem can be posed this way: find the tax rate that would transform the utility functions of the two fishermen so that their individual best-response functions are identical to those implied by the problem solved by the Impartial Spectator: maximizing total utility and internalizing the costs of the negative external effects.
+To internalize the cost means to require each of them to pay (in taxes) for the reduction in the catch of the other that their additional fishing time imposes. We know that each additional hour that Bridget fishes means that Abdul catches b hA pounds less of fish. So to get Bridget to take account of this negative external effect, she must be taxed at a rate of b hA for every hour she fishes.
+Bridget's socially optimal tax rate depends on Abdul's fishing time because the external effect of Bridget's fishing on Abdul's well-being depends on how much Abdul fishes. If Abdul is not fishing at all, for example, there is no need to tax
+
+SUBSIDY A subsidy is a payment the government makes to the producer or purchaser of a good, similar to a negative tax.
+H I S TO RY Imposing taxes on particular behaviors which the government wants to discourage because they impose negative external effects on others ­ over-fishing, smoking ­ the government is taking an approach pioneered by the early 20th century economists Alfred Marshall (1842­ 1924) and A.C. Pigou (pee-GOO) (1877­ 1959). In recognition of his contribution to the field of what is called welfare economics, these are sometimes called Pigouvian taxes.
+E X A M P L E The "golden rule" is a common ethical principle that people should treat each other as they themselves would like to be treated. A Pigouvian tax is designed to accomplish the same result by imposing on each decision maker the costs that their decisions impose on others.
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 237
+
+Bridget's fishing, because it has no external effect.
+The tax that induces the fishermen to choose the socially optimal levels of fishing time is just equal to the negative external effect they impose on others at the Pareto-efficient levels of fishing time. Such a tax is a change in the rules of the game that has the effect of internalizing the external effect that is the cause of the coordination problem. The tax is an indirect form of coordination: the fishermen as citizens elect a government which they delegate to impose on them a set of incentives to overcome the over-fishing problem.
+
+M-Note 5.12: The best-response function of fishing with taxes
+
+Equation 5.39 shows Bridget's utility function when her fishing time is taxed at the rate of t per hour fished:
+
+uB(hA, hB, t )
+
+=
+
+hB (a
+
+b (hA + hB)) thB
+
+(hB )2 2
+
+(5.39)
+
+To obtain Bridget's best-response function conditional on the tax rate and Abdul's fishing time, we differentiate Equation 5.39 and set the result equal to zero:
+
+ uB  hB
+
+= uBhB
+
+=
+
+a b hA 2b hB t hB = 0
+
+We can rearrange this first order condition to say that (on the left-hand side of the equation below) the marginal benefits of fishing more (in fish caught) must be equal to (on the right hand side) the marginal costs including the disutility of additional fishing time plus the taxes incurred by fishing more:
+
+a b hA 2b hB = t + hB
+
+Re-arranging this to isolate hB we have:
+
+(1 + 2b )hB = a t b hA
+
+hB(hA, t )
+
+=
+
+a t b hA 1 + 2b
+
+(5.40)
+
+M-Note 5.13: A implementing the Impartial Spectator's choice
+
+We know from M-Note 5.10 that the first order condition for Bridget's fishing time in the social optimum allocation proposed by the Impartial Spectator is:
+
+hB
+
+=
+
+a b hA b hA 1 + 2b
+
+(5.41)
+
+The Mechanism Designer's job is to find the tax rate per hour of Bridget's fishing time that will induce her to act as if that were her private (self-regarding) first order condition too. We know from M-Note 5.12 that Bridget's true best-response function, including taking account of the tax, is the following:
+
+hB(hA, t )
+
+=
+
+a t b hA 1 + 2b
+
+(5.42)
+
+The question that the Mechanism Designer must now solve is: what is the level of the tax rate t, that will make Equation 5.42 look like Equation 5.41 so that Bridget's private incentives will lead her to implement the Impartial Spectator's social optimum?
+Comparing the two equations you can see that setting the tax rate that Bridget pays
+tB = b hA will make the two equations identical. So that is the optimal tax rate. The tax rate for Abdul would, by the same reasoning, be tA = b hB.
+
+238 M I C RO E C O N O M I C S - D R A F T
+
+Then we can calculate the tax rate that Bridget pays at the Nash equilibrium. Because we
+know that the optimal tax implements the social optimum recommended by the Impartial Spectator, we substitute the value for hAi into the expression for the tax rate so we have,
+t = b hAi or
+
+Bridget's tax rate t = b hAi
+
+Abdul's hours worked (Nash)
+
+hAi
+
+=
+
+a 1 + 4b
+
+Bridget's tax rate (Nash)
+
+t
+
+=
+
+ab 1 + 4b
+
+Checkpoint 5.11: Optimal and partial taxes
+
+a. The optimal tax
+
+i. For the parameters we have introduced to illustrate the model ( b
+
+=
+
+1 2
+
+and a = 30) what is the optimal tax rate at the Nash equilibrium of the
+
+game?
+
+ii. What it the total amount of taxes paid by each in the Nash equilibrium? We do not subtract this amount from the their utilities at the Nash equilibrium because we assume that the total tax revenues are redistributed to the population equally without regard for their fishing times.
+
+b.
+
+Now assume a tax where each
+
+=
+
+30
+
+and
+
+b
+
+=
+
+1 2
+
+.
+
+person is charged
+
+Consider
+
+t
+
+=
+
+1 4
+
+for
+
+that a government an hour of work.
+
+implements
+
+a
+
+i. What is Abdul's utility function incorporating this tax? What is Bridget's
+
+utility function with the tax?
+
+ii. What are their best responses to the tax policy?
+
+iii.
+
+What is the Nash equilibrium level of hours with t
+
+=
+
+1 4
+
+?
+
+Is
+
+the
+
+outcome
+
+Pareto-efficient? If it is not Pareto-efficient, is it a Pareto-improvement
+
+over the Nash equilibrium without the tax? Explain.
+
+iv.
+
+If t
+
+=
+
+1 4
+
+is
+
+insufficient
+
+to
+
+produce
+
+a
+
+Pareto-efficient
+
+outcome,
+
+what
+
+level
+
+of t would produce the Pareto-efficient outcome? Why? Explain.
+
+5.11 Private ownership: Permits and employment
+But government policies are not the only change in the rules of the game that might address the over-fishing coordination problem. Suppose that the property rights over the lake are changed such that the lake is no longer a common pool resource, but is privately owned. As a result, the lake is no longer non-excludable, as a resource that is both excludable and rival, it is a private good. The person who owns the lake, say Bridget, could exclude Abdul entirely (remember that is what private property means). But as an owner she now has bargaining power over Abdul, and may be able to do better by letting him fish under conditions favorable to her.
+How do these new rules of the game change the Nash equilibrium?
+· Permits: Bridget might sell Abdul a fishing permit allowing him to catch not more than a given amount of fish, setting the highest possible fee for the
+
+R E M I N D E R While a single owner will take account of the costs of over-fishing and restrict fishing accordingly, the owner may also be a monopolist in selling the fish to others, and will restrict fishing even more than is socially optimal, so as to sustain a high price of fish. We do not include the consumers of fish other than the owner and those fishing on the lake. But we will include them when we return to these effects of a monopolist in Chapter 9.
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 239
+
+permit consistent with Abdul being willing to fish under those terms.
+· Employment: Bridget might offer Abdul an employment contract under which Abdul would fish a given amount of time; the fish caught by Abdul would be Bridget's. Abdul's compensation would be a wage (paid in the fish caught by the two of them) which would be sufficient to offset the disutility of Abdul's fishing time and the opportunity cost of his fishing (and therefore to satisfy Abdul's participation constraint).
+In both cases the bargaining power she has the owner of the lake allows Bridget to make take it or leave it offers. Abdul's only choice is to accept or reject.
+
+Selling permits to fish
+
+To understand what Bridget will do as the owner of the lake, let us return to her utility function:
+
+Bridget's utility
+
+uB(hA, hB)
+
+= yB
+
+1 2
+
+(hB)2
+
+(5.43)
+
+In Equation 5.43, when Bridget was one of the two fishermen and could not charge anyone to access the lake, her production of fish limited her consump-
+tion of fish (yB). She ate what she caught, and no more. Now, though, as
+she will be charging Abdul to access the lake, so she can consume more than
+she catches. So we distinguish her catch of fish, x(hA, hB), from her consumption of fish, yB. When she is the owner charging a fee (paid in fish) to Abdul for
+her permission that he fish in the lake, her consumption of fish equals her own catch plus the fee she charges, F. Her utility therefore becomes:
+
+Owner's (B's) utility
+
+Bridget's
+z ca}t|ch { uB(hA, hB, F ) = x|(hA, h{zB) + F}
+yB, Bridget's consumption
+
+Bridget's
+
+zdis}u|tility{
+
+1 2
+
+(hB
+
+)2
+
+(5.44)
+
+Equation 5.44 tells us that Bridget, as the owner, now has three variables to determine not just one (her own fishing time) as she had when she interacted with Abdul in the symmetric game:
+· Her own fishing time, hB.
+· Abdul's fishing time, hA.
+· The cost F to Abdul of the permit allowing him to fish hA hours.
+Bridget, being self-regarding, will want to know: "what is the largest fee that I can charge Abdul?" Remember Abdul has the option of not fishing at all,
+that is, taking his fallback option with associated utility uAz = yz. Agreeing to
+
+PERMIT A permit allows a firm or person to engage in an activity: it gives permission.
+
+240 M I C RO E C O N O M I C S - D R A F T
+
+fish in Bridget's lake means foregoing the fallback option, so uAz = yz is the
+opportunity cost of fishing.
+
+This is Abdul's participation constraint, limiting how much Bridget can charge for the permit: the fee plus the opportunity cost of fishing cannot be larger
+than Abdul's utility from fishing, uA(hA, hB):
+
+Abdul's utility from fishing
+Abdul's participation constraint uA(hA, hB)
+
+Permit fee + Foregone fallback
+
+F + yz
+
+(5.45)
+
+Because Bridget would never consider charging Abdul less than she could, we can assume that equation 5.45 will be satisfied as an equality and so (re-arranging the equation) we have:
+Abdul's participation constraint (PC) F = uA(hA, hB) yz (5.46)
+
+Bridget's constrained optimization problem is now to vary hA and hB to maximize her utility from fishing plus the fee she charges Abdul, or:
+
+Maximize: uB(hA, hB, F ) = xB(hA, hB) + F
+
+1 2
+
+(hB
+
+)2
+
+(5.47)
+
+subject to Abdul's participation constraint (Equation 5.46). This means that we
+can use Equation 5.46 to replace the F in equation 5.47, so that now Bridget's objective is to chose hA and hB to:
+
+Maximize:
+
+uB(hA, hB) = xB(hA, hB)
+
+1 2
+
+(hB
+
+)2
+
++
+
+uA
+
+(hA,
+
+hB)
+
+yz (5.48)
+
+Once we have found the hA and hB that maximize 5.48, we can insert those values of hA and hB into equation 5.46 to determine F, the cost of the permit
+to charge Abdul.
+
+What will these new values of (hA, hB) be? We will find that, maybe surprisingly at first, they are just the same as the values introduced by the Mechanism Designer tasked with implementing the Impartial Spectator's social optimum.
+
+Looking carefully at equation 5.48 we see that the first term is her own utility if no fee is paid and the second Abdul's utility if no fee is paid. So far this is the same quantity that the Impartial Spectator maximized, namely the sum of the utilities of the two, except that now yz is subtracted. But because yz is a constant (112 pounds of fish in our numerical examples) the solution of these two optimizing problems ­ the values of hA and hB chosen ­ must be the same.
+This means when Bridget is the owner the hours worked, hAi and hBi will be equal, ten hours each in our numerical example ­ but the levels of utility realized will be maximally unequal. Abdul will get exactly 112, his fallback position, and Bridget will get 188 as shown by point b in Figure 5.14.
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 241
+
+B's utility, uB
+
+slope = - 1
+225 188 178 150 112
+
+A's PC
+b b
+i z
+
+B's PC
+
+112 150
+
+225
+
+A's utility, uA
+
+Figure 5.14: Payments in fish takes the fish-
+ermen to allocations outside of the original
+feasible set. The blue line with slope -1 shows the
+allocations of utility that are possible if the two fish
+at the socially optimal times indicated by point i
+followed by a transfer of fish from one to the other. The slope is 1 because the opportunity cost of,
+say Bridget having a kg more fish, is that Abdul has
+one kg less. If Bridget as the owner implemented
+a plan in which she reduced Abdul's work hours
+and increased her own, she would obtain an
+allocation on the utility possibilities frontier at point b0. However, if she implements the optimal number of hours (hAi = hBi = 10) at point i and has Abdul pay her for the right to fish with a fee, then the total rents available are 300. She will charge a fee such
+that Abdul will receive just a bit more than his fallback, uAz = 112 and she will get 300 112 = 188. This corresponds to a movement along the blue trade line with slope = 1 from point i to point b.
+
+Because the allocation was determined by Bridget maximizing her utility subject to a constraint on Abdul's level of utility (that is the participation constraint) it has to be Pareto efficient, by definition. In fact, she implements exactly the level of fishing by the two that would be socially optimal in the absence of the fee.
+To see this, imagine that Bridget as the owner had implemented a plan in which she reduced Abdul's work hours and increased her own so that she would obtain an allocation on the utility possibilities frontier at point b0. She can do better than this if she implements the socially optimal number of hours
+(hAi = hBi = 10) at point i and then requires Abdul to pay her for the right to fish. Then the total rents available are 300. She will charge a fee such that Abdul will receive just a bit more than his fallback, uAz = 112 and she will get 300 112 = 188. The payment of the fee corresponds to a movement along the blue line with slope = 1 from point i to point b. The blue line therefore
+indicates movements from point i to alternative feasible trades when the fishermen are able to trade fish between them as payments.
+The economic reason Bridget implements the socially optimal level of fishing times ­ namely the times that maximize the total rents ­ follows directly from the fact that Bridget knew in advance that she by charging the largest fee that would satisfy Abdul's participation constraint she would capture all of the feasible rents. Given that fact, she had every interest in making the total rents as large as possible.
+But why wouldn't Bridget select hA = 0, and have exclusive access to the
+lake? The reason is that the marginal cost of compensating Abdul's fishing time is very small when he is not fishing much, or at all. So it is to Bridget's advantage to let Abdul fish in the lake and pay her for the privilege, rather than doing all the fishing herself.
+
+242 M I C RO E C O N O M I C S - D R A F T
+
+Employing others to fish
+
+Instead of issuing a permit, Bridget might hire Abdul to work for her. Employment differs from the permit system in that when Bridget employs Abdul, she owns all of the fish caught by Abdul, but must devote some of this to paying a wage w to Abdul that is sufficient to satisfy his participation constraint.
+
+From our reasoning in the permit case we know that the participation constraint will be satisfied as an equality. This allows us to use the fact that the total wage paid (w) must offset Abdul's disutility of fishing time and the opportunity cost of fishing (namely his fallback option, yz that he gives up if he fishes) or:
+
+Abdul's PC as an employee
+
+w
+
+=
+
+(hA)2 2
+
++ yz
+
+(5.49)
+
+Bridget then must choose hA and hB to maximize her utility:
+
+uB(hA, hB, w) = xA(hA, hB) + xB(hA, hB)
+
+1 2
+
+(hB
+
+)2
+
+w
+
+= A's catch + B's catch B's disutility A's wage
+
+Then substituting Equation 5.49 for Abdul's wage, what Bridget maximizes when she employs Abdul is:
+
+uB(hA, hB) = hB(a
+
+b (hA + hB))
+
+(hB 2
+
+)2
+
++
+
+hA
+
+(a
+
+Equation 5.50 can be understood as follows:
+
+b (hA + hB))
+
+(hA)2 2 yz
+(5.50)
+
+· it is identical to what Bridget maximized in the permit case, namely equation 5.48, and
+
+· identical to what the Impartial Spectator maximized, namely, equation 5.27, minus the constant yz.
+In both the permit and the employment cases, the outcome is Pareto efficient, but Abdul gains an amount equal only to his disutility of fishing time plus the opportunity cost of his fishing at all. The allocation proposed by the Impartial Spectator and that implemented by Bridget as owner of the lake does not differ in the fishing times of each, or the degree of exploitation of the fishing stock. In this sense private ownership of the lake has addressed the Pareto-inefficiency of the over-exploitation of the lake as a common property resource.
+
+The only difference is that in the private ownership case there is transfer of rents (amounting to 88 pounds of fish in both cases) from the non-owner to the owner:
+
+· In the permit case the transfer took the form of the fee for the permit to fish
+(F = 38) that Abdul paid to Bridget.
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 243
+
+· In the employment case the transfer occurred because Bridget owned all of
+the fish that Abdul caught (200), 38 pounds of which she retained for her own consumption after paying him the wage (w = 162), which, minus his disutility of fishing of 50, equals his fallback utility of uz = 112.
+This is a general feature of social coordination problems. When one actor is sufficiently powerful to maximize their utility subject to the participation constraint of other actors, and the powerful actor will maximize total utility and would get all of the economic rents.
+
+Checkpoint 5.12: Wages vs. Permits
+
+Assume the same values for the parameters of a
+
+=
+
+30 and b
+
+=
+
+1 2
+
+as we have
+
+done so far.
+
+a. What wage would Bridget pay Abdul if Abdul's fallback were zero?
+b. What wage would Bridget pay Abdul if Abdul's fallback was to have a job
+working as an administrator for a utility of uAz = 100 rather than working for
+Bridget?
+
+5.12 Community: Repeated interactions and altruism
+Here and in previous chapters we have used two-person games to represent economic interactions among a very large number of people. But some of our interactions really are with small numbers of people, for example, in our neighborhoods, families and workplaces, and even, in some cases, in exploiting a local common property resource like a forest or fishery.
+These small communities often address coordination problems in ways not possible when the number of people interacting is very large. This is possible because members of small communities:
+· often have information about each other that is not available to governments or private owners who are not part of the community;
+· interact repeatedly with each other so that there are opportunities to retaliate against members who violate social norms or informal agreements; and
+· often care about each other, and these social preferences can reduce conflicts of interest (as we saw in the previous chapter) and can provide the basis for addressing coordination problems.
+These characteristics of small communities give them capabilities in solving coordination problems that are unavailable to purely government- or marketbased approaches. As we have seen in Chapter 2, public goods experiments show that people are willing to punish fellow group members whose behav-
+
+244 M I C RO E C O N O M I C S - D R A F T
+iors violate norms, even when inflicting the punishment is costly to the punisher.
+Let's see how a small community of fishing people ­ illustrated by Bridget and Abdul ­ might address the over-exploitation of the common property resource.
+Repeated interactions
+In Chapter 1 we showed how the Pareto-inferior (Defect, Defect) outcome of a Prisoners' Dilemma Game could be averted by a change in the rules of the game requiring players to compensate others for the costs that their actions (in this case defecting) imposed on others. The objective of internalizing the external costs imposed on others was directly built into the change in the rules of the game.
+Here we accomplish the same thing in the same manner ­ internalizing the external costs by changing the rules of the game ­ but here we do it by expanding the set of strategies the players are able to use. We do this by repeating the game over many periods.
+In the one-shot games we have introduced so far the strategies available to the players are limited: select some amount of fishing hours. One way to make the game more realistic is to let the interaction be repeated over possibly many periods with the same players. Then more complicated strategies are possible, even if in every period there are just two actions one can take, for example, fish ten hours or fish twelve hours. Importantly, strategies can now be conditional on what the other player has done in previous play.
+One strategy might be to play the strategy that would implement the social optimum (fish 10 hours) in the first round and on the next and successive rounds of the game, play whatever the other player played on the previous round. This strategy is called "nice tit for tat": nice because it begins with a strategy that could be mutually optimal, but "tit for tat" because it punishes the other player if she takes the over-fishing option.
+Consider a repeated game between Abdul and Bridget with the following properties:
+· Actions: In each period of the game, they may fish either 10 hours, the socially optimal amount or 12 hours, the over fishing level at the Nash equilibrium of the symmetric game in which they do not coordinate in any way.
+· Duration of the game: After every period that the game is played, it is continued with some probability 0 < P < 1.
+· Payoffs: In each period the payoffs are given in panel a of Figure 5.15. The
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 245
+
+Bridget
+
+Bridget
+
+10 hours 12 hours
+
+Grim Trigger Defect
+
+Abdul
+12 hours 10 hours
+Abdul
+Defect Grim Trigger
+
+150
+
+156
+
+1500 1452
+
+150
+
+140
+
+a
+
+d
+
+140
+
+144
+
+1500 1436 1436 1440
+
+156 b
+
+144 c
+
+1452 1440
+
+(a) Stage game
+
+(b) Repeated interaction
+
+cell entries are from the analysis of their interaction we have carried out so far, with the parameters used in our numerical examples. Payoffs for the game are the sum of payoffs for each period the game is played.
+
+· Strategies. Each may choose either to fish 12 hours in every period of the game (called "Defect") or fish 10 hours in the first period of the game and every subsequent period until the other fishes 12 hours, in which case fish 12 hours as long as the game lasts. This strategy is called "Grim trigger": the term trigger is used because on act of defection by the other sets off a punishing defection by the actor, it is grim because the defections go on as long as the game lasts.
+
+How will this repeated game be played? We will assume that both players
+
+are entirely self-regarding. You can see that the single period payoff matrix
+
+­ called the stage game ­ has the structure of a prisoners' dilemma. The re-
+
+peated game will continue following each period with probability P, which for
+
+concreteness we set as P = 0.9. This means that the expected duration of the
+
+game
+
+is
+
+1
+
+1 0.9
+
+=
+
+10
+
+periods.
+
+If the game were played among total strangers,
+
+it is unlikely that it would be repeated with such a high probability. But if the
+
+two players are neighbors or co-workers they are very likely to continue inter-
+
+acting.
+
+Figure 5.15: Repeated interactions can convert a one-shot Prisoners' Dilemma into an Assurance Game allowing for coordination on a socially optimal allocation. Panel a is the payoff matrix for the one-shot (stage) game between Bridget and Abdul, that is played once only. Inspection of the payoffs shows that it is a Prisoners' Dilemma. You can confirm using the circle and dot method introduced in Chapter 1 that each player fishing 12 hours is a Nash equilibrium (the circles and dots show that this is also a dominant strategy equilibrium. Panel b gives expected payoffs for the game, if at the end of each period with probability P = 0.9 the game is played again (with the same payoffs per period as shown in panel a). In this case the circles and dots indicate that the repeated game has two Nash equilibria: the Nash equilibrium of the one-shot game with payoffs to each of 1440, and the socially optimal allocation with payoffs 1500.
+M - C H E C K We show in the appendix that the expected duration of an interaction is the inverse of the probability that at the end of a period the interaction will be terminated.
+
+The payoffs in the repeated game are derived as follows.
+
+· Playing Defect against Defect: The expected payoff will be the payoff (144) of the mutual defect option of the stage game times the expected duration of the game (10 periods), or 1440.
+
+246 M I C RO E C O N O M I C S - D R A F T
+
+· Playing Grim Trigger against Grim Trigger : The expected payoff will be 150 (the stage game payoff to fishing 10 hours) for as long times the expected duration of the game (10), or 1500.
+· Payoff to playing Grim Trigger against Defect: In the first period, the Grim Trigger player fishes 10 hours, while the defector fishes 12 hours, and so receives 140 that period; and then he defects in the next period (should it occur) and until the game ends. The probability that the second period happens is P and if it does it can be expected to continue for 10 more periods, so the payoffs from period two to the end of the game are 0.9  10  144 or 1296 which, adding the first period's payoffs totals 1436.
+· Payoff to playing Defect against Grim Trigger : This is calculated exactly as in the case immediately above. The defector gets 156 in the first period and then the mutual defect payoff as long as the game lasts, totalling 1452.
+Looking at panel b of Figure 5.15 you can see that mutual Defect is still a Nash equilibrium in the repeated game: it is a best response itself as the circles and dots show.
+But in this case the repeated game is not a prisoners' dilemma: the best response to Grim Trigger is not Defect, but Grim Trigger itself. You can confirm using the circle and dot method introduced in Chapter 1 that each player fishing 12 hours is a Nash equilibrium (the circles and dots show that this is also a dominant strategy equilibrium). Panel b gives expected payoffs for the game, if, at the end of each period, the game is played again with probability
+P = 0.9 (with the same payoffs per period as shown in panel a).
+In this case the circles and dots indicate that the repeated game has two Nash equilibria: the Nash equilibrium of the one-shot game with payoffs to each of 1440, and the socially optimal allocation with payoffs 1500. And so if the two had decided to play Grim Trigger they would continue doing so until the game ended, implementing the social optimum.
+This means that what was a Prisoners' Dilemma if played as a one shot game can become an Assurance Game when played repeatedly if the game is repeated with a sufficiently high probability. Under these conditions, entirely self-regarding actors acting independently and without government regulation can escape the Prisoners' Dilemma.
+M-Note 5.14: Cooperation without agreements in a repeated game
+The key to how game repetition converts a Prisoners' Dilemma stage game into an Assurance Game that can implement the socially optimal level of fishing is that Defect should not be a best response to Grim Trigger. This requires that the payoff to playing Defect against Grim Trigger should be less than the payoff to playing Grim Trigger against itself,
+
+Bridget
+
+10 hours 12 hours
+
+Abdul
+12 hours 10 hours
+
+a
+
+b
+
+a
+
+d
+
+d
+
+c
+
+b
+
+c
+
+Figure 5.16: Payoffs for the one-shot Prisoners' Dilemma Game shown in Figure 5.15 a repeated here to accompany M-Note 5.14. For both players: b > a > c > d.
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 247
+
+or (using the letters in the payoff matrix of Figure 5.14):
+
+
+
+b+c
+
+P 1P
+
+< 1 aP
+
+which, rearranged to isolate the P gives us:
+
+ba P> b c
+
+This means that (in the one-shot game) the probability that the game will be continued after each round must be greater than the payoff advantage of defecting on a cooperator (b a) relative to the payoff advantage to coordinating on 10 hours rather than 12 hours (b c). This means that repeating the game is more likely to result in the Pareto-superior symmetric outcome (both fishing less) if
+
+· the incentive to exploit the cooperation of the other is less · the joint benefit of mutual restricting fishing hours is more and if · the interaction will be repeated with high probability
+For the payoffs in 5.15 a this condition is satisfied for any P > 0.5
+
+Social preferences: Altruism
+In addition to the greater likelihood that the interaction will be repeated, the fact that the community of fishermen is small means two additional important facts about their context are likely to hold. First, people in small communities can more easily access information about one another. Second, in small communities people often have a concern about each others' well-being, such as altruism, fairness concerns, or reciprocity.6
+Because we have used uA and uB to refer to the utility each gets from fishing, we now introduce the value functions vA and vB, which include their concern for the other's well-being. Because the two are other-regarding, their evaluation of the outcomes they believe their actions will produce are based on these social preference utility functions, vA and vB. To see how social preferences might help solve coordination failures, suppose that in choosing an action each participant puts some weight (which we represent by l ) on the utility of the other as in Equation 5.51, so that Abdul and Bridget have social preferences like those we introduced in Chapters 3 and 4. We let l be the same for Abdul and Bridget (they are equally altruistic) and take any value between 0 (no altruism) and 1 (perfect altruism, caring about the other's well being as much as one's own).
+Altruistic utility function: = Own utility + l Other's utility (5.51) Altruistic A: vA(hA, hB) = uA + l uB Altruistic B: vB(hA, hB) = uB + l uA
+We show in M-Note 5.15 that altruism alters the marginal costs and benefits of
+
+M - C H E C K Notice here that 0  l  1
+
+rather
+
+than
+
+0
+
+
+
+l
+
+
+
+1 2
+
+in
+
+Chapters
+
+3
+
+and
+
+4.
+
+This is because in those chapters the utility
+
+functions are Cobb-Douglas whereas in this
+
+chapter we are adding up the utility functions
+
+to display altruism.
+
+248 M I C RO E C O N O M I C S - D R A F T
+
+fishing:
+
+marginal benefit of fishing more
+
+=
+
+marginal cost of fishing more
+
+a b (2hA + hB)
+
+=
+
+hA + l b hB
+
+(5.52)
+
+Except for the last term on the right, this is exactly the benefits and cost of
+fishing more when Abdul was not altruistic in Equation 5.10. The final term, l b hB, is new; it shows how altruism affects Abdul's decision. Given his degree of altruism l , l b hB is how much his utility is reduced by his additional fishing imposing the cost b hB on Bridget.
+
+As a result, the two Nash equilibrium fishing times are as follows (shown in
+
+M-Note 5.15):
+
+hAl
+
+=
+
+a 1 + b (2 + (1 + l )) =
+
+hBl
+
+(5.53)
+
+This expression shows that when l = 0 we have the Nash equilibrium fishing times before we introduced altruism hN , that is (l AN , l BN ), And when l = 1
+
+the Nash equilibrium is the allocation selected by the Impartial Spectator hi, that is (liA, l1B) ). So for some positive degree of altruism l we have:
+
+hN
+
+=
+
+a 1 + 3b
+
+>
+
+hl
+
+a = 1 + b (2 + (1 + l ))
+
+a 1 + 4b = hi
+
+(5.54)
+
+These equations make it clear that in order for altruism to implement the social welfare maximizing allocation proposed by the Impartial Spectator, the two would have to be the perfect altruists that we defined in Chapter 2, caring
+as much for the other person as she does for herself (namely l = 1). The
+difficulty of sustaining this level of altruism may suggest why most successful communities do not rely entirely on good will, but supplement it with mutual monitoring and punishment for transgression of norms.
+
+M-Note 5.15: Nash equilibrium with altruism
+
+Now, Abdul cares about Bridget. His value function incorporating altruistic preferences is:
+
+vA(hA, hB) = uA + l uB
+
+=
+
+ hA a
+
+ b (hA + hB
+
+1 2
+
+(hA
+
+)2
+
++
+
+l
+
+ hB
+
+ a
+
+ b (hA + hB)
+
+1 2
+
+(hB
+
+ )2
+
+To obtain his best-response function, we differentiate Abdul's utility function with respect to fishing time and set it equal to zero:
+
+Rearranging
+
+ vA  hA
+
+= a b (2hA + hB) hA l b hB = 0 (5.55)
+
+(1 + 2b )hA = a (1 + l )b hB
+
+(5.56)
+
+We shall use the superscript l to indicate what is special about this case, namely altruism. Then, rearranging Equation 5.56 we have the best-response function of altruistic Abdul:
+
+hA
+
+=
+
+a (1 + l )b hB 1 + 2b
+
+(5.57)
+
+E X A M P L E Even the most utopian communities, such as the contemporary Amish or Hutterite communities in the U.S., supplement altruistic preferences with social sanctions and monitoring of peers (which is easier to do in small communities).
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 249
+
+To see how altruism affects the Nash equilibrium we use the fact that, because the two people are identical, their fishing times will be the same in equilibrium. So we can just solve the equation below for hAl :
+
+hA
+
+=
+
+a (1 + l )b hA 1 + 2b
+
+from which, rearranged to isolate hAl , we have:
+
+hAl
+
+=
+
+a 1 + b (2 + (1 + l )) =
+
+hBl
+
+(5.58)
+
+We use the superscript l here to indicate the Nash equilibrium when the degree of altruism is given by l > 0.
+
+Checkpoint 5.13
+1. Why do we need l = 1 to implement the social optimum? Explain how altru-
+ism can internalize the external effect of one's own fishing, making reference Equation 5.52. 2. What would it mean if l < 0? How would this affect the Nash-equilibrium level of fishing (explain using Equation 5.54. 3. What would it mean if l > 1. Would the outcome implement the Impartial Spectator's social optimum? Why or why not?
+
+5.13 Application: Is inequality a problem or a solution?
+Recall that there are two standards that we use to evaluate policies to address coordination failures:
+· Does it result in a Pareto-improvement over the status quo, that is, does it improve efficiency by making at least one of the participants better off and none worse off?
+· Is the resulting allocation more fair than the status quo, that is, are the rents (improvements over the status quo) that the players receive fair?
+In some cases the two objectives can be jointly realized; in others they are in conflict.
+The distribution of the economic rents resulting from coordination depends on the particular transformation of the game which makes some degree of coordination possible. Unequal solutions to local social coordination problems are generally based on the wealth or power of one of the fishermen. If one of the fishermen has a much larger net than the others, and so can be assured of catching most of the fish, his best response will approximate the allocation of a single owner of the lake. In this case, inequality in wealth among the fishermen would lessen the coordination failure.
+Important inequalities may exist even among otherwise identical fishermen. To see this consider two possibilities:
+
+250 M I C RO E C O N O M I C S - D R A F T
+
+u2B B's BRF
+hBN = 12 hBF = 11.8
+
+unB
+
+ufB
+
+n
+
+
+unA
+
+
+
+f
+
+ufA
+
+B's hours, hB
+
+tB
+
+htBA = 9.4
+
+Pareto-efficient curve
+tA
+
+
+u3A A's BRF
+
+htAA = 10.55
+
+hAN = 12
+
+A's hours, hA
+
+hAF = 12.9
+
+Figure 5.17: First-mover advantage: Fishing time-setting power. In the figure, Abdul is the leader with fishing time-setting power (first-mover power) and Bridget is the follower. Abdul doesn't have enough power to make a TIOLI offer, but he can make a credible commitment of his own fishing time such that Bridget will have to adapt in choosing her fishing time to Abdul's fishing time. Abdul, when choosing his fishing time, takes Bridget's best-response function as his incentive compatibility constraint. He maximizes his utility subject to satisfying her incentive compatibility constraint, finding the point at which his indifference curve is tangent to her bestresponse function as occurs at point f where Abdul exerts fishing time hAS and Bridget exerts fishing time hBS and the two fishermen obtain utilities uA2 = uAS and uB1 = uBS . The first mover-based outcome is contrasted with the Nash equilibrium outcome of the simultaneous interaction where Bridget had higher utility uB2 = uBN and Abdul had lower utility uA1 = uAN .
+
+1. Take-it-or-leave-it (TIOLI) power: When one player has substantially more power than the other, allowing them to make a TIOLI offer of both their own and the other's fishing time, then they may implement an allocation where they obtain all the economic rents and the other remains on their participation constraint. As you already know from the previous chapter, the outcome is Pareto-efficient.
+2. First-mover advantage: When one player can credibly commit to a fishing time such that the other must simply respond, they obtain more of the economic rent than the other player, but not as much as if they had TIOLI power. This is similar to the price-setting power in Chapter 4. The outcome is Pareto-inefficient.
+We start with first-mover advantage: the power to commit to one's own fishing time.
+First-mover advantage: fishing time-setting power
+Suppose that Abdul can announce a level of fishing time and commit to it in such a way that Bridget understands that nothing she can do will alter Abdul's fishing activity. Bridget will then select her level of fishing to maximize her utility given what Abdul has committed to. In this situation, Abdul is the firstmover and has fishing time-setting power similar to the price-setting power (as in Chapter 4). Economists call Abdul in this situation the Stackelberg leader.
+The big difference between Abdul having fishing time-setting power and our previous analysis is that the game is now sequential and the order of play matters: who gets to go first is important.
+
+H I S TO RY Heinrich von Stackelberg (19051946) used this model to represent pricesetting among duopolists (two firms in a market).
+R E M I N D E R In Chapter 4, when she had Price-setting power, A maximized her utility subject to B's price-offer curve. B's priceoffer curve was A's incentive compatibility constraint, which is exactly what a bestresponse function is: a best-response function shows what action would be your best response to the action (e.g. price or fishing time level) the first mover commits to.
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 251
+
+How would Abdul decide what level of fishing time to commit to as the fishing time-setter? As the first-mover, he will begin by determining what the secondmover will do in response to each of the his actions, and then select the action that maximizes his own utility given the best-response function. The secondmover's best-response function is the incentive compatibility constraint.
+Abdul maximizing his utility subject to Bridget's incentive compatibility constraint is a simple but important change in the assumed behavior of the fishermen: Abdul now recognizes and takes advantage of the fact that by choosing various levels of fishing time he can affect the level of fishing time Bridget chooses. Abdul's behavior is strategic because it takes account of Bridget's reaction to his action.
+In this first-mover case shown in Figure 5.17, Abdul is constrained not by a given level of Bridget's utility, that is, by her participation constraint, but by Bridget's maximizing behavior as given by her best-response function. His choice of hours will be the point on her best-response function where it is tangent to his indifference curve, shown by point f in the figure.
+The first-mover outcome will not be Pareto-efficient because Bridget's indifference curve intersects Abdul's indifference curves at point f, and so the marginal rates of substitution cannot not be equal. Abdul's first-mover advantage allows him to improve his position by comparison to the Nash equilibrium, in this case at the expense of Bridget, whose outcome as second-mover is worse than the Nash equilibrium.
+
+Take-it-or-leave-it power
+Let us switch roles now and consider what would happen if Bridget had more power than Abdul. She has enough power to make Abdul a take-it-or-leave-it offer, specifying not only how much she would fish, but how much Abdul is to fish, too, along with the threat that should Abdul not accept the offer, then Bridget would simply fish at the level of the Nash equilibrium of the simultaneous move game.
+Because Abdul will refuse her offer if it is worse for him than the Nash outcome, Bridget must make an offer to Abdul that satisfies Abdul's participation constraint. If she does so, the outcome will be Pareto-efficient.
+In Figure 5.12, Bridget's TIOLI offer is shown at point tB. At tB, her indifference curve uB2 is tangent to Abdul's indifference curve uAn , so the allocation she chooses for her TIOLI offer is Pareto-efficient.If Abdul had TIOLI power over Bridget, he would implement the allocation at point tA and this allocation would also be Pareto-efficient.
+Summing up, our model shows that the effect of unequal power will always benefit the more powerful and may, but need not, result in a Pareto-inefficient
+
+R E M I N D E R When either trader had TIOLI power in Chapter 4, the exercise of power led to a Pareto-efficient outcome.
+
+252 M I C RO E C O N O M I C S - D R A F T
+
+outcome.
+Positive effects on Pareto efficiency occurred when Abdul had take-it-or-leaveit power and the outcome was Pareto-efficient, but probably regarded as unfair by Bridget or an Impartial Spectator. The model is hypothetical but the problem is not.
+
+Checkpoint 5.14: Numerical TIOLI power
+
+Using
+
+the
+
+values
+
+of
+
+a
+
+=
+
+30
+
+and
+
+b
+
+=
+
+1 2
+
+:
+
+1. Find the take-it-or-leave-it offer that Abdul would make to Bridget at point tA. How many hours would Abdul fish? How many hours would Bridget fish?
+
+2. What would Abdul's utility be at the TIOLI offer? What would Bridget's utility be at the TIOLI offer?
+
+Evidence from field studies
+A field experiment among forest commons users in rural Colombia underlines how inequality may be an impediment to achieving more satisfactory outcomes through coordination. Juan Camilo Cardenas implemented common pool resource behavioral experiments among villagers who rely for their living on the exploitation of a nearby forest.7 So the subjects in the experiment were in real life playing the same game that the experimenter invited them to play.
+In Cardenas's game, the subjects choose to withdraw a number of tokens from a common pool (these represented exploitation of the common property resource), and after all subjects had taken their turn, the tokens remaining were multiplied by the experimenter and then distributed to the players, the tokens then being exchanged for money. (This is similar to the Public Goods Game experiment in Chapter 2 except that subjects decide how much to withdraw rather than how much to contribute to the pool). For an initial set of rounds of the game, no communication was allowed. But in the final rounds of the game, subjects were invited to converse for a few minutes before making their decisions.
+Cardenas expected that communication would reduce the level of withdrawals from the common pool (as has been the case in similar experiments) despite the fact that it does not alter the material incentives of the game. Communication was indeed effective among groups of subjects with relatively similar wealth levels (measured by land, livestock and equipment ownership): Their levels of cooperation increased dramatically in the communication rounds of the experiment. But this was not true of the groups in which there were substantial differences in wealth among the subjects.
+In one group, one of the wealthiest subjects tried in vain to persuade his fellow
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 253
+
+participants (who in real life were his tenants and employees) to restrict their withdrawals to the socially efficient amount, in order to maximize their total payoff. But the wealthy subject's advice fell on deaf ears.
+"I did not believe Don Pedro," one of the less well-off women in his group later explained, "I never look him in the face." She was right not to trust him: Don Pedro (not his real name) had withdrawn the maximal amount despite his contrary advice to the other players.
+This is not an isolated example.
+· A study of water management in 48 villages in the Indian state of Tamil Nadu found lower levels of cooperation in villages with high levels of inequality in landholding. Moreover, lower levels of compliance were observed where the rules governing water supply were perceived to be chosen by the village elite.
+· A similar study of 54 farmer-maintained irrigation systems in the Mexican state of Guanajuato found that inequality in land holding was associated with lower levels of cooperative fishing time in the maintenance of the field canals.9
+In other cases, inequalities based on traditional hierarchies have made a positive contribution.
+· Another study of Mexican water management, for example, found that increased mobility of rural residents undermined the top-down relationships that had been the foundation of a highly unequal but environmentally sustainable system of resource management.10
+
+F AC T C H E C K In a recent study of participation in church, local service and political groups, as well as other community organizations providing local public goods by Alberto Alesina and Eliana La Ferrara found that participation in these groups was substantially higher where income is more equally distributed, even when a host of other possible influences are statistically "held constant."8
+
+5.14 Over-exploitation of a non-excludable resource
+We stated at the beginning of the chapter that we would illustrate the problem of the common pool resource problem by the example of just two people. This was despite the fact that, as a non-excludable resource, there would be no limit on the number of people who could, if they wished, fish on the lake and compete with Abdul and Bridget for the available stock.
+We have so far studied just one of the two aspects of the coordination failure resulting in over-fishing: the fact both Abdul and Bridget fished more hours than was Pareto-efficient. They both could have been better off had they been able to agree to fish less.
+Now we introduce the second aspect of the problem: many more people could fish the lake. Because the lake is a common pool resource, its nonexcludablity property means that there is open access.
+How many people would use the lake? To answer the question we add more
+
+254 M I C RO E C O N O M I C S - D R A F T
+
+context to the initial problem. Abdul and Bridget are part of a large community of people who may make their livelihood fishing on the lake, or if not that, then doing some other kind of work yielding a utility of uz (their fallback option). People will decide to make their living fishing as long as the utility they gain exceeds uz.
+In Figure 5.18 using the same values for the parameters as in the other numerical examples in this chapter, we calculate the maximum utility that could be attained by one person fishing alone, two (as in the case of Bridget and Abdul), three, and so on up to 11. However many there are fishing, they will receive the same utility in the Nash equilibrium because they are identical, and we have so far assumed that none has any advantage in bargaining with the others. The height of each bar is the utility attained.
+When there are just two people fishing as in our previous examples involving Abdul and Bridget each receives a utility of 144, as we found in M-Note 5.7. The more people that fish in the lake the lower the utilities each of them receive will be. When there are ten they all have a utility of 21.2, barely greater than their fallback options.
+Now think about some other member of the community who is not currently fishing but is thinking of doing so. Those fishing are doing better than the fallback options. But if the 11th person decided to fish they would all receive a utility of 18.4 (including the new fisherman). That is, they would all receive less than their fallback options. So the eleventh person would decide not to fish.
+Generalizing from this example, the Nash equilibrium number of people fishing is the largest whole number of people fishing such that the utility that those fishing receive is greater than or equal to the utility they would receive at their fallback option.
+As a result, the Nash equilibrium of this game is that we have:
+· nN = 10 the number of people fishing and
+· hN = 4.62 the number of hours each of them works.
+We use the N superscript for each of these quantities because both are Nash equilibria (but under different rules of the game):
+· nN = 10 is a mutual best response because none of those fishing could
+do better by not fishing, and none of those not fishing could do better by fishing, and
+· given that ten people are fishing, then hN = 4.62 is also a mutual best
+response because for each person fishing this is a utility-maximizing choice of hours, given the hours that everyone else is fishing.
+
+M AT H - C H E C K The equilibrium number of people fishing must be a whole number because the entry of a "fractional fisherman" would not make much sense unless we allowed people to split their day between fishing and the fallback option, which we do not.
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 255
+
+Utility
+
+240
+
+220
+
+200
+
+180
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+fallback option = 20
+
+40
+
+20
+
+0
+
+1 2 3 4 5 6 7 8 9 10 11
+Number of people, n
+
+Figure 5.18: The dynamics of over exploitation
+
+of a common property (non-excludable)
+
+resource. All of the people who might fish on the
+
+lake have the same utility functions as Abdul and
+
+Bridget
+
+with
+
+the
+
+values
+
+of
+
+a
+
+=
+
+30
+
+and
+
+b
+
+=
+
+1 2
+
+.
+
+The height of the bar for a given number on the
+
+x axis is the utility of each of the fishermen when
+
+there are the indicated number fishing on the lake.
+
+The fallback utility is uz = 20. You can see from
+
+the figure that if the lake is a common property
+
+resource, so that no fisher can be excluded, the
+
+Nash equilibrium number fishing on the lake is
+
+10 with each receiving a utility of 21.2. If the 11th
+
+person fished on the lake, she ­ and all of the rest
+
+of the fishermen there ­ would receive a utility of
+
+18.37, that is, less than their fallback option. The
+
+mathematics on which this figure is based are
+
+shown in M-Note 5.16.
+
+The Nash equilibrium is Pareto-inefficient for two reasons: too many people are fishing too many hours each. Just as was the case with Abdul and Bridget, if each fished a little less they all would be better off.
+And if fewer of them fished, all ten of them could be better off. Figure 5.18 shows that if 3 people fished they would each have a utility of 100. Suppose the status quo were that just 3 people were fishing, and that there were another 7 people who might consider joining them to fish in the lake. We call people who are already doing an activity, such as fishing or owning a firm, incumbents. We therefore call the existing 3 fishermen, the incumbents or incumbent fishermen.
+Suppose this was the case, and that the incumbents could somehow agree to bribe the other 7 not to fish. Notice we have just changed the rules of the game to allow the incumbent three to coordinate.
+The incumbent three would have to give the other 7 potential fishermen an amount of fish sufficient that each would be as well off as their fallback. This amount would be uN uz or 21.2 20, or 1.2 each. The total payments by
+the three to the other seven would be 7  1.2 = 8.4, leaving each of the three better off (each receiving 300 8.4)/3  97). If the incumbent three
+increased the `bribe' just a little bit then all 10 would be better off than at the Nash equilibrium with open access.
+M-Note 5.16: Nash equilibrium number of people fishing
+Because access to the lake is open to all, the number fishing there will be the largest whole number (because we cannot have fractions of people fishing) such that the utility of those fishing is equal to the fallback option (their utility if they are not fishing in the lake),
+which is uz = 20. To determine this number, we first derive hN (n) the hours of fishing
+that each will do as a function of the numbers fishing, and use this result to determine
+
+256 M I C RO E C O N O M I C S - D R A F T
+
+uN (hN (n)) the utility of those fishing as a function of how many there are.
+
+To determine hn(n) we study the utility maximization problem of person 1:
+
+Vary h1 to maximize
+
+!
+
+Ân
+u1 = h1 a b hi
+i=1
+
+1 2
+
+h21
+
+!
+
+Ân
+= h1 a b h1 b hi
+i=2
+
+1 2
+
+h21
+
+(5.59)
+
+To find the hours of fishing that maximizes the utility of person 1 we differentiate Equation 5.59 with respect to h1, and set the result equal to zero. This gives us the first order condition:
+
+a 2b h1 b Ân hi h1 = 0 i=2
+Ân
+marginal benefit = a 2b h1 b hi = h1 = marginal cost
+i=2
+
+(5.60)
+
+Rearranging Equation 5.60 we get person 1's first order condition giving the utility maximizing amount of fishing time:
+
+(1 + 2b )h1 = a b Ân hi i=2
+
+h1
+
+=
+
+a b Âni=2 hi 1 + 2b
+
+(5.61)
+
+All face the same first order condition so in the Nash equilibrium all fish the same amount of hours: h1 = h2 = . . . = hN . Equation 5.61 becomes:
+
+hN
+
+=
+
+a b (n 1)hN 1 + 2b
+
+(1 + 2b )hN = a b (n 1)hN
+
+hN + 2b hN + b nhN b hN = a
+
+(1 + b + b n)hN = a
+
+hN
+
+=
+
+a 1+b +bn
+
+(5.62)
+
+M-Note 5.17: Nash equilibrium number fishing (numerical example)
+
+Using the analysis of M-Note 5.16, and as in the rest of the chapter, letting a = 30 and
+
+b
+
+=
+
+1 2
+
+,
+
+we
+
+can
+
+illustrate
+
+the
+
+endogenous
+
+determination
+
+of
+
+the
+
+number
+
+of
+
+people
+
+fishing.
+
+Starting with Equation 5.62, you can verify that, if n = 10, then 1 + b + b n = 6.5 and so
+
+hN (10)
+
+=
+
+30 6.5
+
+=
+
+4.62.
+
+The utility
+
+of each
+
+fisher would
+
+be:
+
+uN (10)
+
+=
+
+ 4.62  30
+
+1 2
+
+
+
+10
+
+
+
+ 4.62
+
+1 2
+
+
+
+4.622
+
+= 21.2
+
+(5.63)
+
+If one more enters and starts fishing so that n = 11, then the hours of fishing would be
+
+hN (11)
+
+=
+
+30 7
+
+=
+
+4.29.The
+
+new utility
+
+of each
+
+fisher would be
+
+now:
+
+uN (11)
+
+=
+
+ 4.29  30
+
+1 2
+
+
+
+11
+
+
+
+ 4.29
+
+1 2
+
+
+
+4.292
+
+= 18.37
+
+(5.64)
+
+But this ( n = 11) cannot be a Nash equilibrium, because everyone ­ including the new
+
+C O O R D I N AT I O N F A I L U R E S & I N S T I T U T I O N A L R E S P O N S E S 257
+entrant ­ would then be worse off than with the fallback option, uz = 20. So the 11th
+person would not enter (or if she did, others would leave). So the Nash equilibrium is
+nN = 10. This is illustrated in Figure 5.18.
+Checkpoint 5.15: Pareto efficiency and open access
+a. Explain why the open-access Nash equilibrium outcome with 10 fishermen is not Pareto-efficient. What alternative, if any, is Pareto-superior to it?
+b. Given your reasoning for a., do you think there are alternative outcomes that are Pareto-superior to, say, three fishermen bribing the other 10 not to fish? Explain what the dynamics for the situations you describe would be? How many fishermen? How many hours spent fishing? And so on.
+5.15 The rules of the game matter: Alternatives to over-exploitation
+The new rules of the game allowing the incumbent three to bribe the others is just a thought experiment demonstrating that the Nash equilibrium with open access is not Pareto-efficient. But commonly observed real-life rules of the game ­ like inequalities in bargaining power, cooperative management of the lake, or private ownership ­ could also address the over-fishing problem.
+TIOLI bargaining power
+To see that the institutions governing the interactions among them matter, think about the case in which one of the ten people fishing on the lake has the power to make a take-it-or-leave-it offer to all the rest. Here we have changed the rules of the game by giving one of the fishermen TIOLI power (which allows a kind of coordination). But the lake is still open access, so there are ten fishermen there.
+The one with bargaining power ­ suppose it is Abdul ­ can now say to the others "each of you will fish x number of hours, and I will fish as many hours as I wish." This is the "take it" part of the offer. The "leave it" part is: "and if you refuse, then I will return to fishing 4.61 hours." That is, return to the former Nash equilibrium hours that occurred when there was no coordination among the fishermen.
+The other fishermen would know that without coordination the best they could do is to all fish 4.62 hours, gaining a utility of 21.2. This is the others' fallback option to the TIOLI offer. If accepting Abdul's offer made them worse off than their fallback they would refuse, and just fish 4.62 hours. This is their participation constraint; if it is violated ­ so that they would receive a utility of less than 21.2 ­ the others will not accept ("participate in") Abdul's offer.
+Abdul would know, therefore, that he needs to find the hours of all 10 of them
+
+258 M I C RO E C O N O M I C S - D R A F T
+
+Open access, A is one of several fishermen, n = 10, total hours: 46.15
+A has TIOLI power over other fishermen, n = 10, total hours: 21.56
+A is a member of a cooperative, n = 10, total hours: 27.27
+
+(h = 4.62) (h = 1.14)
+(h = 2.73)
+
+(h = 11.3)
+
+A owns the lake, n = 4, total hours: 24
+A is a member of a cooperative, n = 4, total hours: 24
+
+(h = 6) (h = 6)
+
+0
+
+50
+
+100
+
+150
+
+200
+
+Utility
+
+A's Utility Others (not A)
+
+(h = 6)
+
+250
+
+300
+
+Figure 5.19: The rules of the game: Noncooperation, bargaining power, and ownership. The bars show the utility of the fishermen (it is identical for all fishermen in the first and third row). The numbers at the end of the bars show the hours fished, where hA is the fishing hours of the owner or person who has TIOLI power, h A is the fishing hours of the non-owner or people who do not have TIOLI power.
+
+(his and the rest) that maximizes his utility subject to the participation constraint on the minimum utility the others can receive. Figure 5.19 shows the offer Abdul would make, and the utility that he and the others would experience. The first row of the figure shows, from the previous figure, the result for the unlimited access case without coordination.
+When Abdul has TIOLI power the other fishermen work fewer hours (just 1.14 each, rather than 4.62 before), but get exactly what they had under the uncoordinated open access case. This is so because that level of utility ­ 21.2 ­ is the participation constraint on what Abdul can offer them.
+Abdul himself works 11.30 hours and enjoys utility equal to 153.2. Notice that the total number of hours is reduced sharply compared to the uncoordinated Nash equilibrium: from 46.15 to 21.56 hours. This reduction in total hours is the reason why the others are able to fish less but still attain the same utility: they catch more fish in an hour due to the lesser total hours of fishing.
+
+A democratic fishing cooperative
+An entirely different set of rules of the game ­ a democratic cooperative of the fishermen ­ would implement a correspondingly different set of results. Suppose that none of the ten fishermen has any bargaining power advantage and that they jointly own the lake. They can decide jointly ­ democratically by unanimous consent ­ on the same number of hours that each of them will fish.
+To figure this out they would think in the same way the Impartial Spectator did when she maximized total utility. They will maximize the sum of their utilities because this will also maximize the utility of each fisherman. The result is shown on line 3 of Figure 5.19. When there are 10 fishermen, they would each fish 2.73 hours and attain utilities of 40.9 each. Because their utility as coop members is now double their fallback option, others who are
+experiencing the fallback utility of uz = 20 would wish to join the cooperative.
+But it might be difficult to persuade the members to admit others, as this would
+
+COOPERATIVE A cooperative is a business organization or other association whose members together own the asse

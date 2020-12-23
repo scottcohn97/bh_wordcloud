@@ -1,0 +1,3431 @@
+4
+Property, Power & Exchange: Mutual Gains & Conflicts
+
+[T]he efforts of men are utilized in two different ways: they are directed to the production or transformation of economic goods, or else to the appropriation of goods produced by others.
+Vilfredo Pareto, Manual of Political Economy (1906)1
+4.1 Introduction: ". . . strange and hard to believe"
+Ibn Battuta, the fourteenth century Moroccan scholar, reported that along the Volga River in what is now Russia, long distance trade took the following form: "Each traveler. . . leaves the goods he has brought . . . and they retire to their camping ground. Next day they go back to . . . their goods and find opposite them skins of sable, miniver, and ermine. If the merchant is satisfied with the exchange he takes them, but if not he leaves them. The inhabitants then add more skins, but sometimes they take away their goods and leave the merchant's. This is their method of commerce. Those who go there do not know whom they are trading with or whether they be jinn [spirits] or men."2
+
+DOING ECONOMICS
+This chapter will enable you to:
+· Explain why, when people exchange goods, there are both mutual gains and conflict over the distribution of these gains.
+· Understand how an allocation of goods can be evaluated on grounds of Paretoefficiency and fairness.
+· Show how preferences affect the outcome, and how other-regarding social preferences may reduce the scope of conflicts over the distribution of the gains from exchange.
+· Understand how property rights, the exercise of power and other aspects of the rules of the game will affect the extent of mutual gains and the inequality of their distribution.
+· Use mathematical tools (equations and graphs) to illustrate the above points.
+
+The Greek historian Herodotus describes similar exchanges between Carthaginian and Libyan groups in the 5th century BCE. After having left their goods, Herodotus reports, the Carthaginians withdraw and the Libyans "put some gold on the ground for the goods, and then pull back away from the goods. At that point the Carthaginians. . . have a look, and if they think there is enough gold to pay for the cargo they take it and leave."
+
+Herodotus describes how the process continues until an acceptable price is hit upon, remarking with surprise that "neither side cheats the other . . . [the Carthaginians] do not touch the gold until it is equal in value to the cargo, and [the Libyans] do not touch the goods until the Carthaginians have taken the gold."
+Alvise da Ca da Mosto, a fifteen century Venetian working for the Portuguese crown, reported a similar practice in the African kingdom of Mali, regarding it
+
+Figure 4.1: Burning Man is an annual gathering of tens of thousands in the Nevada desert in the U.S. What you see is the city (tents and other dwellings) constructed by the "burners." Nothing will remain after they leave. Burners cannot use money to purchase goods. Instead, people give goods they bring or make or services they provide to others. See here how Nobel prize-winning economist Paul Romer spent his time at Burning Man. Photo Credit: Kyle Harmon.
+
+152 M I C RO E C O N O M I C S - D R A F T
+as "an ancient custom which seems strange and hard to believe."
+But is the so-called `silent trade' really so odd? Transfers of goods among strangers can be dangerous. What one expected to be an exchange at mutually agreeable prices may end up as theft or an "offer you cannot refuse." But trade among strangers can also be highly profitable. The potential gains from trade are often greater, the more distant geographically or socially the parties are to the exchange: the salt brought by Tuaregs from the Atlas Mountains in North Africa across the Sahara by camel to the Kingdom of Ghana was not available at any price in West Africa.3 The gold and tropical nuts Tuaregs gained in silent trade with Ghanaians was not available north of the Sahara.
+The silent trade ­ with its unusual etiquette in which parties interacted only at a distance ­ allowed both Tuaregs and Ghanaians to get some of what they lacked and wanted in return for giving up some of what they had in abundance and could readily part with.
+They were exploiting the mutual gains that differences in geography, tastes, technologies, and skills allow. And the rules of the game for governing their exchange process ­ the institutions that we call "the silent trade" ­ were a way of doing this and dividing the mutual gains without risking violent conflicts.
+Other than these mutually advantageous exchanges, there are many other ways that goods change hands: from the use of violent coercion by private parties (i.e. theft), or by the use of one nation's military force to acquire the resources of another people. People have also been violently coerced into work through enslavement by private actors and states alike.
+A key characteristic of these coerced transfers is that they are not motivated by mutual gain, but instead by the gain of one party facilitated by superior force and institutional power. These transfers of resources and lives have shaped the course of history and have had important economic consequences and enduring legacies.
+But here we set aside the use of physical coercion and ask how societies organize the process of exchange motivated not by fear of physical harm but instead by the prospect of mutual gain. We also provide terms that allow us to evaluate some of these outcomes as better or worse than others. And we will see that depending on the rules of the game the distribution of of the mutual gains made possible by exchanges may be highly unequal.
+4.2 Mutual gains from trade: Conflict and coordination
+In a modern economy we engage in indirect monetary exchange: selling some of our goods or some of our working time for money and using the
+
+P RO P E RT Y, P OW E R , & E X C H A N G E : M U T UA L G A I N S & C O N F L I C T S 153
+
+money we have acquired to purchase the goods we need. We typically do not barter directly as did the Libyans and Carthaginians. The principles of barter exchange, where goods are directly transferred among two parties without the use of money, however illustrate the fundamental considerations behind all types of exchange, including indirect monetary exchange.
+We will simplify by thinking about just two people who exchange goods directly with each other, thereby modifying the goods that they hold. To do this we will introduce three terms describing the bundles that each has before and after exchange:
+· The endowment bundle: or endowment, the quantities of goods a person has before exchanging goods.
+· The post-exchange bundle: the bundle a person has after exchanging goods with another person.
+· The allocation: bundles held by each of the people (either before or after exchange).
+Voluntary exchange: mutual gains and conflict over their distribution
+An exchange is voluntary if all parties to the exchange have the option to not engage in it but instead choose to engage in the exchange. So each party must expect to be better off, or at least expect to be no worse off, as a result of the exchange. This implies that each party prefers (at least weakly) their post-exchange bundle to their endowment bundle.
+Recalling the meaning of a Pareto-comparison, we can see that if an exchange is voluntary for both parties, the post-exchange allocation must be a Pareto-improvement over the endowment, otherwise one or both of the parties would have refused to participate in the exchange.
+To make the idea of voluntary exchange concrete we often let the fallback position of the players be a bundle of goods that is their private property which they are free to dispose of in exchange or by gift to others, or to retain for themselves, excluding others.
+Let's review some of the terminology from earlier chapters and explain how they are used to study the process of exchange.
+· A person's fallback position is what they experience in the absence of the exchange under consideration, and also the utility number they assign to that bundle (that is, the utility of their endowment bundle, which is considered to be her next best opportunity.)
+· The improvement in utility enjoyed by a party to an exchange is their rent resulting from the exchange, namely, the difference between the utilities associated with their post-exchange bundle and their fallback position.
+
+R E M I N D E R As in Chapter 3 a bundle is just a list of the quantity of the goods (or other thing of value) that a person has. We refer to the bundles held by all of those involved in an exchange as an allocation.
+PRIVATE PROPERTY The right and expectation that one can enjoy one's possessions in ways of one's own choosing, exclude others from their use, and dispose of them by gift or sale to others who then become their owners.
+ALLOCATION In a game, an allocation is a particular distribution of goods or other things of value to all players. VOLUNTARY EXCHANGE An exchange is voluntary if all parties to the exchange have the option to not engage in it without suffering harm or other dire consequences, but instead choose to engage in the exchange.
+
+154 M I C RO E C O N O M I C S - D R A F T
+
+· The total rents received by parties to an exchange, also termed the gains from trade are the utilities of the exchanging parties at the outcome of the exchange minus the utilities at their fallback positions.
+The fact that an exchange is voluntary does not mean that it is fair. Some exchanges take place under conditions such that one party gains virtually all of the available rents. How the economic rents are divided between participants is the distributional outcome of the exchange. The rents may be captured by one party, leaving the other with a different set of goods than her endowment but no better off.
+Or the rents may be split among the parties in a way that appears fair, or at least acceptable to both, as in the silent trade between the Carthaginians and the Libyans described by Herodotus. The division of the gains from exchange in the form of economic rents is parallel to the division of the pie in the Ultimatum Game of Chapter 2.
+Exchange therefore has two aspects: mutual benefit and conflict of interest :
+· Mutual benefit is possible because participants move from their endowment bundle to the post-exchange allocation where they share the gains from exchange and obtain an economic rent.
+· A conflict of interest is present because the gains from exchange can be divided in many ways among the parties who find themselves in conflict over who gets the larger share.
+Institutions and social norms govern the process of exchange that leads both to the re-allocation of goods, and to the distribution of the gains from trade. We will see that institutions and social norms have effects on:
+· Pareto efficiency, facilitating or obstructing the realization every opportunity for mutual gain among the parties to an exchange, and
+· The degree of inequality of the distributional outcome, favoring one party or the other in the conflict of interest in the distribution of the economic rents.
+A major institutional challenge today is to find rules of the game that will have as the Nash equilibrium any allocation that is both Pareto efficient and fair.
+
+R E M I N D E R: An economic rent is the difference between a player's fallback payoff and the payoff (profit or utility) they obtain from participating in an interaction. The total gains from exchange from an interaction is the sum of the economic rents of all participants.
+DISTRIBUTIONAL OUTCOME How the gains from exchange ­ the economic rents ­ are distributed among the people in an exchange.
+
+4.3 Feasible allocations: The Edgeworth box
+Lets think about a concrete setting in which two people might consider alternative possible distributions of two goods amongst themselves. Let's say that Ayanda and Biko have to divide a total of 10 kilograms of coffee and 15 gigabytes of data between them. (For concreteness, they found the coffee and
+
+H I S TO RY The Edgeworth box is named after the British economist Francis Ysidro Edgeworth (1845-1926) who is credited with having invented this clever way to represent exchange and bargaining. It was actually invented by Pareto!4
+
+P RO P E RT Y, P OW E R , & E X C H A N G E : M U T UA L G A I N S & C O N F L I C T S 155
+
+A's data (gigabytes), yA A's data (gigabytes), yA
+
+B's data (gigabytes), yB B's data (gigabytes), yB
+
+10 9 15 14 13 12 11 10
+9 8 7 6 5 4 3 2 1 0
+01
+Ayanda
+
+B's coffee (kilograms), xB
+8765432
+2345678
+A's coffee (kilograms), xA (a) An allocation, z
+
+1 0Biko
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+z
+
+13
+
+14
+
+15 9 10
+
+B's coffee (kilograms), xB
+10 9 8 7 6 5 4 3 2 1
+
+15
+
+14
+
+13
+
+12
+
+11
+
+10 9 8 Better 7 for Biko 6
+
+Better for Ayanda
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+0123456789
+
+Ayanda
+
+A's coffee (kilograms), xA
+
+(b) Indifference curves
+
+0Biko
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 10
+
+a burner phone with the data left behind by the students who moved out of the apartment they just rented.) At the start, nobody owns the goods, the two quantities are simply amounts available to the two of them. Ayanda and Biko might now ask each other: what allocation of the coffee and data between the two of us would be the best?
+
+Figure 4.2: Feasible allocations that exhaust the supply of both goods. Figure 4.2a shows an example of a feasible allocation at point z. Figure 4.2b shows the direction in which each person prefers to move to increase their utility. When indifference curves are plotted in this rectangle the graph is called an Edgeworth box.
+
+We use the notation x¯ = 10 and y¯ = 15 to stand for the total amount of coffee (x) and data (y) available. We define xA, and yA as the quantity of goods x (coffee) and y (data) in Ayanda's bundle, and similarly xB and yB are the
+quantities in Biko's.
+
+The amount of the two goods in their respective bundles can be anywhere from zero to the entire amount available, namely, x¯ and y¯. Then, an allocation is a particular assignment of coffee and data to the two people that we
+can write as (xA, xB; yA, yB). An allocation is feasible if the amounts of coffee
+and data it gives to Ayanda and Biko is no greater than the amount available:
+
+xA + xB  x¯ yA + yB  y¯
+
+Figure 4.2 a represents the total supply of the goods, with width and height equal to the total amount of coffee (x) and data (y) available. The box's width is the total amount of x, x¯ (kilograms (kg) of coffee) and its height is the total
+amount of y, y¯ (gigabytes (gb) of data). We measure A's allocation, (xA, yA) from the lower left-hand corner of the box, and B's allocation, (xB, yB) from the
+upper right-hand corner.
+Any point in the box (or on its edges) is a bundle representing a feasible allocation of the two goods between the two parties, with the property that it fully exhausts the total supply of the two goods.
+
+156 M I C RO E C O N O M I C S - D R A F T
+
+Allocation z, for example, gives Ayanda 9 kilograms of coffee and 1 gigabyte of data and Biko 1 kilogram of coffee and 14 gigabytes of data (exhausting the 10 units of x and the 15 units of y).
+
+There are also many feasible allocations of the two goods that are not shown in the box. For example, if Ayanda and Biko each got 1 kilogram of coffee and one gigabyte of data, that would be feasible given the total amounts, but it could not be shown in the Edgeworth box because the Edgeworth box shows only allocations where the two people divide up all of the goods so that they sum to x¯ and y¯.
+
+A caution: it is natural to think that Ayanda might be at one point in the box and Biko at another. This is not possible. A point in the box is not just a single bundle for one or the other of them. It is an allocation of goods between the two. They differ in where they would like that allocation to be.
+
+As we move to the northeast (up and to the right) in the box, Ayanda gets more of both goods, and as we move to the southwest (down and to the left) in the box, Biko gets more of both goods. Because we assume for now that both are self-regarding we show this on the figure with the arrows labeled: "Better for Ayanda" and "Better for Biko."
+
+How can we evaluate whether some allocations are better than others? To do this we can represent the preferences of the two parties by plotting their indifference curves in the box. This allows us to say for both Ayanda and Biko that for any two allocations (points in the box) that the first is preferred to the second, the second is preferred to the first, or the person is indifferent between the two. To do this we need to know the utility functions of the two.
+
+Both Ayanda and Biko enjoy consuming both coffee and data. Their utility functions are:
+
+Ayanda's utility function Biko's utility function
+
+uA(xA, yA) uB(xB, yB)
+
+We assume that the indifference curves for both parties exhibit decreasing marginal utility for both goods. To provide a concrete example, we will assume that both Ayanda's and Biko's utility functions are Cobb-Douglas, but in some cases that follow, with different preferences for coffee and data:
+
+Ayanda's utility function Biko's utility function
+
+uA(xA, yA) = (xA)aA (yA)(1 aA) uB(xB, yB) = (xB)aB (yB)(1 aB)
+
+In numerical examples we will often contrast two cases:
+
+· Identical: The two people have identical preferences for the two goods,
+
+such
+
+as
+
+aA
+
+=
+
+1 2
+
+,
+
+a
+
+B
+
+=
+
+1 2
+
+.
+
+R E M I N D E R In Chapter 1, we used z to indicate the fallback position of people playing games in the general form of the Fishermen's Dilemma game with ranked outcomes. At z, the people experience their utilities, uAz and uBz , as their utility at the fallback position, that is, their endowments if they do not trade.
+
+P RO P E RT Y, P OW E R , & E X C H A N G E : M U T UA L G A I N S & C O N F L I C T S 157
+
+A's data (gigabytes), yA B's data (gigabytes), yB A's data (gigabytes), yA
+
+15
+
+14
+
+13
+
+12
+
+11 u1A u2A
+
+u3A
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+Ayanda
+
+A's coffee (kilograms), xA
+
+z 9 10
+
+Biko
+
+(a) Ayanda's indifference curves
+
+z
+u3B u2B u1B B's coffee (kilograms), xB
+(b) Biko's indifference curves
+
+· Different: The two people have different preferences, for example, such
+
+that
+
+A's
+
+aA
+
+=
+
+2 3
+
+,
+
+whereas
+
+for
+
+B
+
+aB
+
+=
+
+1 3
+
+.
+
+So
+
+Ayanda
+
+has
+
+a
+
+stronger
+
+prefer-
+
+ence for coffee than Biko does.
+
+An Edgeworth box allows us to see both people's indifference curves in the same space to identify mutually beneficial trades. Ayanda and Biko's indifference curves are shown separately in Figure 4.3 panels a and b. In panel c we plot the same indifference curves together in the Edgeworth box. Ayanda evaluates the allocations from the point of view of the lower left-hand corner, and her indifference curves represent higher utility as we move to the northeast in the box.
+
+B's data (gigabytes), yB
+
+10 9 8 15 14 13 12 11 10
+9 u1A u2A 8 7 6 5 4 3 2 1 0
+012 Ayanda
+
+B's coffee (kilograms), xB 76543
+u3A u3B
+34567 A's coffee (kilograms), xA
+
+2 1 0Biko
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+u2B
+
+u1B 10
+
+11
+
+12
+
+z
+
+13
+
+14
+
+15 8 9 10
+
+(c) Indifference curves in an Edgeworth box
+
+Figure 4.3: Indifference curves in an Edgeworth box: Identical utility functions. In panels a and b we show three of Ayanda's and Biko's indifference curves respectively. In panel c, Biko's indifference curves have been flipped 180°so that the origin in the lower left of panel b has become the origin of the Edgeworth box at the upper right.
+
+Ayanda's indifference map looks exactly the same in the Edgeworth box as it does in the separate plot, because in both cases the origin from which we measure her allocation is in the lower left-hand corner. But Biko's map has been flipped so that the origin is in the upper right corner and his indifference curves represent higher utility as we move to the southwest (down and to the left) in the box.
+
+It may help you understand how we superimposed Biko's preferences on Ayanda's if you think about what we called their "point of view." In panels a and c, imagine Ayanda standing at the lower left origin and looking up her indifference map, as if the curves were contours of a mountain, the curves farther away being at higher altitudes. Now do the same with Biko, but for him when he looks to the north east in panel b, he is looking up his "utility mountain." But in panel c he is standing at the upper right origin and the way up his utility map is to the south west.
+In the figures, at allocation z Ayanda and Biko have allocations (xzA, yAz ) = (9, 1) and (xzB, yBz ) = (1, 14). The indifference curves that go through allocation z provide Ayanda and Biko with utilities uAz = uA2 and uBz = uB2 .
+In panels a and c, uA2 = uAz is Ayanda's indifference curve through z. In panels b and c, uB2 = uBz is Biko's indifference curve through z. The indifference maps
+for both Ayanda and Biko have indifference curves through every point in the
+
+R E M I N D E R In Chapter 3 we defined the
+
+Cobb-Douglas (CD) family of utility functions
+
+as:
+u(x, y) = xa y(1 a)
+
+(with 0  a  1). The Cobb-Douglas
+
+utility function results in a marginal rate of
+
+substitution,
+
+mrs(x, y)
+
+=
+
+a (1 a)
+
+y x
+
+.
+
+M - C H E C K Biko's indifference map would look exactly the same as in Figure 4.3 b if we rotated the Edgeworth box 180°to measure Biko's allocation from the lower left-hand corner.
+
+158 M I C RO E C O N O M I C S - D R A F T
+
+box, but (following "the map is not the territory" principle) we show only three in the figure.
+
+M-Note 4.1: Evaluating utilities at an allocation
+
+Consider the case in which both utility functions are Cobb-Douglas with Ayanda's aA
+
+=
+
+2 3
+
+­ and Biko's aB
+
+=
+
+1 3
+
+.
+
+We
+
+can
+
+calculate
+
+their
+
+utilities
+
+at
+
+the
+
+allocation
+
+z.
+
+In
+
+this
+
+example,
+
+Ayanda likes coffee more than Biko does.
+
+Ayanda
+
+has
+
+a
+
+Cobb-Douglas
+
+utility
+
+function
+
+uA (xA ,
+
+yA )
+
+=
+
+(xA
+
+)
+
+2 3
+
+(yA
+
+)
+
+1 3
+
+:
+
+· She has 9 kilograms (kgs) of coffee and 1 gigabyte (gb) of data.
+
+· So her allocation at point z is (xzA, yAz ) = (9, 1)
+
+· At her allocation z her utility is uA(xzA, yAz ).
+
+·
+
+So for 9 kgs of coffee and 1 gb of data:
+
+uA (9,
+
+1)
+
+=
+
+(9)
+
+2 3
+
+(1)
+
+1 3
+
+= 4.33.
+
+Checkpoint 4.1: Biko's utility at allocation z
+
+Using the method shown in M-Note 4.1,
+
+a.
+
+Show that Biko's utility (with aB
+
+=
+
+1 3
+
+)
+
+at
+
+the
+
+allocation
+
+given
+
+by
+
+point
+
+z
+
+(1,14)
+
+in the Edgeworth box is 5.81.
+
+b. Now imagine that Biko has different preferences and his utility function has
+
+aB
+
+=
+
+1 2
+
+.
+
+Show
+
+that
+
+his
+
+utility
+
+at
+
+allocation
+
+z
+
+(1,14)
+
+in
+
+this
+
+case
+
+is
+
+equal
+
+to
+
+3.74.
+
+4.4 The Pareto-efficient set of feasible allocations
+Which allocations in the Edgeworth box are Pareto-efficient?
+It's easy to see that simply throwing away some of x or y cannot be efficient because allocating those portions to Ayanda and or Biko instead would have made at least one of them better off without making the other worse off. So Pareto-efficiency also requires that Equations 4.1 are satisfied as equalities, not as inequalities. By construction, any of the great many allocations in the Edgeworth box allocates all of the coffee and data to one or the other participant, and meets this criterion.
+To narrow things down, Ayanda and Biko could agree that the final allocation chosen must be Pareto-efficient. In Figure 4.4 we show Ayanda and Biko's indifference curves through some arbitrary endowment allocation z that they might consider as a way of dividing up the goods. The figure also shows two more indifference curves for Ayanda: one indifference curve higher and one indifference curve lower than for allocation z. The figure also shows three more indifference curves for Biko: two indifference curves higher and one indifference curve lower than for allocation z.
+
+R E M I N D E R In games like the Ultimatum Game in Chapter 2 any allocation of the pie in which the entire endowment is allocated to one of the players or the other. In other words "no money left on the table" is Paretoefficient. But the allocations resulting from the Ultimatum Game are frequently inefficient because when the Responder rejects the Proposers offer both players get zero, and all of the money is left on the table.
+
+M - C H E C K Even if for some reason we were not to allow the allocation to involve fractional quantities of the goods and require that allocations be integers, there are 176 possible allocations (that's 11  16, in case you are wondering, because we would then have to include zeroes as possible allocations for the goods).
+
+R E M I N D E R The marginal rate of substitution
+
+is the negative of the slope of the indiffer-
+
+ence curve. It is also equal to the ratio of
+
+the marginal utilities of the two goods, x and
+
+y,
+
+i.e.
+
+mrsA(x, y)
+
+=
+
+uAx uAy
+
+.
+
+The
+
+marginal
+
+rate
+
+of substitution is also the willingness to pay
+
+for x in terms of y. The people's marginal
+
+rates of substitution have the dimensions
+
+data/coffee (data for coffee).
+
+P RO P E RT Y, P OW E R , & E X C H A N G E : M U T UA L G A I N S & C O N F L I C T S 159
+
+A's data (gigabytes), yA
+
+10 9
+
+15
+
+14
+
+13
+
+12
+
+u1B
+
+11
+
+10
+
+uzB
+
+9
+
+8
+
+u3B
+
+7
+
+6 5
+
+u4B
+
+4
+
+3
+
+2
+
+1
+
+0 01
+Ayanda
+
+8 u1A
+2
+
+B's coffee (kilograms), xB
+76543
+
+uzA
+
+u3A
+
+21
+Pareto- efficient curve
+
+d
+tA i
+
+tB
+
+h
+
+z
+
+3456789
+A's coffee (kilograms), xA
+
+0Biko
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 10
+
+B's data (gigabytes), yB
+
+Figure 4.4: Pareto-efficient allocations:
+
+Different utility functions To make this figure we
+
+set uA
+
+=
+
+(xA )
+
+2 3
+
+(yA )
+
+1 3
+
+and uB
+
+=
+
+(xB )
+
+1 3
+
+(yB )
+
+2 3
+
+.
+
+So
+
+Ayanda has a stronger preference for coffee, and
+
+Biko has a stronger preference for data. Allocation
+
+h is Pareto-superior to allocation z, but it is not
+
+Pareto-efficient because an alternative point, e.g. allocation tB, is Pareto-superior to point h (Biko
+
+is better off without Ayanda being worse off). All
+
+points along the Pareto-efficient curve between i and tB are both Pareto-superior to h and z and
+
+Pareto-efficient.
+
+The endowment allocation is not Pareto-efficient
+Think about z as a hypothetical allocation, for example, if Biko said: "Ayanda, how about you have 9 kg of coffee and I get the 1 kg remaining, while I get 14 gb of the data, and you get the 1 gb remaining." We can see, however, that z in Figure 4.4 is not Pareto efficient. The reason is that at the allocations given by point z, Ayanda's and Biko's indifference curves:
+· intersect, which means
+· they have different slopes,
+· indicating different marginal rates of substitution,
+· which means their willingness to pay to acquire more of one or the other good differ,
+· and this means that there is a feasible Pareto-improving exchange that has not been realized,
+· so these allocations are not Pareto efficient.
+The difference between the two people's marginal rates of substitution at the point z indicates that there must be a Pareto-improving alternative allocation ­ Ayanda having less coffee and more data and the opposite being the case for Biko. In other words there is some allocation to the "north-west" of allocation z, for example the allocation at point i, that is a Pareto improvement over the allocation at z. So we can eliminate point z in Figure 4.4 as a candidate for being a Pareto-efficient allocation.
+
+R E M I N D E R For an outcome to be Paretosuperior to another, at least one participant must be made better off ­ get higher utility ­ and no participant can be made worse off ­ get lower utility.
+
+160 M I C RO E C O N O M I C S - D R A F T
+
+M-Note 4.2: The mrs in the Edgeworth box with different utility functions
+
+At allocation z (9, 1), (1, 14) in Figure 4.4, we can calculate each person's marginal rate of substitution and compare them. We computed what a person's mrs(x, y) is when she has
+Cobb-Douglas utility in M-Note 3.4. We obtain Biko's from the same reasoning. We shall
+assume for this example that the two have different preferences as in Figure 4.4.
+
+Let's start with Cobb-Douglas
+
+Ayanda, function
+
+given that a mrs(x, y) =
+
+A (1
+
+=
+a
+
+2 3y
+
+a) x
+
+and :
+
+recalling
+
+(from
+
+Equation
+
+3.12)
+
+that
+
+with
+
+the
+
+·
+
+mrsA(x, y) =
+
+uAx uAy
+
+=
+
+2
+
+yA xA
+
+·
+
+Substitute
+
+in
+
+A's
+
+allocation
+
+at
+
+z:
+
+mrsAz
+
+(xzA
+
+,
+
+yAz
+
+)
+
+=
+
+2
+
+1 9
+
+=
+
+2 9
+
+Ayanda
+
+is
+
+willing
+
+to
+
+sell a kilogram of
+
+coffee for
+
+2 9
+
+of
+
+a
+
+gigabyte
+
+of data.
+
+Now
+
+for
+
+Biko, aB
+
+=
+
+1 3
+
+and
+
+again
+
+recalling
+
+that
+
+mrs(x, y)
+
+=
+
+a (1 a)
+
+y x
+
+:
+
+·
+
+mrsB(xB, yB) =
+
+uBx uBy
+
+=
+
+1 2
+
+yB xB
+
+·
+
+Substitute
+
+in
+
+B's
+
+allocation
+
+at
+
+z:
+
+mrsBe (xeB, yBe )
+
+=
+
+1 2
+
+14 1
+
+=
+
+7
+
+Biko is willing to pay 7 gigabytes of data for a kilogram of coffee.
+
+We can see that mrsA
+
+<
+
+mrsB
+
+because
+
+2 9
+
+<
+
+7. This means that Biko would pay up to 7
+
+gigabytes of data for a kilogram of coffee, and Ayanda would give up a kilogram of coffee
+
+for as little
+
+as
+
+2 9
+
+of
+
+a
+
+gigabyte
+
+of
+
+data.
+
+There
+
+is
+
+ample
+
+space between
+
+these
+
+two
+
+prices
+
+for
+
+a mutually beneficial trade. This shows up in Figure 4.4: the slope of Ayanda's indifference
+
+curve is steeper than the slope of Biko's indifference curve at allocation z.
+
+Which allocations are Pareto efficient? The mrsA = mrsB rule
+The same reasoning allows us to eliminate most of the other points too. Remember the demonstration that showed point z to be Pareto-inefficient started with "at the allocations given by these points Ayanda's and Biko's indifference curves intersect."
+So any allocation at which the indifference curves intersect, like points d, h, and z in Figure 4.4 cannot be Pareto efficient.
+To find the Pareto-efficient allocations, we need to determine which allocations remain after we have eliminated all of those at which the indifference curves cross. To do this we can run the above reasoning in reverse.
+If the two indifference curves (one of Ayanda's, one of Biko's) share a common point (that is, that represent the utilities at a particular allocation) but do not intersect, then the two indifference curves must be tangent. This tells us (reversing the logic above about indifference curves that intersect) that if Ayanda's and Biko's indifference curves:
+· are tangent, this means that
+
+P RO P E RT Y, P OW E R , & E X C H A N G E : M U T UA L G A I N S & C O N F L I C T S 161
+
+Rules
+mrs = mrt mrsA = mrsB
+
+Tangency of An individual's feasible frontier and indifference curve
+Two or more people's indifference curves
+
+Rule for what
+Individual constrained optimization
+Societal (multiperson) Pareto efficiency
+
+· they have the same slopes, indicating
+
+· identical marginal rates of substitution,
+
+· meaning that Ayanda and Biko have the same willingness to pay for the two goods.
+
+· This is the same as saying that their maximum willingness to pay to acquire more of the other's good is not greater than the least price at which the other would part with their good
+
+· and this means that there is no feasible Pareto-improving alternative allocation.
+
+· so the status quo allocation is Pareto efficient.
+
+This gives us the following rule for an allocation between two players, A and B, being Pareto efficient:
+
+The mrsA = mrsB rule: mrsA(xA, yA) = mrsB(xB, yB)
+
+(4.1)
+
+This rule differs from the seemingly similar mrs = mrt rule introduced in Section 3.9. The mrs = mrt rule applies to a single individual and it identifies a
+constrained optimum for that person. This new rule applies to interactions among two or more inter-dependent actors, of the kind that occur in markets for labor, credit, and many goods. It identifies a Pareto-efficient point for the people involved in the interaction. The superscripts A and B are there to remind you that two (or more) players are involved in this rule. The two tangency rules are compared in Table 6.12.
+The points tA, tB and i lie on the purple Pareto-efficient curve in Figure 4.4. The Pareto-efficient curve consists of all Pareto-efficient allocations, including Ayanda getting all of both goods, or none of either.
+Confining allocations to the Pareto-efficient curve limits the choices that Ayanda and Biko need to make. But the question is still far from answered. Moving from one Pareto-efficient allocation to another must make one of the participants better off and the other worse off. The Pareto efficiency criterion is not going to help them decide which of the points on the Pareto-efficient curve they would consider to be the best.
+
+Table 4.1: Two rules: individual constrained optimization and societal Pareto efficiency.
+R E M I N D E R : T H E mrs = mrt RU L E We
+derived a similar rule for single person
+interactions in Chapter 3 The mrs = mrt
+rule (with a few exceptions) identifies the constrained optimal allocation for a single individual as the bundle at which the marginal rate of substitution (the person's willingness to pay for more of the y-good) is equal to the marginal rate of transformation (the opportunity cost of getting more of the y-good).
+M- CH ECK Like the mrs = mrt rule, mrsA = mrsB does not work in every case. The
+Pareto-efficient point may be a corner solution (not a tangency) at which one of the goods is not consumed at all by one of the players. Moreover, just like the
+mrs = mrt rule, a tangency identified by the mrsA = mrsB rule may be a minimum not
+a maximum. The reasons are the same as
+were explained for the mrs = mrt rule.
+
+162 M I C RO E C O N O M I C S - D R A F T
+
+So they face a problem and a conflict of interest.
+
+· The problem is that there are still innumerable Pareto-efficient outcomes on the Pareto-efficient curve and they need some way to decide which one to choose.
+
+· The conflict of interest is that Ayanda prefers points on the Pareto-efficient curve to the northeast in the Edgeworth box, while Biko prefers points to the southwest, so they will not agree on which Pareto-efficient division of the coffee and data to make.
+
+M-Note 4.3: Computing the Pareto-efficient curve
+
+Taking the case in which the two have different utility functions (that we studied in M-Note
+4.2), we will use mrsA = mrsB rule to work out the equation for the Pareto-efficient curve.
+
+To find the Pareto-efficient curve, we set Ayanda's marginal rate of substitution equal
+
+to Biko's marginal rate of substitution. We already know that mrsA(xA, yA)
+
+=
+
+2
+
+yA xA
+
+and
+
+mrsB(xB, yB)
+
+=
+
+1 2
+
+yB xB
+
+.
+
+We
+
+also
+
+know
+
+that
+
+x¯
+
+=
+
+xA + xB
+
+=
+
+10, so xB
+
+=
+
+x¯
+
+xA and
+
+y¯ = yA + yB = 15, so yB = y¯ yA. Solutions to these equations for xA, yA, xB, yB are
+
+Pareto-efficient allocations making up the Pareto-efficient curve:
+
+mrsA(xA, yA) = mrsB(xB, yB)
+
+2
+
+yA xA
+
+=
+
+1 y¯ yA 2 x¯ xA
+
+Substitute x¯ = 10 and y¯ = 15
+
+4
+
+yA xA
+
+=
+
+15 yA 10 xA
+
+4(10 xA)yA = xA(15 yA)
+
+40yA 4xAyA = 15xA xAyA
+
+(40 3xA)yA = 15xA
+
+Pareto-efficient curve
+
+yA
+
+=
+
+15xA 40 3xA
+
+PARETO-EFFICIENT CURVE The points making up the Pareto-efficient curve represent all of the allocations that are Pareto-efficient. The Pareto-efficient curve is sometimes called the "contract curve," a term we do not use because there need not be any contract involved.
+
+Checkpoint 4.2: Conflict on the Pareto-efficient curve
+
+a. Using Figure 4.4 do the following:
+i. Explain Ayanda's and Biko's preference among the Pareto-efficient points tA, tB, and i.
+ii. Show that they rank these points in opposite order.
+iii. Explain why for any two points on the Pareto-efficient curve, Ayanda will prefer one point and Biko another point; they will never agree on which is preferable.
+
+b. Show that when the two people have identical Cobb-Douglas utility functions
+
+where aA
+
+yA
+
+=
+
+3 2
+
+xA
+
+.
+
+= aB =
+(It's easier
+
+1 2
+
+,
+
+the
+
+equation
+
+for
+
+the
+
+Pareto-efficient
+
+curve
+
+than the case where the two utility functions
+
+is given differ.)
+
+by
+
+P RO P E RT Y, P OW E R , & E X C H A N G E : M U T UA L G A I N S & C O N F L I C T S 163
+
+4.5 Adam Smith's Impartial Spectator suggests a fair outcome
+Not wanting to waste time fighting over who gets more of the goods limited to x¯ and y¯, Ayanda and Biko have to figure out an institution or set of rules to pick an allocation. This means stepping back and looking at the problem without thinking about their own particular preferences. They would probably experiment with some simple rules. They could adopt:
+· "finders keepers" rule and allocate the goods to whoever had first discovered the discarded coffee and data; but this might not seem fair.
+· the fifty-fifty norm of the landlords and sharecroppers in Chapter 2, and each take half the quantity of the two goods; but if they have different preferences (as is the case in panel b of Figure 4.4) splitting both goods equally would not even be Pareto-efficient (an equal split is not on the purple Pareto-efficient curve.)
+· the maximize total utility principle; but this places no value on equality, and might result in selecting an allocation in which one person had most of the goods (and utility) and the other little of either.
+To develop more satisfactory rules, they might consult Adam Smith's Impartial Spectator a fair and impartial observer who can assist them (and us) in reasoning about what a good outcome might be. We use upper case letters for her name to remind you that she is an entirely made-up character, not a person at all, and not a part of the game in which Ayanda and Biko are engaged. The Impartial Spectator is a thought experiment representing our conscience, allowing us to explore differing values and how they could lead us (and Ayanda and Biko) to select a particular allocation as the best.
+We're going to follow the Impartial Spectator's thinking by looking at different fairness criteria that she could adopt. For example, she could ask:
+· Are the procedures that determined the allocation fair?
+· Is the outcome itself fair?
+The first criterion is referred to as a procedural judgement, and therefore she judges the outcome based on the procedure used to acquire the goods. She would ask for example if the original endowment bundles had been acquired fairly, for example through hard work, or perhaps as a gift from someone who themselves had acquired the goods fairly. If they had acquired the goods through previous trades, the Spectator would go on to inquire if the process of trading had itself been fair: for example did either of them have unfair advantages in determining the price at which they would exchange.
+The second criterion is called substantive: it asks about the substance of the resulting allocation ­ how much do each of them get ­ asking for example if it
+
+E X A M P L E To see how maximizing total utility might lead to unacceptable outcomes, think about two people, one who in order to minimize her carbon footprint or for other ethical reasons has cultivated a simple life style and is not much interested in increasing her material consumption and the other who has cultivated a taste for luxuries and will be miserable without them. Maximizing total utility would require giving most of the goods to the second person.
+R E M I N D E R You met the Impartial Spectator in Section 3.13 in Chapter 3. There she was called on to determine a fair distribution of wealth, so the decision was one-dimensional: there was just one thing ­ wealth ­ being divided up. The problem here is two-dimensional: there are two goods and the Spectator will have to develop a rule for allocating both of them between Ayanda and Biko.
+
+164 M I C RO E C O N O M I C S - D R A F T
+
+is fair (no matter how it came about).
+Both criteria are important, but we will focus on the substantive judgements because it allows us to illustrate how the Impartial Spectator could select the "best" allocation by solving a constrained optimization problem. For the Impartial Spectator to make judgments among Pareto-efficient allocations that give Ayanda and Biko different levels of utility using the constrained optimization method, she needs two pieces of information:
+· The set of all Pareto-efficient combinations of utility levels that Ayanda and Biko could experience by allocating the goods in different ways;
+· The value that she places on each of these combinations of the utility levels of the two.
+The utility possibilities frontier
+Setting aside Pareto-dominated allocations, the Impartial Spectator will concentrate on the boundary of the set of feasible utility pairs of the two. This is called the utility possibilities frontier (UPF) and it shows the pairs of Ayanda is and Biko's utilities associated with allocations on the Pareto-efficient curve.
+In Figure 4.5 a we show an Edgeworth box of the two player's allocation problem in which they have identical preferences. In panel b, we show the utility possibilities frontier for this case. For the moment, ignore the downwardsloping blue curves.
+The utility possibilities frontier is downward-sloping because the participants are in conflict. We are considering only Pareto-efficient points, so any increase in the utility of one must be associated with a reduction in the utility of the other. The utility possibilities frontier is constructed from the Pareto-efficient
+curve by translating each Pareto-efficient allocation (xA, yA; xB, yB) into a point (uA(xA, yA), uB(xB, yB)) that represents the utility levels of the two participants
+at that allocation. To construct it, take any point on the Pareto-efficient curve in Figure 4.4, say point tA, then read from the two indifference curves through tA the two levels of utility of Ayanda and Biko at that allocation (namely 8.52 and 3.74 respectively), then go to Figure 4.5 b where those two utility levels become the coordinates in the utility possibility graph of point tA in the Edgeworth box graph.
+Points tA, i, and tB correspond to the same lettered points in Figure 4.4 and portray the utilities of each of the two at these Pareto-efficient allocations. In similar fashion, points z and h correspond to the same letters in Figure 4.4, but these allocations, being Pareto-inefficient are of no interest to the Impartial Spectator.
+As in the case of other feasible frontiers, the negative of the slope of utility
+
+UTILITY POSSIBILITIES FRONTIER The utility possibilities frontier is composed of the feasible Pareto-efficient combinations of utilities of the members of a population.
+R E M I N D E R The utility possibilities frontier is similar to what we did in Chapter 1 to understand the Pareto efficiency of different game outcomes. The utility possibilities frontier is another feasible frontier introduced in Chapter 3, since it shows the feasible combinations of utility possible given the available goods and the preferences of the participants.
+
+P RO P E RT Y, P OW E R , & E X C H A N G E : M U T UA L G A I N S & C O N F L I C T S 165
+
+A's data (gigabytes), yA B's utility, uB
+
+10 9
+
+15
+
+14
+
+13
+
+d
+
+12 u1A uzA
+
+11
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0 01
+Ayanda
+
+B's coffee (kilograms), xB
+87654321 Pareto-efficient curve
+u3A tA
+i
+
+tB
+
+u4B
+
+u3B
+
+uzB u1B
+
+h
+
+z
+
+23456789
+A's coffee (kilograms), xA
+
+0Biko
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 10
+
+(a) Identical preferences Edgeworth box
+
+B's data (gigabytes), yB
+
+13
+
+Infeasible
+
+12
+
+combinations
+
+of utility
+
+11
+
+10
+
+9
+
+tB 
+
+8
+
+mrs = mrt
+
+Impartial Spectator's
+
+7
+
+iso-social
+
+6
+
+
+h
+
+i
+
+welfare curves
+
+5
+
+4
+
+z
+
+3
+
+Feasible
+
+2
+
+combinations
+
+of utility
+
+1
+
+0 01234
+
+ tA
+
+w6
+
+www345
+
+w2
+
+Utility possibilities frontier
+
+w1
+
+5 6 7 8 9 10 11 12 13
+A's utility, uA
+
+(b) The utility possibilities frontier (UPF) and the Impartial Spectator's iso-social welfare curves (w)
+
+possibility frontier,
+
+DuB DuA
+
+,
+
+is
+
+the
+
+marginal
+
+rate
+
+of
+
+transformation
+
+of
+
+B's
+
+utility
+
+into A's utility by progressively giving A more of the goods and B less. This is
+
+also the opportunity cost ­ in the Spectator's reasoning ­ of A having more
+
+utility in terms of the sacrifice in B's utility necessary to allow this. A steep
+
+utility possibility frontier means that for A to gain one unit of utility, B must
+
+sacrifice a lot.
+
+Checkpoint 4.3: The utility possibilities frontier and the
+
+Pareto-efficient curve
+
+a. Explain why the utility possibilities frontier in Figure 4.5 is downward-sloping.
+b. Explain why, if the utility functions of the two differ, an even split of the two goods ­ half of each to Ayanda and half of each to Biko ­ could not be the Impartial Spectator's choice of the best allocation.
+
+Figure 4.5: The utility possibilities frontier (UPF) and the Impartial Spectator's iso-social welfare curves (w). The utility functions of the two players used to create panel a are identical, with in both cases a = 0.5. Because they both value the two goods in the same way, they consume them in the same proportions at all points on the Paretoefficient curve. The only differences is which player has more. Each point in panel b corresponds to an allocation in the Edgeworth box shown in panel a. The downward-sloping blue curves in panel b are the Impartial Spectator's iso-social welfare curves, corresponding to six levels in his judgement of social welfare w1 through w6. Social welfare is lower at points closer to the origin. The allocation given by point i is the social optimum determined by the mrs = mrt rule.
+
+The Impartial Spectator's social welfare function
+Which point on the utility possibilities frontier ­ in other words which allocation of the goods between Ayanda and Biko ­ the Impartial Spectator ranks as best will depend on her values. She has to compare how much she values the utility of Ayanda and Biko respectively and how this varies depending on the level of utility that each are experiencing.
+To do this she has to be able to compare the levels of utility for the two for each of the allocations on the utility possibilities frontier. She needs to treat the utility of each like ordinary numbers that measure the size not just the rank of something, in this case the cardinal utility of each.
+A summary of the Impartial Spectator's evaluation of different utility distribu-
+tions (uA, uB) is provided by her social welfare function, W (uA, uB). This is
+
+SOCIAL WELFARE FUNCTION A social welfare function is a representation of "the common good" based on some weighting of the utilities of the people making up the society.
+
+166 M I C RO E C O N O M I C S - D R A F T
+
+similar to the utility function that expresses a person's preferences over bun-
+dles of goods, (x, y), but remember the Impartial Spectator is not a person,
+but a thought experiment. This is why it is called the social welfare function rather than the Impartial Spectator's utility function.
+An example is a social welfare function that expresses total welfare as the product of the utility of the citizens, each utility raised to some exponent.
+Example social welfare function: W (uA, uB) = (uA)l (uB)1 l (4.2)
+This social welfare function has the same form as a Cobb-Douglas utility function: the participants' levels of utility are the "goods" for the Impartial
+Spectator. When l = 0.5 = 1 l , then the Impartial Spectator:
+· weights the two peoples' utilities equally ; and
+· places diminishing marginal value on increases in the utility of either of Ayanda or Biko; the greater is their utility, the less they add to the Impartial Spectator's assessment of social welfare.
+Because the Impartial Spectator values the two people's utilities equally, and (in the judgement of the Spectator) the marginal value of increased utility is diminishing, she will not rank highly any outcome in which one or the other gains most of both goods.
+Just as we can use indifference curves to represent a person's utility function over goods, we can use iso-social welfare curves to represent the Impartial Spectator's social welfare function over the utility distribution between people. The level of social welfare is the same along an iso-social welfare curve, just as utility was the same along an indifference curve. A set of iso-social welfare curves, w1 to w6, are depicted in Figure 4.5 b with higher numbers in the subscripts indicating higher levels of social welfare, just as with indifference curves earlier.
+Given the Impartial Spectator's social welfare function, the problem of choosing the Pareto-efficient allocation of coffee and data becomes a constrained optimization problem similar to those in Chapter 3. The feasible frontier for the Impartial Spectator is the utility possibility frontier, because it represents the levels of utility that are achievable given the amount of goods available and the preferences of the participants.
+The iso-social welfare curves of the social welfare function are analogous to indifference curves for a single individual, but apply to the utilities of the two people not the two goods consumed by the single individual. They express the valuations of the Impartial Spectator, not the preferences of the individual. Similar to the individual indifference curve, the negative of the slope of the iso-
+social welfare curve at any point (uA, uB) is the Impartial Spectator's marginal
+
+R E M I N D E R Assigning cardinal utility numbers to bundles means that we can make statements like:
+· for Annette, the outcome (x0, y0) is twice as good as (x, y) but also
+· the sum of the utility experienced by Annette and Brenda is greater with
+outcome (x0, y0) than with outcome (x, y) because uA(x0, y0) + uB(x0, y0) > uA(x, y) + uB(x, y)
+The sum of the utilities of the two ­ in the second statement ­ is an example of a social welfare function.
+ISO-SOCIAL WELFARE CURVE Iso-social welfare curves show constant or equal ("iso") levels of welfare for different combinations of utility among those involved.
+
+P RO P E RT Y, P OW E R , & E X C H A N G E : M U T UA L G A I N S & C O N F L I C T S 167
+rate of substitution of Ayanda's utility in terms of Biko's utility. And we can
+use the mrs = mrt rule to find the constrained social welfare-maximizing
+allocation. It is the point where the Pareto-efficient curve is tangent to an iso-social welfare curve.
+The social welfare maximum shown in the Edgeworth box in Figure 4.5 a is
+xA = 5, yA = 7.5, xB = 5, yB = 7.5 or a fifty-fifty split of each good. In the utility
+possibility frontier in Figure 4.5 b this is point i. If their preferences differed, or if the Spectator had a reason to value the utility of one of the two more than the other then the social optimum would result in each getting different amounts of x and y.
+Societies do not have an Impartial Spectator to determine how to weight the competing interests of society's members in a social welfare function. Instead, in a democratic society we debate the question of distribution and sometimes come to a consensus (and sometimes to a deadlock). Controversy about the rights and wrongs of economic policies such as the tax rates paid by wealthy people and the provision of public services to all, are often implicitly about the weights (such as l , in Equation (4.2)) that policy-makers should place on the well-being of different people.
+Here we see a sharp contrast between the Pareto-efficiency criterion and the maximization of social welfare. Preferring a particular Pareto-efficient allocation over an alternative allocation in which both are worse off cannot be a matter of conflict. Maximization of some particular social welfare function subject to the constraint of the utility possibility frontier ­ some gaining and some losing depending on the social welfare function used ­ and is certain to be controversial.
+The imaginary Impartial Spectator helps us understand how values dictate what we think of as better or worse allocations. These outcomes, as we have seen in previous chapters and we will now see in greater detail, depend on the rules of the game. So the Impartial Spectator will have something to say about how we evaluate which are better or worse institutions by which organize the process of exchange.
+4.6 Property rights and participation constraints
+The scenario of Ayanda and Biko enjoying their coffee and data in their student residence and deciding how to allocate them helps us understand the abstract issues of Pareto efficiency and fairness. Very similar issues arise when instead we consider Ayanda and Biko to be total strangers, interacting in a market. But in this new setting the allocation will not be determined by some imaginary Impartial Spectator. Instead, the allocation will be determined by who initially owns which goods and the rules of the game that regulate how Ayanda and Biko might exchange some of their goods with each other.
+
+168 M I C RO E C O N O M I C S - D R A F T
+
+Market institutions: Property rights and participation constraints
+Nobody actually owned the data and coffee that the Impartial Spectator allocated in our thought experiment, and Ayanda and Biko were not really engaged in a game. This is not how markets work. Key aspects of the rules of a market game are:
+· The rule of law establishes that the institutions ­ the laws and other informal rules ­ governing the interaction are observed, and not violated by arbitrary acts (for example theft of the other's goods by one of the traders or confiscating by a government official).
+· Private ownership. At any moment in the game the goods are the private property of one or the other of the players, so a point in the Edgeworth box indicates a distribution of property between the two. The ownership of coffee and data by the two at the start of the game is each player's endowment.
+· Fallback option.The endowments are the next best alternative for the two, their fallback options if no exchange takes place.
+· Private property and the rule of law mean that each player has the option to refuse offers so any exchanges that a player will agree to participate in must be Pareto improvements over the endowment.
+· Bargaining power is determined by rules of the game that may favor one of the traders over the other and will affect the nature of the exchanges that are executed, and who captures the greater share of the gains from exchange.
+Private property does not distinguish between the two parties: each have identical rights to exclude the other from their bundle of goods. This would be true even if Biko initially owned all of the goods and Ayanda had none or the other way around. In this respect private property rights provide a level playing field because the right to exclude others from the use of your goods does not depend on how many goods you have, or on your identity.
+The exchange process begins with the property people "start with," that is, their endowment allocation. These endowments exist before the exchange we are considering happens. But we are cutting into time at a particular moment. These endowments, which are the status quo of our game, are the result of similar games played in the past, and also other games in which who owns what goods may have been determined by force and not by voluntary exchange.
+This means that unlike the Impartial Spectator starting with a clean slate ­ any allocation in the Edgeworth box is up for consideration ­ and advising Ayanda and Biko on the division of a pile of goods they have tripped over in
+
+H I S TO RY It has not always been true that one's property rights did not depend on your identity. In many societies, some people ­ such as women ­ did not have the right to own property, and some people ­ such as enslaved people ­ were treated as property.
+
+P RO P E RT Y, P OW E R , & E X C H A N G E : M U T UA L G A I N S & C O N F L I C T S 169
+
+A's data (gigabytes), yA B's utility, uB
+
+10 9
+
+15
+
+14
+
+13
+
+d
+
+12 u1A uzA
+
+11
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0 01
+Ayanda
+
+B's coffee (kilograms), xB
+87654321
+
+Pareto-improving lens
+
+Pareto-efficient curve
+u3A = 8.52
+tA
+
+i
+
+tB
+
+u4B
+
+u3B
+
+uzB = 3.74 u1B
+
+h
+
+z
+
+23456789
+A's coffee (kilograms), xA
+
+0Biko
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 10
+
+(a) Edgeworth box for Ayanda and Biko
+
+B's data (gigabytes), yB
+
+13
+
+A's participation
+
+12
+
+constraint, uzA
+
+11
+
+10
+
+9
+
+tB 
+
+8
+
+7
+
+6
+
+i
+
+Bargaining
+
+5
+
+set
+
+4
+
+z
+
+3
+
+B's participation
+
+tA
+
+constraint, uzB
+
+2 Utility possibilities frontier
+1
+
+0 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+A's utility, uA
+
+(b) The utility possibilities frontier
+
+their student residence, market exchange starts from one particular point in the Edgeworth box: the endowment allocation.
+The rules of the game then determine how the two can move to some other post-exchange allocation. The endowment allocation is important for two reasons:
+· it is the starting point of the process and
+
+Figure 4.6: Edgeworth box, the utility possibility fEroNnDtiOeWr, ManEdNtTheALbLaOrgCaAinTiInOgNsTeth.eInopwannelrsahuipAz of igsoAoydasndaat'sthuetilistytaartthoefraengdaomwme e(ontr aantdthisehsetratus pcquaurrovtie)ciipusaAz tt)eioarnnmdceoudnBzstithsraeBiniekt on('sdshouowtwilmintyebaynttihnaidslilfeofencrdaeontiwcoemn.ent and is his participation constraint (shown by indifference curve uBz ). In panel b points tB,tA and i show the levels of utility associated with the
+allocations indicated by the same lettered points in
+the panel a.
+
+· because the exchange is voluntary, meaning they can refuse to trade, the endowment allocation is their fallback position, that is, the worst they can do.
+
+The participation constraint (PC)
+To see how the second bullet above will narrow down what the post-exchange allocation can be, starting at any given endowment allocation we introduce the following notation, along with panel a of Figure 4.6 (we will explain panel
+b below). The endowment bundle of person i is (xzi , yiz) where the superscript indicates who person i is (i = A for Ayanda, i = B for Biko). This allocation
+is point z in the figure. It is identical to point z in previous figures, but instead of being some hypothetical allocation that the Impartial Spectator was trying out in a thought experiment, it is now something entirely different: it is what Ayanda and Biko own at the start of the game. It is their wealth.
+From point z in the figure you can see that Ayanda's and Biko's endowments of coffee and data are the same as the hypothetical allocation considered by the Spectator, above:
+· Ayanda's endowment: (xzA, yAz ) = (9, 1)
+· Biko's endowment: (xzB, yBz ) = (1, 14)
+
+170 M I C RO E C O N O M I C S - D R A F T
+
+Introducing history in the form of initially privately owned endowments, along with the voluntary transfer requirement, limits the possible allocations that can result from exchange.
+Because they can refuse any deal and therefore experience the utility from their endowment bundle, they will not accept any post-exchange bundle that makes them worse off than their fallback utilities. The indifference curves, uAz and uBz , that include the endowment point are the post-exchange bundles that yield a utility identical to their fallback position. These two indifference curves are called their participation constraints. They are called participation constraints because Ayanda will not participate in (that is she will refuse) any offer that would give her a post-exchange bundle below and to the left of uAz . Likewise Biko will not participate in any offer that would give him a post-
+exchange bundle above and to the right of uBz (labeled as uBz = 3.74 in Figure
+4.6).
+The yellow shaded space between the two constraints ­ the indifference curves, uAz and uBz ­ including the points on these indifference curves make up the set of allocations that are Pareto-superior (at least weakly) to point z and which therefore could be the result of voluntary modifications of the endowment allocation by means of exchange. This area is called the Paretoimproving lens.
+
+R E M I N D E R The participation constraint is also the fallback in the exchange scenario, the utility that a person can certainly secure if they choose not to participate in exchange at all.
+PARETO-IMPROVING LENS The set of allocations that are (at least weakly) Paretosuperior to the fallback options of the players is the Pareto-improving lens.
+
+4.7 Symmetrical exchange: Trading into the Pareto-improving lens
+
+In this section we consider the case in which the two traders have identical
+preferences. That is, that their Cob-Douglas utility functions have aA = aB = 0.5.
+
+We used a hypothetical point z in Figure 4.4 to show that an allocation where the indifference curves cross cannot be Pareto-efficient. Our demonstration consisted of showing that at such an allocation both Ayanda and Biko could both be better off at a different allocation.
+
+We can now use the same reasoning to illustrate how starting at point z, now an endowment allocation ­ a real distribution of ownership of two bundles ­ the two could trade into the Pareto improving space, and eventually ­ given the right rules of the game ­ get all the way to the Pareto-efficient curve.
+
+Recall
+
+that
+
+in
+
+M-Note
+
+4.2
+
+we
+
+showed
+
+that
+
+Ayanda's
+
+mrs
+
+is
+
+2 9
+
+and
+
+Biko's
+
+is
+
+7
+
+in Figure 4.4. This means that Ayanda is willing to pay at most a kilogram of
+
+coffee
+
+for
+
+2 9
+
+of
+
+a
+
+gigabyte
+
+of
+
+data,
+
+while
+
+Biko
+
+is
+
+willing
+
+to
+
+trade
+
+at
+
+most
+
+7
+
+gb
+
+of
+
+data for one kg of coffee.
+
+A mutually beneficial trade could therefore take place at any price of coffee
+
+P RO P E RT Y, P OW E R , & E X C H A N G E : M U T UA L G A I N S & C O N F L I C T S 171
+
+between
+
+2 9
+
+of
+
+a
+
+gb
+
+of
+
+data
+
+and
+
+7
+
+gb
+
+of
+
+data.
+
+The
+
+low
+
+price
+
+would
+
+benefit
+
+Biko,
+
+with Ayanda not improving her utility at all. Correspondingly, if they traded at
+
+the high price Ayanda would make all the gains.
+
+Each person has a willingness to pay for x in terms of y, their marginal rate
+
+of substitution at the endowment allocation z. Ayanda's maximum willingness
+
+to pay is her mrsA(9, 1)
+
+=
+
+1 9
+
+and Biko's maximum willingness to pay is his
+
+mrsB(1, 14) = 14.
+
+The difference between Ayanda and Biko's willingness to pay (mrs) signals an opportunity for Ayanda to trade data with Biko at a rate of exchange between her own marginal rate of substitution and Biko's marginal rate of substitution. A small exchange on these terms would move them to a post-exchange allocation upward and to the left of the endowment.
+
+To stress that the game is entirely symmetrical imagine that they have agreed on a set of rules to determine the price and the amounts to be exchanged. At any allocation at which the mrs of the two differs (meaning their indifference curves intersect), take the following steps:
+
+1. Pick a "price" midway between the mrs of the two. (This means that at point
+
+z
+
+the
+
+price
+
+would
+
+be
+
+14 +
+
+1 9
+
+divided
+
+by
+
+2,
+
+or
+
+7.06.)
+
+2. Ask the amounts that each would like to transact at the price of 7.06 gb of data for a kilo of coffee, for example how much coffee Ayanda would like to "sell" at this price, and how much coffee Biko would want to "buy" (these desired amounts will differ between the two).
+
+3. Because the transfer has to be voluntary (nobody can be forced to buy more than they wish), transfer the amounts desired by the person who wishes to transact least.
+
+4. At the resulting post-exchange allocation determine if the indifference curves are intersecting. If so return to step one and continue.
+
+5. If not (that is, if the indifference curves are tangent) end the game with this final allocation.
+
+We can see that by this process the two will have moved, step-by-step from the endowment allocation at point z to a final post-exchange allocation that will be on the Pareto-efficient curve. We know that they will get there for two reasons:
+
+· Trades are Pareto-improving: each trade they take moves them in the direction of the Pareto-efficient curve because moving in the other direction could not be a Pareto-improvement and would violate the participation constraint.
+
+· Trade concludes at a Pareto-efficient outcome: by the rules of the game
+
+172 M I C RO E C O N O M I C S - D R A F T
+they have adopted they will keep on exchanging until they are at a place where their marginal rates of substitution are identical, which must be on the Pareto-efficient curve.
+We can conclude then that there are no more trades to make because the allocation is Pareto efficient. Or, what is the same thing: because there are no more mutually advantageous transfers of goods possible, the allocation must be Pareto efficient.
+They could have adopted a different set of rules for exchange. For example, they could have said that for step 1 above there will be two alternative prices, one just a little less than Biko's willingess to pay, and the other just a little more than the lowest price at which Ayanda would part with her coffee; and then just flipped a coin to see which of these prices they would use in that transaction. Having made that transaction and the new allocation, check to see if Biko's willingness to pay for coffee is still greater than the lowest price at which Ayanda is willing to sell. If so another flip another coin to see whose preferred price will be used, make the trade, and so on, until no further trade is possible.
+Other than knowing that they would eventually get to the Pareto-efficient curve, we do not know which specific point on the curve they would get to. If all of the coin flips went in favor of Ayanda, they could end up close to tA in Figure 4.6 with Biko sharing very little of the gains from exchange. Or it could have gone the other way, somewhere near point tB. They even could have ended up at point i the allocation chosen by the Impartial Spectator. But that would have been by pure chance.
+The utility possibilities frontier in Figure 4.6 b translates these allocations and the transactions supporting them into the utilities of the two players. The Pareto-improving lens in panel a corresponds to the bargaining set in panel b. It is called the bargaining set because it is the set of all possible pairs of the utilities of the two that could be the result of some bargain into which they entered voluntarily. The first panel shows all of the allocations ­ denominated in quantities of x and y allocated to the two ­ that are Pareto improvements over the endowment allocation. The second ­ the bargaining set ­ shows the utility levels associated with every allocation in the Pareto-improving set.
+If we consider other rules of the game, which point in the bargaining set they implement ­ it may be in the interior, not on the frontier ­ will depend on the rules governing how they bargain, including the how the rules affect the bargaining power of the players.
+Checkpoint 4.4: Pareto improvements, rents, and Pareto efficiency
+
+P RO P E RT Y, P OW E R , & E X C H A N G E : M U T UA L G A I N S & C O N F L I C T S 173
+
+If point h is the post-exchange allocation based on the endowment allocation of point z, explain the following:
+a. Did Biko benefit from the exchange? b. Did Ayanda benefit from the exchange? c. What is the rent that Ayanda receives as a result of this exchange? d. Did the exchange result in a Pareto improvement? e. Is the post-exchange allocation (point h) Pareto efficient?
+
+4.8 Bargaining power: Take-it-or-leave-it
+The two examples of rules of the game for bargaining over the distribution of coffee and data above were symmetrical. Neither "split the difference between the willingness to pay of the two" or "alternating coin flips to see whose preferred price will be used" gave any obvious advantage to either player
+But many bargaining interactions are asymmetrical. One of the players has most of the bargaining power. Bargaining power is the ability to gain a large share of the mutual gains from exchange (total rents) made possible from some interaction, as may be determined by the rules of the game governing the interaction and the skill of the players in securing a favorable agreement under these rules.
+An example is the Ultimatum Game in Chapter 2 (whose name already suggests the asymmetry). The Proposer makes a offer of some fraction of the "pie." The Responder's strategy set is simply: accept or reject, or "take-itor-leave-it." Being in a position to make that kind of an ultimatum is called take-it-or-leave-it power, or TIOLI power for short.
+In the coffee for data bargaining game if Ayanda had TIOLI power, she could have said to Biko: "I'll give you 2 kilograms of coffee and you give me 9 gigabytes of data. If you refuse, I will not agree to any other trade you might propose." In other words, "either accept the allocation I impose, or we both stay at our endowment, z." Of course Ayanda's threat to terminate dealings if Biko refuses has to be credible: if Biko suspects that he could refuse and Ayanda would listen to a counter-offer, the threat in the TIOLI offer would be empty. A bargainer with TIOLI power can often capture most or even all of the total rents that an economic interaction provides. This is because TIOLI power allows a bargainer to specify both:
+· the price at which the goods will be exchanged and
+· the amount of goods that will be exchanged
+This means that the person with TIOLI power can just pick some preferred allocation ­ a point in the Edgeworth box different from the endowment point ­
+
+BARGAINING POWER The extent of a person's advantage in securing a larger share of the economic rents made possible by an interaction.
+TAKE-IT-OR-LEAVE-IT-POWER A player with take-it-or-leave-it-power (TIOLI power) in a two-person bargaining game can specify the entire terms of the exchange ­ for example, both the quantity to be exchanged and the price ­ in an offer, to which the other player responds by accepting or rejecting.
+R E M I N D E R The Ultimatum Game discussed in Chapter 2 has this TIOLI structure including returning to the endowment point if the Responder rejects ­ both getting a payoff of zero, namely what they would have received had they not interacted. That is why it is called the Ultimatum Game, as the Proposer's offer is an ultimatum. CREDIBLE THREAT A threat is credible if carrying it out is the best response if the target of the threat does not comply.
+
+174 M I C RO E C O N O M I C S - D R A F T
+
+and make that the TIOLI offer.
+What take-it-or-leave-it offer will Ayanda make to Biko? We have assumed that Ayanda does not care about Biko's utility, but she does care about how he will respond to her offer. If he rejects, then she gets her fallback option. She will realize that she must offer Biko a deal that Biko regards as better ­ or at least not worse ­ than his endowment. In other words, Ayanda has to take Biko's participation constraint as a limit on the kind of offer she will make. This is an example of the backward induction method that you learned in Chapter 2: Ayanda has to reason backwards from her understanding of what Biko will do after she has made her offer to what offer she should make now.
+So Ayanda has the following constrained maximization problem: find a final allocation (different from the endowments) to propose at which Biko is no worse off than at his endowment and Ayanda is as well off as she can be. Ayanda knows that the solution to this problem must have two characteristics: It must:
+· satisfy Biko's participation constraint, that is, be in (or on the boundary of) the Pareto-improving lens in Figure 4.6.
+· be Pareto-efficient, but this is not because Ayanda cares any more about efficiency than she does about Biko: if she offered an allocation that satisfied Biko's participation constraint and was not Pareto efficient then there would be some other allocation at which she could be better off and Biko not worse off than his fallback option, z.
+Ayanda would probably offer Biko something just a tiny bit better than Biko's fallback utility to make sure he accepts. But to avoid having to keep track of that tiny amount in our thinking, here and in the rest of the book, we will assume that Biko will accept an allocation that just meets his participation constraint.
+That solves the problem for Ayanda: to meet the two requirements bulleted above, she must find the intersection of the Pareto-efficient curve and Biko's participation constraint uBz . Therefore, Ayanda offers an exchange that implements point tA. The same result is shown in Figure 4.6 b, where tA represents the distribution of utilities resulting from the TIOLI allocation that Ayanda offered and Biko (barely and grudgingly) accepted.
+Point tB in the Edgeworth box corresponds to the allocation where Biko has TIOLI power and point tB on the utility possibilities frontier is the corresponding distribution of utilities.
+We can see that the TIOLI allocation does not weight the two utilities identically (as did the social welfare function of the Impartial Spectator, which led to point i). This is why we say that allocation tA is Pareto-efficient but not socially
+
+M - C H E C K Remember that in Chapter 3, a utility maximizer is often constrained by a feasible frontier. Even with TIOLI power, Ayanda is constrained by Biko's participation
+constraint, that is, uB(xB, yB) uBz .
+R E M I N D E R An outcome is socially efficient when it maximizes a social welfare function; what is deemed socially efficient depends on how the utility of each member of the population is weighted in the social welfare function.
+
+P RO P E RT Y, P OW E R , & E X C H A N G E : M U T UA L G A I N S & C O N F L I C T S 175
+
+efficient, where the latter term is whatever the Impartial Spectator selected based on maximizing an equally-weighted social welfare function.
+Two features of the TIOLI allocation are important because they arise in many social coordination problems where the constrained optimizing process is limited by a participation constraint:
+1. Inequality : At participation-constrained outcomes the bargainer with TIOLI power gets all of the economic rent.
+2. Pareto efficiency: The participation-constrained outcome is Pareto-efficient.
+The second feature is true by the definition of Pareto efficiency: An allocation in which one party cannot be made better off without making the other party worse off. Such an allocation must be the result of one person maximizing their utility subject to a constraint set by some level of utility of the other person. This is just what the person with TIOLI power does, with the minimal level of the utility of the other person being given by his fallback option.
+M-Note 4.4: Finding the Pareto-efficient curve
+
+The Pareto-efficient curve: At Checkpoint 4.4 we asked you to find the Pareto-efficient
+
+curve for Ayanda and Biko when they have identical Cobb-Douglas utility functions with
+a = 0.5. The solution is that the Edgeworth box has the following Pareto-efficient curve
+
+defined over the two people's allocations of x and y:
+
+yA
+
+=
+
+
+
+3 2
+
+
+
+xA
+
+(4.3)
+
+We can re-write Equation 4.3 in terms of xB and yB by substituting xA = x¯
+
+y¯ yB in the equation to find:
+
+yB
+
+=
+
+
+
+3 2
+
+
+
+xB
+
+xB and yA =
+(4.4)
+
+As you can see, the Pareto-efficient curve is a line from the one corner of the Edgeworth
+
+Box to the other.
+
+M-Note 4.5: Finding Ayanda's TIOLI offer
+
+We need two pieces of information to find Ayanda's TIOLI offer:
+
+· The equation for the Pareto-efficient curve (because we know that the resulting allocation will be Pareto efficient) and
+· The equation for Biko's participation constraint (because we know that Ayanda will not offer him anything better than his utility at his endowment bundle).
+
+We calculated the Pareto-efficient curve (PEC) in M-Note 4.4. We use Equation 4.3:
+
+yB
+
+=
+
+
+
+3 2
+
+
+
+xB
+
+Biko's participation constraint: B's fallback utility (his participation constraint (PC)) at
+his endowment xzB = 1, yBz = 14 is:
+uBz (1, 14) = (1)0.5(14)0.5 = 3.74,
+
+176 M I C RO E C O N O M I C S - D R A F T
+
+So we need to find the point on the Pareto-efficient curve at which Biko has this level of
+utility u = (xB)0.5(yB)0.5 = 3.74.
+
+A's TIOLI Offer: We substitute the Pareto-efficient curve's value for xA into B's utility
+
+function that equal to B's fallback utility:
+
+uB
+
+=
+
+(xB )0.5
+
+
+
+3 2
+
+0.5 xB
+
+| {z }
+
+PEC
+
+=
+
+u|Bz
+
+= 3.74 {z }
+
+PC
+
+)
+
+
+
+3 2
+
+0.5
+
+xB
+
+=
+
+3.74
+
+xTBA
+
+=
+
+3.74/
+
+
+
+3 2
+
+0.5
+
+=
+
+3.05
+
+
+
+3
+
+) yBTA
+
+=
+
+3 2
+
+xB
+
+=
+
+3 2
+
+(3)
+
+=
+
+9 2
+
+=
+
+4.5
+
+) xTAA = x¯ xB = 7 ) yATA = y¯ yB = 10.5
+
+So where "TA" means A had TIOLI power, the post-exchange allocation will be xTAA = 7, yATA = 10.5, xTBA = 3, yBTA = 4.5. The post-exchange allocations imply that A made a TIOLI offer to B of 2 units of x (xTBA xzB = 3 1 = 2) in exchange for 9.5 units of y (yATA yAz = 14 4.5 = 9.5). A's utility is uATA = 8.97 and B remains on his participation constraint at uBz = 3.74.
+
+Checkpoint 4.5: Biko's TIOLI offer to Ayanda
+Given the TIOLI offer you just saw for Ayanda in M-Note 4.5, what would happen if the players' positions were reversed and Biko had TIOLI power over Ayanda?
+To answer this here is A's fallback utility at her endowment xzA = 9, yAz = 1: uAz (9, 1) = (9)0.5(1)0.5 = 3,
+a. What offer would Biko make? b. What would the post-exchange allocations be? Explain. c. Use Ayanda's utility at her fallback position that we found in M-Note 4.5.
+
+4.9 Application: Bargaining over wages and hours
+We illustrate TIOLI power by a case in which the two bargainers drop their student personas to take on familiar roles in what is arguably the most important market in a modern economy: Ayanda is the owner of a company interacting with Biko, a prospective employee. In labor market bargaining over wages and working conditions the employer almost always has TIOLI power, stating the wage, the job and the hours. The worker accepts or not. We postpone until Chapter 15 the question: why might Ayanda get to have this power and not Biko?
+So, leaving the world of coffee and data behind us, we will see that the sum of
+
+P RO P E RT Y, P OW E R , & E X C H A N G E : M U T UA L G A I N S & C O N F L I C T S 177
+
+the mutual gains enjoyed by the two and how these are divided between them will depend on the rules of the game governing their interaction:
+· Power: Do the two bargain symmetrically with neither one nor the other of them having first mover advantage? Is one of them first mover with take-itor-leave-it power (TIOLI power)?
+· Fallback: What is each person's fallback position? How well off are they if they do not exchange at all? Does Biko have other options than being employed by Ayanda? If Ayanda does not employ Biko, are there others she could employ?
+To fill in some answers to those questions, our two actors are now:
+· Ayanda, an employer : whose endowment bundle is a sum of money only (no employees), and who in the absence of any exchange with Biko has nobody work for her; she will make Biko a take-it-or-leave-it offer of a sum of money in return for some number of hours of work for her, and
+· Biko, a worker : who is applying to work in Ayanda's company, whose endowment bundle is free time only (no money); he has a maximum of 16 hours of (non-sleeping) time to spend, possibly working for Ayanda.
+We introduce a more complete model of the labor market with competition among firms for workers and customers and among workers for jobs in Chapter 11 including the ways that unemployment benefits, and the extent of competition among firms, could affect these outcomes. We will take another step towards realism by taking account of the fact that Biko has some freedom to choose how hard he is going to work while on the job.
+Quasi-linear preferences for money and time
+To represent the preferences of Ayanda and Biko we will introduce a new utility function, one that will simplify our analysis while still conveying the main insights. The function is called quasi-linear because utility is partly ("quasi") proportional to one of the arguments of the function, while being non-linear in the other arguments. The Cobb-Douglas utility function is not quasi-linear because it is non-linear with respect to both x and y.
+As in the case of Harriet deciding how much fish to buy in Chapter 3, we will consider the second good as "money left over" after the exchange. This may seem odd because money is not something you value for itself. But money can buy you other goods which you do value: The utility of "money left over" is the utility of the goods which the person can purchase as a result.
+We now illustrate a case where one person starts off with all of one good and none of the second, so the other person starts with all of the second good, but none of the first. This could model you walking into the supermar-
+
+QUASI-LINEAR FUNCTION A quasi-linear function depends linearly on one variable and non-linearly on another variable.
+
+M - C H E C K Quasi-linear utility functions have the form:
+
+u(x, y) = ay + h(x)
+
+(4.5)
+
+where a is a constant. The constant a makes
+utility linear in y and the function h(x) makes
+utility nonlinear in x. For example, h(x) could be x2 or the natural log of x, ln(x). We often set a = 1, which means that the marginal
+utility of y is 1 and that utility is measured in
+whatever units y is measured in.
+
+178 M I C RO E C O N O M I C S - D R A F T
+
+Quantity of money, y
+
+y3 = 400 y2 = 340
+
+y1 = 260
+h
+
+
+e
+
+g
+
+
+
+
+
+u3B
+
+f
+
+u2B
+
+
+
+u1B 0
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10 12 14 16
+
+Hours of Living, x
+
+Figure 4.7: Marginal rates of substitution with quasi-linear preferences. With quasi-linear preferences such that utility is linear in the y-good, marginal rates of substitution depend only on the amount of the good x (here, Hours of Living for Biko), and not at all on the amount of money left over to buy other goods, y. As a result, indifference curves with different levels of utility are vertical displacements of a single curve ­ you can add or subtract an amount of y from the indifference curve to move it up or down. Biko's utility function is: uB = yB + 32xB (xB)2.
+
+ket with money in your pocket (or more likely on a credit card) and nothing in your shopping bags, and planning to walk out with less on your credit card and some groceries in your shopping bag. So it is a model of any kind of exchange. But here we illustrate it by Ayanda (possibly) employing Biko.
+The marginal rate of substitution for a person with quasi-linear preferences that are linear in "money" (y) depends only on the amount she has of the good or service for which her preferences are non-linear, not on the amount of money.
+The reason why this is true is because:
+· The marginal rate of substitution is the ratio of the marginal utility of x to the marginal utility of y
+· The person's marginal utility for y is a constant; it does not decline as she gets more y, so
+· The marginal rate of substitution depends only on the marginal utility of x which varies with the quantity of x consumed because the function is non-linear in this variable.
+You can see this in Figure 4.7 by noticing that for a given amount of x the slope of the indifference curve (shown by the dashed tangent lines) is the same no matter how much y the person has, such as at x = 8 hours of living, as shown by points f, g, and h. This is because, given the quasi-linear utility function that we used to draw the figure, the willingness to pay for an additional hour of living (the marginal rate of substitution, that is, the negative of the slope of the indifference curve) does not depend on the amount of money left over that the person has. It depends only on how many hours of living they have. This means that the indifference curves u1, u2, and u3 in the figure are just shifted up replicas (you can see the amounts by which they are shifted up by comparing the vertical axis intercepts).
+
+R E M I N D E R In Chapter 3 we analysed a case in which the marginal utility of a person's wealth declined the more wealth she had, and asked what distribution of wealth would maximize the sum of the utilities of two individuals.
+
+P RO P E RT Y, P OW E R , & E X C H A N G E : M U T UA L G A I N S & C O N F L I C T S 179
+
+We can also compare points e and g at the same level of y: Biko likes to have more living time (uB1 < uB2 ) and his willingness to pay for additional hours of Living declines the more he has (the indifference curve is less steep at g than at e). It is of course unrealistic to think that anyone would have truly linear preferences in any amount imaginable of money left over, for this would require that the person did not have diminishing marginal utility in the things that money can buy. But because "money" can be considered as generalized purchasing power that can be spent on a vast array of things, and because we do not consider changes in people's bundles of money making them either billionaires or paupers, it is a useful simplifying assumption here.
+Allocating money and time
+Because Ayanda, the employer, and Biko, the worker, have quasi-linear utility functions their marginal utility of money is constant. So if their money left over is increased by one monetary unit, their utility rises by one unit. This means we can measure the utility of each in whatever monetary units they are using, which since their names are from South Africa, might as well be the South African Rand.
+Biko values his Living (that is his 16 waking hours, minus the time he "hires out" of himself to work for Ayanda). But the marginal utility to him of free time decreases as the amount of free time he has increases, another instance of the "law of diminishing marginal utility."
+Ayanda places a value, too, on Biko's free time, but it is the opposite of Biko's value: she benefits by Biko having less free time and her having more of Biko's time working for her. The positive value she places on Biko's labor ­ like the positive value he places on his free time ­ depends on how much of it she gets. The marginal utility to Ayanda of Biko's labor decreases as she hires more of his time: the value of Biko's work is high the first hour Ayanda hires, less valuable the second hour, less valuable the third, and so on.
+This is because if she has just an hour of his time, she assigns him to really important tasks, but the tasks he does in later hours are less essential to Ayanda. (This is similar to why the marginal productivity of time studying diminishes as the amount of time studying increases, another instance of the diminishing marginal productivity of labor).
+Figure 4.8 shows the setting for this interaction as an Edgeworth box, with the quantities interpreted as amounts per day. Remember: Biko prefers allocations that are lower (more money for him) and to the left (more free time); Ayanda prefers allocations that are higher and to the right. The endowment point z is in the upper left corner of the box showing that Biko has 16 hours of Living time and no money. Ayanda has 400 South African Rands (ZARs) but no Labor from Biko to work in her company. As before, like z every point in the
+
+F AC T C H E C K If Ayanda is the employer and Biko one of her prospective employees, she probably has a lot more income than him, so it might be more realistic for purposes of comparing their utilities (or adding them up) if we let her have a utility function in which the (constant) marginal utility of income were less than his. But this would complicate the model without adding any new insights.
+F AC T C H E C K In August 2020, 1 Euro was equal in value to about 16 South African Rand (ZAR), 1 Pound Sterling was equal to about 21 South African Rand, and 1 US dollar was equal to 17 South African rands. In 2020, the hourly minimum wage in South Africa was ZAR 20.76.
+
+180 M I C RO E C O N O M I C S - D R A F T
+
+A's money, yA
+
+400
+
+300
+
+B's hours of Living,xB
+
+16
+
+14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+z uzB = 256 B's PC
+
+tA
+
+u3A = 652
+
+u2B = 392 u3B = 508
+
+Pareto-efficient curve
+j u2A = 516
+
+tB
+
+
+
+A's PC
+
+uzA = 400
+
+300
+
+200
+
+100
+
+0
+
+Biko
+0
+
+200
+
+100
+
+400
+
+0
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+Ayanda
+
+A's hours hired of B's work, xA
+
+B's money, yB
+
+Figure 4.8: Bargaining over hours and wages. Shown are three each of Ayanda's and Biko's indifference curves and the utility that they experience at any of the allocations indicated by the points making up these curves. Point z is the endowment allocation which is a point on the participation constraints of each of the two. Points tA and tB respectively are the allocations resulting when Ayanda or Biko are first mover with TIOLI power. The yellow shaded area is the Pareto-improving lens. The vertical line (including its dashed portions) is the Pareto-efficient curve made up of all points of tangency between the indifference curves of the two such as j, tA and tB.
+
+box represents an allocation that is feasible given the amount of money that Ayanda has in her endowment bundle and the amount of free time that Biko has in his.
+Three of Biko's indifference curves and three of Ayanda's are shown in Figure 4.8. For both Ayanda and Biko, their reservation indifference curve (their participation constraint) includes the endowment point z where Biko has 16 hours of Living (his free time) and Ayanda has $400 per day to pay workers.
+Also shown is one of Biko's indifference curves labeled uB3 , which is tangent to Ayanda's participation constraint (uAz ) at point tB. The allocation given by that tangency is a Pareto-efficient allocation (because the marginal rates of substitution of the two are equal). We also show a third indifference curve for Ayanda, labeled uA3 , which is tangent to Biko's participation constraint (uBz ) at point tA. These two tangencies are points on the Pareto-efficient curve, which is a vertical line through these points all the potential tangencies above each person's fallback.
+The reason why the Pareto-efficient curve is vertical here (remember it was an upward-sloping curve or line in the previous Edgeworth boxes) is that Ayanda and Biko have quasi-linear utility functions. Remember: With quasilinear utility, the marginal utility of hours depends only on the quantity of hours and not on the amount of money they have. If the two curves are tangent at 8 hours when Ayanda has most of the money and Biko little, they will also be tangent at 8 hours when Biko has most of the money and Ayanda has little.
+
+P RO P E RT Y, P OW E R , & E X C H A N G E : M U T UA L G A I N S & C O N F L I C T S 181
+
+4.10 Application. The rules of the game determine hours and wages
+
+The Edgeworth box and the indifference curves by themselves do not determine the outcome of the interaction. Without knowing more, any point in the box is a possible outcome. Knowing the endowment allocation z narrows down the possible post-exchange allocations but not by very much.
+Employment in most modern economies is voluntary (but see the Fact Check), so we will require that the outcomes are limited to those that are at least as good for each participant as their fallback position given by point z. As a result, outcomes of bargaining between the employer and the worker must be in the yellow shaded Pareto-improving lens in Figure 4.8.
+We illustrate the importance of institutions by showing the allocations will result under four different rules of the game. Each set of rules is a specific account of four different ways that an employer and worker might interact:
+· The employer can make a take-it-or-leave-it offer of both the wage and the hours worked.
+· As members of a trade union, the employees (we will take Biko as a representative worker) can make a take-it-or-leave-it offer specifying both the wage rate and the length of the working day (hours).
+· Legislation is passed limiting working hours per day to no more than 5 hours and the total pay or this period to not less than 254 Rand or 50.80 Rand per hour.
+· The above legislation is passed, but it has a proviso that if the two parties can agree on an alternative allocation, their agreement can be implemented.
+Employer has TIOLI power
+Imagine that, like most employers, Ayanda can offer Biko a job description: work a given amount of hours for a given amount of pay (and therefore for a particular hourly wage). Biko's only choice is to accept or reject, so Ayanda has take-it-or-leave-it power. For Biko to accept, Ayanda knows the offer must be at least as good as Biko's reservation option, so the relevant constraint for her is Biko's participation constraint (as was the case for the coffee and data bargaining).
+She will choose the point that she values most along this indifference curve, and therefore implement an offer indicated by point tA. Having TIOLI power, the employer has captured all of the economic rent, leaving Biko indifferent
+
+F AC T C H E C K : I N VO L U N TA RY E X C H A N G E S In the past slavery has meant the ownership of one person by another, including the right of sale of the slave to another owner. The term modern slavery refers to any situation in which, like historical slavery, the services or goods that one party provides for another are not voluntarily offered but are motivated by fear of severe harm. Ownership of one person by another need not be part of modern slavery. Prisoners, immigrants without legal rights of residence, residents of undemocratic countries, "sex slaves," and children are over-represented among contemporary `modern slaves.'
+E X A M P L E Put yourself in Biko's shoes if the allocation is point tA. How do you think he feels about his employer and his job? Would he be motivated to work hard, not to steal from his employer, and otherwise contribute to the profitable operation of her firm? These are serious problems and a reason why extreme allocations ­ like Ayanda getting all of the economic rent from the interaction and Biko being indifferent between his job and being fired ­ are not commonly observed. If Ayanda has an interest in Biko's good will and hard work, she may have to share at least a bit of the gains from exchange with Biko so that he receives a rent. This fact will become important when we consider the labor market.
+
+182 M I C RO E C O N O M I C S - D R A F T
+
+A's money, yA
+
+0
+
+100
+
+200
+
+300
+
+400
+
+16 z
+0
+Ayanda
+
+B's hours of Living,xB
+
+12
+
+8
+
+4
+
+Biko
+0
+
+0
+
+100
+
+uzB = 256 u2B = 351b
+
+tA
+
+Pareto- efficient curve a
+
+u3A = 652
+
+200
+
+u2A = 540
+
+300
+
+u3B = 508
+
+tB decreased
+work hours
+
+uzA = 400
+
+4
+A's
+
+hours
+
+8
+hired of
+
+B's
+
+work,
+
+1x2A
+
+16
+
+400
+
+B's money, yB
+
+Figure 4.9: Allocations with legislation and bargaining. The legislation stipulating hours and pay results in the allocation indicated by point b. Because b is preferred to the no-exchange option z by both of them, they will definitely make an exchange. But then both can do better than at b. Taking the allocation at b as their new fallback position, they could bargain to point a or any other allocation in the yellow Pareto improving lens.
+
+between taking the job and refusing it (as before in cases like this we just assume he takes the job).
+What is Ayanda's rent from this transaction, meaning the excess of her utility at point tA compared to at point z, the endowment allocation at which no trade has occurred? Reading the utility numbers from her indifference curve at point tA and her reservation indifference curve through point z we can see that her
+rent is uA3 = 652 minus uAz = 400 or 252. Because utility is measured vertically
+in terms of money this is the same thing as the vertical distance between points tA and tB in the graph.
+
+Employees and their trade union have TIOLI power
+Turning to the opposite case, Biko, through his trade union, is now first-mover with TIOLI power. The offer he will make (and she will accept) is the opposite of tA the allocation resulting when Ayanda had TIOLI power. Biko will recognize Ayanda's participation constraint ­ he as to make her an offer she will not refuse. And he will choose the allocation indicated by point tB in which his post-exchange bundle gives him all of the economic rents of 252.
+This is the most that Biko could demand without Ayanda simply going out of business or more realistically, seeking to move her business to a place without trade unions. This constraint on the demands that workers can make on employers in a market and profit-based economy will be a major theme in the chapters to come.
+
+P RO P E RT Y, P OW E R , & E X C H A N G E : M U T UA L G A I N S & C O N F L I C T S 183
+Legislation imposes hours and pay limitations
+The legislation described above imposes on both Ayanda and Biko the allocation at point b in Figure 4.9, which is Pareto inefficient. But it does set a new status quo, a fallback position that, if they cannot come to some agreement about some different allocation will be the new post-exchange allocation.
+Both Ayanda and Biko can see that at b they could both do better by agreeing that Biko should work more than 5 hours, and Ayanda should pay him more. The small yellow Pareto-improving lens shows the space for their possible bargains.
+Bargaining to override the legislation: more work and more pay.
+They could bargain to agree upon any point in the Pareto-improving lens, possibly agreeing on the Pareto-efficient allocation at point a. Where they ended up in or on the boundary of the Pareto-improving lens would depend on the rules of the game governing that bargaining process. They might even fail to agree on any bargain ­ as is often the case with players in the Ultimatum Game ­ and remain at point b.
+Figure 4.10 shows how Ayanda and Biko do under these differing rules of the game as indicated by the rents they enjoy in the Nash equilibrium of each game, that is the excess of their utility over the utility associated with their fallback options of 400 and 256 respectively.
+Introducing a historically realistic set of rules of the game ­ making the employer the first mover with TIOLI power ­ has two effects: it generates 252 units of utility in gains from trade, and it makes the final allocation more unequal than the endowment allocation (because the employer captures all of the mutual gains made possible by exchange). Biko's share of the total utility (not shown) falls from two fifths to a third.
+In many countries during the 20th century the response to the unequal allocations implemented when the employer has TIOLI power was the formation of trade unions.
+And you can see from the figure that if the union were powerful enough for it to have TIIOLI power (a not very realistic scenario), then Biko (and his trade union colleagues) capture the entire rent, Ayanda getting nothing more than her reservation utility. Biko's share of the total utility jumps from two fifths at the endowment allocation to well over half.
+Even before workers had the right to vote and before trade unions were legal, political movements mobilized to pressure governments to regulate working conditions. In the model the introduction of hours and wage regulations implemented an outcome in which both Biko and Ayanda captured some of the
+
+184 M I C RO E C O N O M I C S - D R A F T
+
+Type A's rents B's rents Gains from exchange
+
+Employer (A) has TIOLI power, tA 0 0
+Union (B) has TIOLI power, tB
+Legislated hours and wages, b
+Negotiated allocation after legislation, a 0
+
+252 252
+
+140 95
+
+148 104
+
+100
+
+200
+
+Rents
+
+252 252
+235
+252 300
+
+Figure 4.10: Rents under differing rules of the game, with Ayanda as employer and Biko as worker The rents and gains from exchange of each set of rules are shown in the figure. That is,
+the figure shows each player's utility under each
+set of rules minus that player's fallback option (uAz = 400 and uBz = 256 respectively). The gains from exchange are the sum of the rents received
+by Ayanda and Biko. Source: Authors calculations
+described in the text.
+
+gains from trade. The reforms implemented a Pareto-inefficient allocation, but the shortfall from the maximum possible joint rents was minor (from 252 to 235).
+The final case ­ bargaining up from the regulated hours and wages ­ describes labor markets in many countries today. Government regulations establish a fallback position, and then employers and workers (either individually or in trade unions) seek bargains that improve on that allocation.
+Though they differ radically in their distributional aspect, all of the scenarios are Pareto-superior to the endowment allocation. We can also see that the negotiated allocation after legislation is Pareto-superior to the allocation implemented by the legislation.
+We cannot say which of the three Pareto-efficient allocations is preferred from a fairness standpoint without knowing more about Ayanda and Biko's other wealth, their needs, and other aspects that might affect their ethical claims on the benefits of their interaction.
+Checkpoint 4.6: Bargaining over hours and wages
+Using Figure 4.10, explain how the following two things (taken separately) would affect the outcome under the four different rules of the game above (start by explaining how the endowment point z would be affected):
+· If Biko does not exchange his time with Ayanda and is unemployed, he receives what is called an unemployment benefit, that is, a payment from the government equal to ZAR100, and this is financed by a tax on Ayanda equal to ZAR100.
+· Ayanda now has free access to a robot that will at no cost do work equivalent
+
+P RO P E RT Y, P OW E R , & E X C H A N G E : M U T UA L G A I N S & C O N F L I C T S 185
+
+to two hours of Biko's time.
+
+4.11 First-mover advantage: Price-setting power
+Returning to Ayanda and Biko with their former personas as students exchanging coffee and data, we will now see that while first movers typically have advantages, these advantages need not be due to TIOLI power. Ayanda may be first-mover but be unable to commit to take-it-or-leave-it offer that stipulates an exchange of a specific amount of coffee for a specific amount of data.
+Price-setting power
+She may have what is called price-setting power (PS power) if she can specify a price ­ either a monetary price or the ratio at which the two will exchange goods ­ but not how much (the quantity) of her good Biko will buy.
+Ayanda might say, for example: "I will give you one kilogram of coffee for every three gigabytes of data you give me. You can decide how much data you would like to exchange for coffee at that ratio, but the ratio is not going to change. Of course you are free to buy nothing."
+We saw that owners of companies typically have TIOLI power when hiring employees; but in their interactions with their customers they typically have price-setting power. They set a price at which they will sell their product, and sell as much to each customer at that price as the customer wants to buy.
+The incentive-compatibility constraint (ICC).
+If Ayanda has price setting power she must find a way to determine the price when it is the price alone that makes up her offer. So her constrained optimization problem is not the same as it was when she had TIOLI power.
+When Ayanda had TIOLI power she had only to satisfy Biko's participation constraint. Of course whether she has TIOLI power or just price setting power, if Ayanda wants to exchange with Biko, she will have to satisfy his participation constraint.
+But there is now a second constraint she must satisfy called the incentivecompatibility constraint: whatever post-exchange bundle Ayanda would like to implement, she must provide Biko with incentives so that his best response will be to exchange the amount that will allow her to "move" from her endowment bundle to her desired post-exchange bundle.
+This is called the incentive-compatibility constraint because she must provide Biko with incentives that motivate Biko to act in a way that is compatible with
+
+R E M I N D E R A player has a first-mover advantage when the institutions, history, or structure of a game give the player the opportunity to make an offer or move before the other players in the game can take action. The opportunity to move first can confer an advantage that results in a greater share of economic rents in the outcome of an interaction.
+PRICE-SETTING POWER A first-mover with price-setting power can commit to a price ­ or in the case of barter, the ratio in which goods will be exchanged ­ but not the quantity that will be transacted at that price.
+
+186 M I C RO E C O N O M I C S - D R A F T
+
+(meaning, that implements) her desired outcome. The incentive-compatibility constraint is based on Biko's best response ­ the amount of coffee he is willing to buy ­ to the price Ayanda offers.
+You have encountered best responses in Chapter 1. There the strategy sets were particular actions and therefore best responses were limited to actions like "Plant Late," or "Fish 12 hours." Options like "Plant a little earlier" or "Fish 10 hours and 15 minutes" were not possible. Sometimes discrete strategy sets and best responses like this make sense (think: "Drive on the left if you are in the U.K., or Japan").
+But sometimes the strategy sets for players are continuous, as for example in setting a price for a good or when choosing the amount of time for an activity, like fishing. When this is the case ­ as with Ayanda's decision to set a price ­ we consider the players' best responses as continuous variables and describe them by best-response functions.
+As was the case when she had TIOLI power, Ayanda will reason backwards from her understanding of how Biko will respond to each of her possible offers and how that will affect her utility. That is, she will use backward induction.
+To determine how Ayanda can maximize her utility subject to Biko's incentivecompatibility constraint (the price-setting case) is a somewhat more complex problem than maximizing her utility subject only to Biko's participation constraint (the TIOLI power case). The reason is that in the TIOLI case there are just two things that Biko can do: accept or reject her offer. But when Ayanda has price-setting power only, Biko can choose from the entire range of possible amounts that he might be willing to exchange with her, depending on the price.
+As a result, Ayanda has to think in two stages when choosing a price ratio.
+First stage: What will Biko do? How much coffee will Biko buy at each price ratio Ayanda offers? This is Biko's price-offer curve, which is his best response.
+Second stage: What should I do, given what he will do? Given her estimate of Biko's best response, which price ratio maximizes Ayanda's utility? That is, which price ratio coupled with Biko's response to it will result in a postexchange allocation with the highest possible utility for Ayanda?
+Best response and incentive compatibility
+For the first stage, that is, determining how Biko will respond to each price she might offer, Ayanda uses whatever information she might have, such as her experience in the past with Biko's response to offers, her best guess as
+
+M - C H E C K A continuous variable can take on any value over some interval. So, a variable that can take the value of any number between 0 and 5 is a continuous variable; a variable that is restricted to the integers between 0 and 5, namely, 1, 2, 3 or 4 is discrete. The number of your sisters or brothers is discrete, the height of any one of them is continuous. INCENTIVE-COMPATIBILITY CONSTRAINT The incentive-compatibility constraint, ICC, requires the first-mover to provide incentives that make the second-mover's best response to act in ways that implement the post-exchange allocation which the first-mover prefers. This is also known as the second-mover's best-response function.
+R E M I N D E R Backward induction is a procedure by which a player in a sequential game chooses a strategy at one step of the game by anticipating the strategies that will be chosen by other players in subsequent steps in response to her choice.
+
+P RO P E RT Y, P OW E R , & E X C H A N G E : M U T UA L G A I N S & C O N F L I C T S 187
+
+to Biko's utility function, or her experience with other people she thinks are similar to Biko.
+
+Just as in Chapter 3 there is a budget constraint limiting the exchanges he can undertake, but this is now a line giving feasible combinations of data and coffee available to him through exchange at some given price. If the price is p ­ the number of gigabytes of data per kilogram of coffee ­ and his post-
+exchange bundle is denoted as (xB, yB) then Biko's budget constraint requires
+that the value of his post-exchange bundle must be the same as the value of his endowment bundle, or:
+
+pxB + yB = pxzB + yBz or p(xB xzB) = (yB yBz )
+
+(4.6) (4.7)
+
+The second version of the budget constraint means that the value of the
+coffee that he acquires (at the price p) or xB xzB must be equal to the value of the data that he gives up yBz yB.
+
+We can rearrange Biko's budget constraint another way to show that the price p must be equal to the ratio of the amount of data he gives up to the amount of coffee he gets:
+
+p
+
+=
+
+yBz xB
+
+yB xzB
+
+(4.8)
+
+We show the derivation of Biko's best-response function in Figure 4.11. We start, in panel a by showing Biko's best response to one particular price.
+
+We know that given the price p4 Biko will choose how much data to transfer to Ayanda in return for her coffee in order to maximize his utility subject to his budget constraint. In panel a we show his feasible set with his budget constraint for that particular price, p4. The budget constraint includes the point z because one of the feasible choices he could make while respecting the budget constraint is to exchange nothing.
+
+In Figure 4.11 the slope of the p4 line is the amount of data that Biko gives up (DyB ) divided by the amount of coffee that he gets (DxB), when the price is p.
+So:
+
+p= marginal rate of transformation (mrt) =
+
+DyB DxB
+
+=
+
+yBz xB
+
+yB xzB
+
+slope of the price line
+
+R E M I N D E R The method is identical to how we derived Keiko's price-offer curve ­ offering money in return for fish ­ in Chapter 3, except that here Biko is not 'buying' coffee using money, he is exchanging data for coffee. As a result the "price" is not in terms of dollars per kilogram of coffee, but gigabytes of data per kilogram of coffee.
+R E M I N D E R In Chapter 3 Keiko chose between two goods ­ fish and money left over. The price of fish was p and the "price of money" was 1 (1 Rupee is worth one Rupee.) Here we have two goods ­ coffee and data - but as before we have just one price, p which is the value of gigabytes of data expressed in kilograms of coffee instead of money. This is the same as if we had just set the price of coffee at 1, so as to focus on the relative price of the two goods.
+
+For any given price this is the kind of individual utility maximization problem that you studied in Chapter 3 in which the solution is to find the allocation at
+which the mrs = mrt rule holds. You can see in panel a that the highest indif-
+ference curve that Biko can reach, consistent with his budget constraint (labeled uB2 ) is tangent to his budget constraint at point b4. This result expresses
+
+188 M I C RO E C O N O M I C S - D R A F T
+
+A's data (gigabytes), yA A's data (gigabytes), yA
+
+B's data (gigabytes), yB B's data (gigabytes), yB
+
+10 15 14 13 12 11 10
+9 8 7 6 5 4 3 2 1 0
+0
+Ayanda
+
+98 uzB, B's PC u2B
+12
+
+B's coffee (kilograms), xB
+7654321 p4 B's feasible set
+Coffee B gets b4
+Data B gives up
+z 3456789
+A's coffee (kilograms), xA
+
+0Biko
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 10
+
+B's coffee (kilograms), xB
+10 9 8 7 6 5 4 3 2 1
+
+15
+
+14
+
+p3
+
+p4
+
+13
+
+12
+
+11
+
+u2B
+
+10
+
+9 8
+
+p2
+
+b2
+
+u3B
+
+b3
+
+7
+
+b4
+
+6 5
+
+u4B
+
+4 B's best-
+
+3
+
+response function
+
+2
+
+(ICC)
+
+1
+0 01
+Ayanda
+
+z 23456789
+A's coffee (kilograms), xA
+
+0Biko
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 10
+
+(a) B's best response to a price = p4
+
+(b) B's best-response function (ICC)
+
+the principle of constrained optimization that you have already learned. It is a point equating:
+· The slope of his indifference curve, which is the negative of the marginal rate of substitution and
+· The slope of the feasibility frontier ­ in this case the budget constraint ­ which is the negative of the marginal rate of transformation of coffee into data.
+
+Figure 4.11: Constructing B's best-response
+function (ICC). In panel a, B's feasible set is in the
+upper right corner of the Edgeworth box because,
+as we explained in Figure 4.3, the upper left corner
+of the box is the origin for him (indicating zero
+of both goods). In panel a, when the price p4 is equal to 3.53 Biko reaches his highest feasible indifference curve (uB2 ) by giving up 5.3 gb of data in return for 1.5 kg of coffee. In panel b he chooses post-exchange bundles indicated by points b3 and b2 in response to prices p3 < p4 and p2 < p3. B's best-response function (ICC) connects these
+and similar points all of them B's utility-maximizing
+bundle, for different prices.
+
+The mrt is the price, p, set by Ayanda, that tells Biko how many gb of data he has to give up to get a kilo of coffee. Biko's best response is to choose a post-exchange bundle that satisfies the two conditions:
+
+mrs = mrt tangency: mrsB(xB, yB) = mrt = p and, budget constraint: pxB + yB = pxzB + yBz
+
+(4.9) (4.10)
+
+Equation 4.9 expresses the optimizing part of Biko's choice, while Equation 4.10 expresses the constraint. The utility Biko enjoys at b4 in the figure is the best he can do at that price and it is also greater than the utility of his endowment bundle (uB2 > uBz ). From this we conclude that if the price is p4 Biko will choose the post-exchange bundle given by point b4. This gives us one point on Biko's best-response function.
+In panel b we construct Biko's best response function, by repeating the anal-
+ysis in panel a but for differing prices tracing out a curve in the (x, y) coor-
+dinates. This is his best-response function because, by construction, points on the curve show for each the value of p the post-exchange allocation that maximizes his utility if he could buy any amount of Ayanda's coffee at the price p. Ayanda now has all the information she needs to set the price.
+
+P RO P E RT Y, P OW E R , & E X C H A N G E : M U T UA L G A I N S & C O N F L I C T S 189
+
+M-Note 4.6: The incentive-compatibility constraint
+
+Here we show the derivation of the incentive-compatibility constraint for Ayanda's utility choice of a utility maximizing price to offer Biko. This equation will show, for every price that Ayanda could offer, the amount of goods that Biko will be willing to exchange.
+
+To do this we use the two conditions that Biko's response must satisfy. Given the price p offered by Ayanda, Biko's budget constraint is Equation 4.10.
+
+pxB + yB = pxzB + yBz , where yB is a function of xB. That is Equation 4.9:
+
+(4.11)
+
+yB(xB) = pxB + pxzB + yBz
+
+To maximize his utility uB(xB, yB(xB)), Biko will choose the bundle (xB, yB(xB)) that
+
+satisfies:
+
+duB dxB
+
+uBx
+
++
+
+uBy
+
+dyB dxB
+
+= uBx
+
+uBy p = 0
+
+That is
+
+mrsB(xB, yB) =
+
+uBx uBy
+
+=
+
+p = mrt
+
+(4.12)
+
+Suppose
+
+that
+
+uB
+
+=
+
+(xB )
+
+1 3
+
+(yB )
+
+2 3
+
+,
+
+we
+
+can
+
+derive
+
+the
+
+incentive-compatibility
+
+constraint
+
+using
+
+Equations 4.11 and 4.12. From M-Note 4.2, we have
+
+mrsB(xB, yB)
+
+=
+
+1 2
+
+yB xB
+
+Moreover, the budget constraint can be rewritten as Equation 4.8, that is,
+
+p
+
+=
+
+yBz xB
+
+yB xzB
+
+Therefore, we have
+
+1 2
+
+yB xB
+
+=
+
+yBz xB
+
+yB xzB
+
+which defines the incentive-compatibility constraint shown in the Edgeworth box.
+
+(4.13)
+
+4.12 Setting the price subject to an incentive-compatibility constraint
+Biko's best-response function is the incentive-compatibility constraint for Ayanda's optimizing problem, shown in Figure 4.12. Because Ayanda always has the option of simply discarding some of the data she gets from Biko, we can think about the green shaded area under Biko's best response function as her feasible set. The slope of Biko's best-response function is (from Ayanda's viewpoint) the marginal rate of transformation of coffee into data, given how Biko responds to each of the prices she could set.
+You can see that starting at the endowment allocation, the best-response function is initially steep, so a modest amount of coffee that she gives up can be transformed ­ through exchange ­ into a substantial amount of data. But the more data she wishes to acquire ­ moving up on the best-response function ­ the less favorable to her the mrt becomes. For each additional kilogram of coffee that she gives up, she gets fewer and fewer gigabytes of data.
+Notice that the incentive-compatibility constraint is more limiting to Ayanda
+
+190 M I C RO E C O N O M I C S - D R A F T
+than is Biko's participation constraint in Figure 4.12 a labeled: uBz , B's PC. This means that there are some allocations (between the participation constraint and the incentive-compatibility constraint) which would make Biko better off than at his endowment bundle, and which Ayanda would prefer to any point in her feasible set, but which Ayanda could not implement when she has pricesetting power but not take-it-or-leave-it power.
+Ayanda's choice of what price to set is a familiar constrained optimization problem. It proceeds in two steps:
+1. Determine the final allocation she would like to implement by finding the point in the feasible set that is associated with the highest utility. To do
+this she uses the mrs = mrt rule and selects point n in the figure, with its associated utility uAN . This is where her indifference curve is tangent to
+Biko's best-response function. This is shown in Panel a of Figure 4.12
+2. Determine the price that will implement this outcome. Every allocation on the best-response function corresponds to some particular price that will implement it. Price pN shown in Figure 4.12 b implements point n.
+We have given the price that Ayanda sets a superscript N because the allocation that it implements is a Nash equilibrium. To confirm that this is the case we ask two questions:
+· Given the strategy that Ayanda has adopted ­ that is, setting the price pN ­ is there any way that Biko do better than he does by trading with her so as to implement her chosen allocation (point n)? The answer is no, because n is a point on his best response function, which tells us that if she offers the price pN the best he can do is to trade with her so as to implement her desired point.
+· Given the strategy that Biko has adopted ­ his best-response function ­ is there any way that Ayanda could do better than she does by setting the price pN ? The answer is no, because she found point n exactly by doing the best she could given his best-response function.
+There are two important aspects of the Nash equilibrium (allocation n) of this game.
+First, the Nash equilibrium is not Pareto efficient. Ayanda's and Biko's indifference curves are not tangent at n, they intersect, and you know from
+the mrsA = mrsB rule any allocation at which the indifference curves inter-
+sect is not Pareto efficient (because then the rule is violated). The reason why Ayanda implemented a Pareto inefficient allocation is that the constraint she faced was not Biko's PC (the slope of which is mrsB ) but instead his best response function (the slope of which is the mrt). So she implemented
+mrsA = mrt 6= mrsB violating the Pareto efficiency rule. The allocations that
+
+P RO P E RT Y, P OW E R , & E X C H A N G E : M U T UA L G A I N S & C O N F L I C T S 191
+
+A's data (gigabytes), yA A's data (gigabytes), yA
+
+B's data (gigabytes), yB B's data (gigabytes), yB
+
+10 9
+
+B's coffee (kilograms), xB
+8765432
+
+15
+
+14
+
+uzB, B's PC
+
+13
+
+12
+
+11
+
+10
+
+9
+
+8
+
+w
+
+7
+
+n
+
+6
+
+5
+
+4 B's best-
+
+3
+
+response function
+
+2 (ICC)
+
+1
+
+A's feasible set
+
+0 01
+Ayanda
+
+2345678
+A's coffee (kilograms), xA
+
+1 0Biko
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+uNA
+
+9 10
+
+11
+
+uwA 12
+
+z
+
+uzA
+
+13 14
+
+15
+
+9 10
+
+(a) Maximizing utility subject to the incentive-compatibility constraint
+
+10 9
+
+B's coffee (kilograms), xB
+8765432
+
+15
+
+14
+
+uzB, B's PC
+
+pN
+
+13
+
+12
+
+uNB
+
+11
+
+tA
+
+10
+
+Pareto-
+
+9
+
+improving
+
+8
+
+lens
+
+7
+
+n
+
+6
+
+5
+
+4 B's best-
+
+3
+
+response function
+
+2
+
+(ICC)
+
+1
+
+0 01
+Ayanda
+
+2345678
+A's coffee (kilograms), xA
+
+1 0Biko
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+uNA
+
+9 10
+
+11
+
+12
+
+z
+
+uzA
+
+13 14
+
+15
+
+9 10
+
+(b) Pareto-superior alternatives to Ayanda's choice of n
+
+are Pareto-superior to n are shown by the yellow lens between the indifference curves through n.
+Second, the person who is not the first mover (Biko) receives a rent in the Nash equilibrium: as you can see from Figure 4.12 at n he is better off (on a higher indifference curve) than with his endowment bundle (which is his fallback option, namely no trade) indicated by the indifference curve labeled uBz , B's PC.
+There is an important lesson here: when one of the two parties has pricesetting power, but not TIOLI power, she may use that advantage to advance her distributional interests in a way that implements an inefficient outcome.
+
+Figure 4.12: A sets the price subject to B's best-response function (ICC) Ayanda's utilitymaximizing post-exchange bundle is indicated by point n where her indifference curve is tangent to Biko's best-response function (his price-offer curve). The negative of the slope of the solid gray line through both n and the endowment point z is equal to the price Ayanda chooses, pN . Biko's budget constraint given by Ayanda's choice of pN is tangent to Biko's indifference curve through n by construction, that is, because n is on Biko's best-response function. To interpret the lower shaded area as a feasible set, it must be the case that A could choose not to consume the data or coffee she has in that area (that is, some of it could be thrown away).
+
+This explains why when Ayanda has the power to set the price but not to stipulate the amount that Biko is to purchase at that price ­ when she has pricesetting power but not TIOLI power ­ she uses her power to get a larger piece, but of a smaller pie. When she had TIOLI power she knew that she would get the whole pie ­ the entire economic rent ­ because the only constraint she faced was Biko's participation constraint. So for Ayanda with TIOLI power, her slice and the entire pie were the same thing. Doing the best she could do and implementing a Pareto-efficient allocation therefore coincided.
+
+The take away is: when a person is maximizing their utility:
+
+· constrained by the other's participation constraint, then the Nash equilibrium allocation will be Pareto efficient because the best they can do is to
+implement the mrsA = mrsB rule; but if they are
+
+· constrained by the other's ICC (best-response function) the result will not
+be Pareto efficient because instead they will implement the mrs = mrt rule.
+
+192 M I C RO E C O N O M I C S - D R A F T
+We will see that in many economic interactions ­ including credit markets, labor markets, and markets for goods of variable quality, it is the incentivecompatibility constraint that constrains the actor setting the price (or wage, or interest rate) not the participation constraint. So the Nash equilibria in these markets will be Pareto-inefficient, even if the market in question is highly competitive.
+Moreover when firms face limited competition either in selling outputs or buying inputs, we will see that the same principle is at work. It is not the participation constraint that constrains the profit-making process, and so the resulting allocations will be Pareto-inefficient.
+Checkpoint 4.7: PS power vs. TIOLI power
+a. Using Figure 4.12, by reading the relevant points on the x and y axis, say what the post-exchange allocations for Ayanda and Biko will be (how much coffee for each, how much data for each). Compare this to the postexchange allocations when Ayanda has TIOLI power, calculated in M-Note 4.5.
+b. Test your understanding of the first-mover case by explaining the outcome when Biko is the first-mover. Draw a new version of Figure 4.12.
+4.13 Application. Other-regarding preferences: Allocations among friends
+Ayanda and Biko are about to experience one final change in their identities, along with a personality transplant: they have become friends and they care about each other. Both are altruistic: they place some positive weight on the well-being of the other. This means, as you will recall from Chapter 2, that they are other-regarding: when evaluating an allocation they take account not only of their bundle but also the other person's bundle.
+They still have a decision to make: how to divide up their coffee (still 10 kilos of it) and the data (15 gigabytes of it as before). But we will assume now as it was when you first met them that neither of them own any of either good ­ so there is no endowment allocation like our interpretation of point z so far.
+To see how the Edgeworth box helps us to understand their decision problem and because this involves some unusual indifference curves, we first treat a hypothetical case in which Ayanda is completely altruistic and Biko is as before entirely self-regarding. (We do not imagine that Ayanda would put up with this, it is just a first step along the way to seeing how two other-regarding friends would look at the problem).
+
+P RO P E RT Y, P OW E R , & E X C H A N G E : M U T UA L G A I N S & C O N F L I C T S 193
+
+An altruistic utility function
+Altruistic Ayanda cares not only about her bundle at an allocation, but also what Biko gets. Ayanda's utility therefore depends not only on xA and yA but also on xB and yB. We measure how much she cares about what Biko gets ­ her degree of altruism ­ by l ( "lambda") a number that varies from 0, if she is entirely self regarding, to one-half if she places as much weight on what Biko gets as what she herself gets, in which case she would be called a perfect altruist.
+M-Note 4.7: An altruistic utility function
+
+Remember if Biko did not exist so that Ayanda were making her choice of an allocation in isolation, her utility would be
+
+uA(xA, yA) = xAa yA(1 a)
+
+(4.14)
+
+But interacting with Biko and dividing goods with him, for l > 0 we have Ayanda's utility function as an altruist:
+
+uA(xA, yA, xB, yB)
+
+=
+
+ xAa
+
+yA(1
+
+a ) (1
+
+l
+
+)
+
+ xBa
+
+yB(1
+
+a ) l
+
+(4.15)
+
+To see why we say that l is a measure of how much Ayanda cares about what Biko gets we can take the natural logarithm of equation 4.15
+
+ln(uA )
+
+=
+
+(1
+
+l
+
+)
+
+ln
+
+ xAa
+
+yA(1
+
+a
+
+)
+
+
+
++
+
+l
+
+ln
+
+ xBa
+
+yB(1
+
+a)
+
+(4.16)
+
+Equation 4.16 says that the natural logarithm of A's utility is (1
+
+l ) times the natural
+
+logarithm of her valuation (if made in isolation) of her own bundle plus l times the natural
+
+logarithm of B's evaluation (if made in isolation) of his bundle.
+
+If Biko is also altruistic, the his utility function has the same structure as Ayanda's but the
+
+interpretation of l is the opposite. In Biko's utility function l is the exponent of Ayanda's
+
+bundle , and (1
+
+l ) is the exponent on his own bundle, the opposite of where these
+
+terms appear in Ayanda's utility function. The totally self-regarding person, Biko in this
+
+case, recalling that he places no weight on the bundle of the other person; his degree of
+altruism, l = 0. So self-regarding B's utility function would be:
+
+uB(xA, yA, xB, yB)
+
+=
+
+ xAa
+
+yA(1
+
+a
+
+)
+
+0
+
+ xBa
+
+yB(1
+
+a ) 1
+
+= xBa yB(1 a)
+
+(4.17)
+
+which is just his previous utility function before we introduced l . Any term raised to a zero exponent (as in Biko's utility function) has a value of 1.
+
+Checkpoint 4.8: Spite and love
+a. What would it mean in the utility function 4.15 if we had l < 0? Can you give an example of someone acting as if they had preferences like this?
+b. Can you imagine a person having a value of l greater than one half, what would this mean? Can you think of situations in which people have acted on
+
+194 M I C RO E C O N O M I C S - D R A F T
+
+preferences of this type?
+
+An altruistic indifference map
+To draw her indifference map, we will give Ayanda some particular value of l . Figure 4.14 a shows an Edgeworth box representing a-not-perfectly-altruistic Ayanda with l = 0.4.
+Ayanda's indifference curves look like the contours on a topographic map of a mountain. We described the constrained optimization process in Chapter 3 as a kind of hill climbing, where both elements in the bundle were a "good" and over the entire map, the mountain rose to higher levels if you moved in the "north east" direction, that is more of both goods. In those figures you never saw the top of the mountain, because there was not any top. There was no such thing as "too much" of either good.
+But Ayanda's indifference map has a definite peak at the allocation indicated by point v. The reason is that from her other-regarding perspective she can have "too much" of a good when that means that Biko (who she cares about) has too little. This is why Ayanda's indifference curves are oval shaped.
+Notice that when she has little of either good (close to her origin in the lower left of the box) her indifference curves look as you have seen before. In this situation both coffee and gigabytes are "goods" so more of each is better, even if this necessarily means less for Biko. So the indifference curves slope downward, as you would expect. Moving up or to the right brings you to a higher indifference curve. In this part of the figure "more is up."
+But beyond a certain point "more" for Ayanda is no longer "up." If she has most of both goods, then getting even more is not something she values, so moving up and to the right leads her to lower not higher indifference curves.
+To understand the upward-sloping parts of Ayanda's indifference curves, remember that if one of the axes represents a good and the other a bad, then the indifference curve slopes upwards, as in the case of study time (a bad) and expected grades (a good). In the upper right of the box for example near point k where she has most of both goods and Biko has little of either the indifference curves slope downward because for Ayanda having more of either good (and Biko having less) reduces her utility: both her coffee and her gigabytes are "bads" not goods.
+In Figure 4.14 b we add Biko's conventional (self-regarding) indifference curve, so we now know how both of them evaluate every feasible allocation given by the dimensions of the box. To do this we use Biko's self-regarding utility function with the value he places on Ayanda's utility being zero that is l = 0 because he is entirely self-regarding (that is, zero altruism).
+
+Figure 4.13: Reminder: we used the lowerleft contours of a hill in Chapter 3. Here the indifference curves are themselves full contours of a hill.
+M - C H E C K The tangencies at points above and to the right of v in Figure 4.14 (not shown in the figure) that we have excluded from the Pareto efficient curve illustrate the
+cases in which the mrsA = mrsB rule fails.
+
+P RO P E RT Y, P OW E R , & E X C H A N G E : M U T UA L G A I N S & C O N F L I C T S 195
+
+A's data (gigabytes), yA A's data (gigabytes), yA
+
+B's data (gigabytes), yB B's data (gigabytes), yB
+
+10 15 14 13 12 11 10
+9 8 7 6 5 4 3 2 1 0
+0
+Ayanda
+
+9
+
+B's coffee (kilograms), xB
+8765432
+
+1
+
+0Biko
+
+A's highest utility
+
+0 k1
+2
+
+3
+
+4
+
+v u4A
+
+5
+
+u3A
+
+u2A u1A 6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+j
+
+13
+
+z
+
+14
+
+15 1 2 3 4 5 6 7 8 9 10
+A's coffee (kilograms), xA
+
+(a) Altruistic Ayanda's indifference curves
+
+10 15 14 13 12 11 10
+9 8 7 6 5 4 3 2 1 0
+0
+Ayanda
+
+98
+u1B u2B u3B u4B
+j u5B 12
+
+B's coffee (kilograms), xB
+76543 A's highest utility
+v u4A i Pareto-efficient Curve
+34567
+A's coffee (kilograms), xA
+
+2 1 0Biko
+
+0 k1
+
+2
+
+3
+
+4
+
+5
+
+u3A
+
+u2A u1A 6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+z
+
+14
+
+15 8 9 10
+
+(b) Altruistic Ayanda and self-regarding Biko
+
+The Pareto-efficient curve is, as before, made of points of tangency between Ayanda's and Biko's indifference curves. But now we exclude tangencies at allocations for which Ayanda places a negative value on having more of one or both of the goods, above and to the right of her "utility peak" at v. As a result the Pareto-efficient curve in Figure 4.14 looks different from the one in Figure 4.5 as it does not extend upwards and to the right beyond Ayanda's maximum v. Ayanda does not want more of either good than she gets at her maximum v, while Biko prefers j to any allocation in which she gets less of either or both of the goods.
+
+Figure 4.14: Allocation and distribution with one altruistic person and one self-regarding person. In panel a the green oval shaped curves labeled uA are the indifference curves based on Ayanda's utility function. In both panels, points z and i are the same allocations here as in Figure 4.5. Notice that in panel a because Ayanda values what Biko gets she regards the allocation at point j as equivalent to the allocation k, despite the fact that she receives less of both goods at j than she does at k. For the same reason, Ayanda's utility reaches a maximum at the allocation v indicated in the figure. The Pareto-efficient curve now does not include k, because Biko is so deprived of both goods at that point that Ayanda prefers v to k.
+
+Checkpoint 4.9: Altruistic comparisons
+
+Consider Figure 4.14
+
+a. Where is Biko's utility peak in the figure (analogous to Ayanda's allocation at
+
+point v)?
+
+b.
+
+where
+
+would
+
+point
+
+v
+
+be
+
+if
+
+l
+
+=
+
+1 2
+
+(or
+
+as
+
+close
+
+to
+
+l
+
+=
+
+1 2
+
+as
+
+possible)?
+
+c. What happens if Ayanda is self-regarding and Biko is an altruist? How would
+
+the Edgeworth box change?
+
+Efficiency and fairness among altruists
+With these analytical tools we can now look at the decision problem faced by the friends Ayanda and Biko both with other-regarding social preferences. Figure 4.15 shows for the same Edgeworth box, the indifference maps of the two. We assume their levels of altruism towards each other to be that same, that is, l .
+Unlike the case of one altruistic actor, now both participants have preferred allocations in the interior of the Edgeworth box. They both would like to avoid
+
+196 M I C RO E C O N O M I C S - D R A F T
+
+A's data (gigabytes), yA A's data (gigabytes), yA
+
+B's data (gigabytes), yB B's data (gigabytes), yB
+
+10 9 15 14 13 12 11 10
+9 8 7 6 5 4 3 2 1 0
+01
+Ayanda
+
+B's coffee (kilograms), xB
+876543
+
+u1B
+u2B u3B u4B
+i vB Pareto-efficient curve
+
+vA u4A
+
+234567
+A's coffee (kilograms), xA
+
+2 1 0Biko
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5 u3A u2A u1A 6
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+z
+
+14
+
+15 8 9 10
+
+10 9 15 14 13 12 11 10
+9 8 7 6 5 4 3 2 1 0
+01
+Ayanda
+
+B's coffee (kilograms), xB
+87654321 u1B
+
+u2B
+
+vA
+
+u3B
+
+u5A
+
+u4B
+
+Pareto-efficient curve
+i
+
+u5B vB
+
+u4A u3A
+u2A u1A z
+
+23456789
+A's coffee (kilograms), xA
+
+0Biko
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 10
+
+(a) More altruism (l = 0.4)
+
+(b) Less altruism (l = 0.2)
+
+"too much of a good thing."
+Each of their preferred allocations are shown in the figures by the allocations, vA for Ayanda and vB for Biko. Around each person's preferred allocation, their iso-social welfare curves move outwards and downwards in all directions, corresponding to lower and lower levels of utility.
+
+Figure 4.15: Altruistic indifference maps. The two panels depict two different levels of altruism: high (l = .4) in panel a and low (l = .1) in panel b. The allocations indicated by the points vA and vB are respectively A's and B's preferred allocation. The Pareto-efficient curve is composed of all
+allocations at which both own coffee and own data
+are "goods" rather than "bads" to both A and B, and
+where their marginal rates of substitution are equal,
+that is, their indifference curves are tangent.
+
+As you can see from Figure 4.15 a the Pareto-efficiency curve is a line between their two preferred "utility peaks" vA and vB. By comparing panels a and b depicting greater and lesser degrees of altruism, you can see that the more altruistic they are, the shorter the Pareto-efficient curve is, because greater altruism eliminates more of the extremely unequal allocations.
+
+There is still a conflict of interest, however. At Ayanda's preferred allocation Biko has a level of utility less than the utility he enjoys at this own preferred allocation. The same is true of Ayanda: she does much better at her preferred allocation than at Biko's
+
+Along the Pareto efficient curve movements in one direction or the other necessarily involve one gaining and the other losing. As always the Pareto efficient curve is a conflict region even among altruists. The fact that the "utility peaks" are closer together in panel a illustrating a greater degree of altruism means that the conflict of interest between them is lesser the more altruistic they are. This is one of the reasons why agreeing on a set of rules of the game may be less of a challenge among friends or neighbors than among total strangers.
+
+How might they resolve their remaining conflicts of interest? Here, to make a decision, they need to go beyond their own utilities (even taking account of their altruistic nature) to bring in some additional way of making a judgement. They might adopt:
+
+P RO P E RT Y, P OW E R , & E X C H A N G E : M U T UA L G A I N S & C O N F L I C T S 197
+· a social norm that they both share, for example if one of the two found the coffee and the data they could go by "finders keepers;" in this case whichever of them who found the goods could make the decision, presumably implementing his or her preferred allocation.
+· a procedural rule of justice, for example flipping a coin to see whose preferred allocation vA or vB would be implemented; or
+· a substantive rule of justice, for example picking an allocation on the Pareto-efficient curve midway between their two utility peaks.
+Point i in the figures is a reference point showing the allocation that the Impartial Spectator (who weights Ayanda's and Biko's utilities equally) would implement. This is the same allocation that they would have both preferred had they been perfect altruists.
+Checkpoint 4.10: Altruism and rents
+Why does altruism reduce the conflict over which allocation to implement?
+4.14 Conclusion
+From the silent trade that Ibn Battuta and Herodotus described centuries ago to eBay, Amazon and Alibaba today, people have exchanged goods to their mutual advantage and engaged in conflicts over who would get the lion's share of the gains from exchange. The four scenarios we have introduced have made it clear that the outcomes of these exchanges and conflicts depend on the institutions under which they take place, and the preferences of the people involved.
+We have examined several institutional approaches to resolving the conflict between Ayanda and Biko over allocations of available goods. They all illustrate the dilemma posed in social interactions between:
+· The goal of reaching an allocation that is Pareto-superior to the endowment and possibly even Pareto-efficient.
+· The goal of resolving the conflict over the distribution of the resulting economic rents in a way that is fair.
+Table 4.2 summarizes some of the key aspects of the cases we have discussed. Which of the scenarios in the table are relevant in any particular case depends on the rules of the game for the society of which the players are a part.
+Checkpoint 4.11: Choose the rules of the game
+Think about different societies in which the main economic relationships corre-
+
+198 M I C RO E C O N O M I C S - D R A F T
+
+Case Impartial Spectator Symmetrical bargaining with no first-mover advantage
+Take-it-or-leave-it power
+Price-setting Power
+Legislation
+Bargaining away from legislated hours and wages
+Altruism
+
+Constraints implied by the rules of the game The available goods (dimensions of the Edgeworth box) Endowment allocation (private property). Each player's participation constraint (PC) at each stage of the bargaining Endowment allocation (private property) Second mover's PC Endowment allocation (private property) Second mover's incentive compatibility constraint (ICC)
+The available goods (money and time)
+The new participation constraints given the fallback position implemented by the legislation
+The available goods (dimensions of the Edgeworth box)
+
+Objectives of the actor(s) Social welfare equally weighting the utility of each
+Utility of the two traders
+Utility of the first and second movers
+Utility of the first and second movers
+Whatever the legislators were seeking to accomplish (possibly the social welfare optimum)
+Utilities of the two players
+Utilities of both (taking account of how much they value the other's bundle); fairness
+
+Characteristics of the resulting allocation Pareto efficient and fair (by the standard of the social welfare function).
+Pareto-efficient if no impediments to bargaining, Pareto improvements over the endowment allocation
+Pareto efficient, first mover's rent is all of the gains from exchange
+Pareto inefficient; first mover gets most of the gains from exchange but 2nd mover gets some Possibly Pareto inefficient, could be improved upon by private bargaining Pareto-efficient if no impediments to bargaining, otherwise possible Pareto improvements over the new fallback Pareto efficient and (if they can agree on a fairness principle) fair.
+
+sponded to the rules of the game in Table 4.2. Imagine you could choose which of these societies you would live in, but whether you would be A or B would be determined by a flip of a coin. Which would you choose?
+
+Table 4.2: The rules of the game: Objectives, constraints and the characteristics of the resulting allocations.
+
+Making connections
+Constrained optimization in strategic interactions: The constrained optimization techniques developed in Chapter 3 are used to better understand strategic interactions introduced in Chapters 2 and 1.
+Optimization rules: In addition to the mrs = mrt rule which we developed in Chapter 3 for individual optimization we also have the mrsA = mrsB rule
+defining a Pareto efficient outcome, both of which are used in strategic interactions.
+
+

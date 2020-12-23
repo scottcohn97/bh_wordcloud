@@ -1,0 +1,110 @@
+\documentclass[landscape]{amsart}
+
+%%%%%%%%%%%%%%
+%  Packages  %
+%%%%%%%%%%%%%%
+
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{bm}             % Defines \bm{}
+\usepackage[sc]{mathpazo}   % Palatino with smallcaps
+\usepackage[scaled]{helvet} % Helvetica, scaled 95%
+\usepackage{eulervm}        % Euler math
+\usepackage{epsfig}         % For postscript
+\usepackage{epic,eepic}     % For epic and eepic output from xfig
+\usepackage{enumitem}       % Enumerate box environment
+\usepackage{float}          % Float figures
+\usepackage{hyperref}       % Hyperlink refs
+\hypersetup{
+    colorlinks = true,
+    linkcolor = magenta
+}
+\usepackage{graphicx}       % External graphics
+\usepackage{xcolor}         % Add text colors
+\usepackage{tikz}           % Front end graphics
+\usepackage{tikzsymbols}    % Emoticons
+\usepackage{booktabs}       % For tables
+\usepackage[outputdir = build]{minted}  % Code highlighting
+\usepackage{marginnote}     % Marginnotes
+\usepackage[T1]{fontenc}    % Change font encoding to T1
+\usepackage{geometry}       % Change size/orientation/margins
+\usepackage[framed, numbered]{matlab-prettifier}
+
+%%%%%%%%%%%%%%%%%%%%%
+%  Package Options  %
+%%%%%%%%%%%%%%%%%%%%%
+
+% Minted
+\setminted[julia]{
+frame = lines,
+framesep = 2mm,
+linenos = true,
+mathescape = true
+}
+
+\setminted[python]{
+frame = lines,
+framesep = 2mm,
+linenos = true,
+mathescape = true
+}
+
+% Geometry
+\geometry{top=1in}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%  Define Environments  %
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newtheorem{thm}{Theorem}
+\newtheorem{prop}[thm]{Proposition}
+\newtheorem{lem}[thm]{Lemma}
+\newtheorem{cor}[thm]{Corollary}
+
+\theoremstyle{definition}
+\newtheorem{definition}[thm]{Definition}
+\newtheorem{example}[thm]{Example}
+\newtheorem{note}[thm]{Note}
+\newtheorem{question}{Question}
+
+\theoremstyle{remark}
+\newtheorem{remark}[thm]{Remark}
+
+\newtheoremstyle{case}{}{}{}{}{}{:}{ }{}
+\theoremstyle{case}
+\newtheorem{case}{Case}
+
+\numberwithin{equation}{section}
+
+% Circle a number
+\newcommand*\circled[1]{\tikz[baseline=(char.base)]{
+            \node[shape=circle,draw,inner sep=2pt] (char) {#1};}}
+
+% Shortcuts for number systems
+\newcommand{\R}{\mathbb{R}}  % reals
+\newcommand{\Q}{\mathbb{Q}}  % rationals
+\newcommand{\Z}{\mathbb{Z}}  % integers
+\newcommand{\N}{\mathbb{N}}  % naturals
+
+%%%%%%%%%%%%%%%%%%%%
+%  Linear Algebra  %
+%%%%%%%%%%%%%%%%%%%%
+
+% Augmented Matrix
+\newenvironment{amatrix}[1]{%
+  \left(\begin{array}{@{}*{#1}{c}|c@{}}
+}{%
+  \end{array}\right)
+}
+
+% Norm
+\newcommand\norm[1]{\left\lVert#1\right\rVert}
+
+\DeclareMathOperator{\tr}{Tr}       % Trace
+\DeclareMathOperator{\img}{img}     % Image
+\DeclareMathOperator{\coimg}{coimg} % Coimage
+\DeclareMathOperator{\coker}{coker} % Cokernel
+
+%-----------------------------------------------------------
+
+

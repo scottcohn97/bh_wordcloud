@@ -1,0 +1,1813 @@
+2
+People: Preferences, Beliefs and Constraints
+
+How selfish soever man may be supposed, there are evidently some principles in his nature, which interest him in the fortune of others, and render their happiness necessary to him, though he derives nothing from it, except the pleasure of seeing it.
+Adam Smith, The Theory of Moral Sentiments (1759) Chapter 1.
+2.1 Introduction: "The custom of the country."
+Chicago, a city famous for its pizza, sports, jazz, and its skyline, built its fortune on the farming of the state of Illinois. Today Illinois farmers use high tech machinery and advanced business plans, some cultivating a thousand acres of land or more. But many of the farmers don't own the land they cultivate; they rent land and work it as a sharecropper. Sharecroppers are farmers ­ "tenants" ­ who pay the owners of land a share of the total harvest that they cultivate.
+In the mid-1990's, over half of the contracts between farmers and owners were sharecropping agreements, and in northern Illinois 95 percent of these contracts stipulated a fifty-fifty division of the crop between the owner and the sharecropper. An equal split of the crop means that a tenant on fertile land will have higher income for the same amount of effort and other inputs.1 Because a tenant on fertile land will reap a larger harvest than a tenant on poor quality land, the fifty-fifty sharecropping contract presents us with a puzzle.
+Here's the puzzle: if half of the crop on poor quality land is sufficient to attract tenants, why should the owners of good quality land give up half of the crop to their tenants? Those tenants must be earning more than what was necessary to get them work the owner's land. So, why don't the owners of the better land propose a tenant's share less than half, giving the tenants just enough so that they are willing to farm the land?
+
+DOING ECONOMICS
+This chapter will enable you to:
+· Understand that people make decisions based the actions open to them (constraints), which of these possible actions they believe they must take (beliefs) to bring about the outcomes they most prefer (preferences).
+· Use this approach to analyse economic situations involving risky outcomes, bargaining, and contributing to the public good.
+· Analyse sequential games and games with multiple Nash equilibria, showing how being the first mover in these games may confer advantages on a player.
+· Explain the institutional challenges arising in the case of public goods and common property resources.
+· Show that experiments based on this "preferences, beliefs, and constraints approach" provide evidence that people's preferences go beyond self-interest and include generosity, reciprocity, fairness and hostility toward others.
+· See how changes in the rules of the game can result in better outcomes for all.
+· Understand that these other-regarding preferences are as much part of what we consider to be rational action as is self interest.
+· Give examples of the importance of social norms and culture for decisionmaking and economic policy-making.
+
+Figure 2.1: Farming in Illinois is big business.
+
+52 M I C R O E C O N O M I C S - D R A F T
+
+We would expect owners to insist on lower tenant's shares to sharecroppers on higher quality land and offer higher shares to sharecroppers on low quality land. Because land varies in quality by small gradations, this would result in a pattern of sharecropping contracts with a range of shares depending the land quality. But this is not what we see. Almost all of the contracts are fifty-fifty.
+Illinois sharecropping contracts allow the sharecroppers on good land to receive income attributable to the superior land quality, income the owners would otherwise have received if the owners had insisted on a lower tenant' s share on the high quality land. The fifty-fifty split effectively transfers millions of dollars annually from owners to sharecroppers simply because of the fifty-fifty division. This is not a peculiarity of Illinois. Fifty-fifty is the norm in sharecropping around the world.
+Rice cultivation in West Bengal, India during the 1970s provides another example. There, poor illiterate farmers in villages isolated by impassable roads for much of the year and lacking electronic communication eked out a bare living on plots that average just two acres rather than the thousand-acre plots farmed in Illinois. The Indian farmers shared one similarity with farmers in Illinois: the division between sharecroppers and owners was fifty-fifty in over two-thirds of the contracts.3
+Why was the contract the same in these distant parts of the world? The short answer is that where most contracts are fifty-fifty, that particular division is a social norm, something people feel they are morally obliged to respect. The fact that around the world land owners respect a social norm that overrides their material self-interest tells us that many people are committed to acting fairly, being treated fairly and conforming to ethical standards of appropriate behavior.
+But the sharecroppers in Illinois and West Bengal, like farmers everywhere, are also trying to make a decent living, or even to become affluent. They are not simply following social norms. They carefully weigh alternative methods of cultivating their crops at the least possible cost and marketing their harvest at the highest possible price.
+
+H I S TO RY In 1848 the British philosophereconomist John Stuart Mill noted the striking global pattern of equal division in crop sharing, calling it "the custom of the country" and "the universal rule." 2
+
+2.2 Preferences, beliefs and constraints
+Understanding economic behavior requires a model that takes account of what people care about (for example, the farmers' incomes, and also their desire to uphold social norms) and how from the set of actions they are able to undertake, they adopt those that they think will bring about desired results. We will develop a model of economic behavior based on:
+· constraints: the feasible set of actions, meaning actions that are open to
+
+P E O P L E : P R E F E R E N C E S, B E L I E F S A N D C O N S T R A I N T S 53
+
+Beliefs (which actions result in which feasible outcomes)
+
+Preferences (evaluation of feasible outcomes)
+
+Constraints (Feasible set
+of actions)
+
+Set of outcomes believed to be feasible
+
+Choice of an action
+
+Figure 2.2: Preferences, beliefs and constraints. The actor may choose from a set of feasible actions (the constraint set on the left). Combining that set with her beliefs about the outcome produced by each of the actions in the the constraint set, she then has a set of outcomes that she believes are feasible, depending on her choice of an action. From all of these outcomes in the set believed to be feasible, she identifies the one that is ranked highest according to her preferences and then takes the action that she believes will bring about this outcome.
+
+us,
+· beliefs: our understanding of the outcomes that will result from the actions that are open to us, and
+· preferences: our evaluation of the outcomes that we believe will result from the actions we take.
+This is called the preferences, beliefs and constraints approach.
+The relationship between these three elements of the preferences, beliefs, and constraints approach is described below and is shown in Figure 2.2. Game theory, which you have already studied, is an important example of the preferences, beliefs and constraints approach.
+Constraints: Limits on action
+From a long list of things a person might consider doing, constraints define a more limited possible set of actions, namely the shorter list of all of those so called feasible actions she can carry out. In the game theory introduced in the previous chapter the constraint was the set of possible actions, that is, a list such as "Fish 10 hours", "Fish 12 hours" or "Plant early", "Plant late".
+Constraints may be imposed by personal limitations, by laws of nature, or by the force of law. A constraint can also reflect a decision by the actor to eliminate some action from the feasible set of actions on moral grounds, irrespective of the payoffs. Examples are keeping promises, not harming a friend, or obeying the law.
+In Table 2.1 we give examples of how the preferences beliefs and constraints approach can be applied. The list of feasible actions set by constraints need
+
+E X A M P L E The preferences, beliefs and constraints approach is sometimes called rational choice theory or the rational actor model, but we prefer the more specific label that we use here as it identifies the the three important elements making it up.
+PREFERENCES, BELIEFS, AND CONSTRAINTS APPROACH According to this approach, from the feasible set (which includes all of the actions open to the person given by the economic, physical or other constraints she faces), a person chooses the action that she believes will bring about the outcome that she values most as given by her preferences.
+
+54 M I C R O E C O N O M I C S - D R A F T
+
+Actor
+Firm owner Urban resident Ordering a meal
+
+Constraints (feasible set of actions)
+High or low prices
+Drive or take the bus The menu; your budget
+
+Beliefs (information about which actions will result in the preferred state) The demand curve (how quantity depends on price) How many others will drive Simple: just order the best you can pay for
+
+Feasible Outcomes (states that could result from the actions)
+Various levels of profits
+Travel time
+Meal quality, money left over
+
+Preferences (ranking of all outcomes)
+Maximize profits
+Minimize travel time
+Maximize payoffs or utility
+
+not be just a list of particular actions, like drive or take the bus. When marketing their output (first row of the table), the owners of a firm, for example, can set any price they like (anywhere from 0.00 by penny increments up to some very high number).
+
+Table 2.1: Applications of the preferences, beliefs, and constraints framework. Real choice situations are typically not as simple as Figure 2.2. The urban resident, for example, may care both about travel time to work and his carbon footprint.
+
+Wealth, the availability of credit, and the prices of goods impose constraints on an actor's consumption. The institution of private property also imposes limits: it means that theft is not an option for increasing your consumption. Given private property and in the absence of gifts or other transfers from a government, the total amount of goods and services you can consume is limited by your wealth and how much you can borrow. So when we study someone's consumption, their budget constraint is a critical factor as people have a certain budget determined by wealth, access to credit, and prices all limiting how much they can buy.
+
+Beliefs: Translating actions into outcomes
+Beliefs are a person's understanding of the outcomes that her actions will bring about.
+In many cases what I must do to get the outcome that I prefer depends on what other people do. I would like to spend the evening with friends, but where I should go to make it happen depends on where I think my friends will go. Given that I cannot communicate with my friends (the batteries to their phones have run out), my action (where I will go) will therefore depend on my belief about where I will find my friends.
+In Table 2.1 the owners of firms are not constrained to set any particular price, but if they want to translate their choice of a price into what they care about ­ profits ­ they must form an opinion about the number of units they will be able to sell at each price. This is the demand curve, and it expresses the owners' beliefs about the relationship between their action (the price) and an outcome (how many goods they will sell).
+
+BELIEFSBeliefs are an individual's understandings of the relationship between an action she may take and the outcome of the action.
+E X A M P L E The word "belief" is often used to refer to spiritual matters ("religious beliefs"); but in game theory a belief is a statement about how the world works, namely what action is required to bring about some particular outcome.
+
+P E O P L E : P R E F E R E N C E S, B E L I E F S A N D C O N S T R A I N T S 55
+
+Preferences: Reasons for preferring one outcome over another
+Preferences are evaluations of outcomes that provide motives for actions. A person's preferences are the reason why she takes the action that she believes will bring about the outcome that is better than or at least as good as the others. In Chapter 1, preferences were represented by the payoffs in games that people played. For each player, a strategy profile was associated with a number ­ her payoff ­ and players chose actions that they believed would result in the strategy profile with their most preferred (highest payoff) outcome.
+In many games preferences are represented by money payoffs. But more broadly, preferences represent the favorable (positive) or unfavorable (negative) feelings a person has about an outcome that lead them to try to make an outcome happen (high payoff) or that lead them to try to avoid an outcome (low payoff). Preferences include:
+· tastes (food likes and dislikes, for example),
+· habits (or even addictions),
+· emotions (such as disgust and anger) often associated with visceral reactions (such as nausea or an elevated heart rate),
+· social norms (for example, those that induce people to prefer to be honest or fair), and
+· psychological tendencies (for aggression, extroversion, and the like).
+The difference between preferences and beliefs is simple. A preference says: I like the outcome X more than the outcome Y. A belief says: I believe I can get X to happen if I do some action Q.
+
+E X A M P L E While most widely used in economics, the preferences, beliefs, and constraints approach is also used in political science, for example, to understand the strategies followed by elected officials seeking to maximize their chances of reelection, in law to design criminal or civil penalties to effectively deter illegal activity, and even in biology to study the evolution of genes, modeled as if they are "trying to" increase their numbers.
+PREFERENCES Preferences are evaluations of outcomes of one's actions that provide motives for taking one course of action over another.
+
+Self-regarding and other-regarding preferences
+A feature of the preferences, beliefs, and constraints approach is that it allows us to model choices based on the entire range of preferences whether they be entirely self-regarding, caring for others (wishing them well or wishing to harm them), reflecting religious commitments, or any of the other reasons we may have to value some outcome more than another.
+A key distinction about our preferences is whether in evaluating the results that we believe our actions will bring about (the right hand part of Figure 2.2) we think about the results that we ourselves experience only, or do we also consider the results that are experienced by others. This gives us two categories of preferences:
+· If we think only about the results experienced by ourselves, we have selfregarding preferences
+
+OTHER-REGARDING PREFERENCES A person with other-regarding preferences, when evaluating the outcomes of her actions, takes into account the effects of her actions on the outcomes experienced by others as well as the outcomes she will experience.
+
+56 M I C R O E C O N O M I C S - D R A F T
+
+· If we also think about the results experienced by others, then we have other-regarding preferences.
+Is this the same thing as "selfish" and "unselfish" preferences? No.
+Abraham Lincoln is said to have remarked: "When I do good, I feel good. When I do bad, I feel bad. That is my religion." Does this mean that Lincoln's "good" acts were in fact self-regarding because they made him feel "good?"4 That does not follow. He had other-regarding preferences leading him to act differently than if he cared only about the outcomes that he personally experienced.
+In the preferences, beliefs and constraints model all actions are motivated by preferences, so doing a preferred thing cannot be termed "selfish" without making all behavior selfish by definition. That is why we use the term selfregarding rather than "self-interested" or "selfish."
+For example, if you (like Lincoln) enjoy helping others, and you act on these preferences, does this mean you are selfish (because, for example that's what gives you a sense of leading a good life). No, it does not. You are acting on your preferences, but they are other-regarding because you enjoy trying to make the results that others experience be what they would want. Do not think that 'other-regarding' means "good" or "admirable." Other-regarding preferences include feelings of altruism towards others, but they also include negative feelings about others, such as envy, spite, racism and homophobia.
+In sections 2.10, 2.13 and 2.11 we provide some evidence from experiments about other-regarding preferences and how common they are across the world.
+
+SELF-REGARDING PREFERENCES When choosing an action, a self-regarding actor considers only the effect of her actions on the outcomes experienced by the actor, not outcomes experienced by others.
+H I S TO RY In 1977 Amartya Sen wrote "Rational fools" in which he pointed out that the preferences beliefs and constraint approach ignores the importance of promises, what he called commitments. The reason is that the approach seeks to explain behavior entirely on the basis of the actor's anticipation of what her actions will bring about in the future. Honoring a past commitment ­ not because she would otherwise feel guilty in the future, but because it is the right thing to do ­ cannot be modeled in the preferences beliefs and constraints approach.
+RATIONAL A rational person has complete and consistent (transitive) preferences and can therefore rank all of the outcomes that their actions may bring about (better, worse, equal) in a consistent fashion.
+
+"Rationality"
+The term rationality in economics means acting on the basis of:
+· Complete preferences This means, that for any pair of possible outcomes that a person's actions may bring about, A and B, it is the case that the person prefers A to B or B to A or is indifferent between the two.
+· Consistent preferences If an individual with consistent (also called transitive) preferences prefers a bundle of goods A to another bundle B, and bundle B to a third bundle, C, they also prefer A to C.
+A person with complete preferences, which requires only that she can rank all pairs of outcomes, might nonetheless violate the consistency assumption. So she could prefer A to B, B to C, and C to A. All that matters for completeness is that she can rank each pair.
+
+COMPLETE PREFERENCES Complete preferences specify for any pair of possible outcomes that a person's actions may bring about, A and B, whether A is preferred to B, B is preferred to A or they are equivalent.
+E X A M P L E Preferences are not complete if there is some other pair, say A and D for which none of the above three comparisons can be made. For example, if you ask someone to choose one of the three statements "I prefer A to D", "I prefer D to A" and "I am indifferent between A and D" the person responds "none of the above."
+INDIFFERENCE When a person is indifferent between two outcomes, they do not prefer one over the other.
+
+P E O P L E : P R E F E R E N C E S, B E L I E F S A N D C O N S T R A I N T S 57
+
+In the heading at the start of this section, we put quotation marks around rationality to underline the difference between how economists use the term and how it is generally used, that is to mean "based on reason." But in economics, as you can see from the above definition, it means something entirely different.
+· Rationality does not say anything about what it is that the person values: A completely generous and ethical person is rational as long as her preferences are consistent and complete.
+· Rationality does not mean being intelligent or well informed: The beliefs that (along with preferences) determine the choices a person makes need not be true.
+Moreover, people with incomplete preferences would hardly be called "irrational" in the ordinary meaning of that term, meaning "not logical" or "unreasonable." Ask yourself if your preferences are complete for the following outcomes: express preference or indifference over which of your two dearest friends will be tortured to death. If you were to say "I cannot rank those two outcomes, nor am I indifferent between them" you would not be "rational" by the economic definition, but nobody would think your behavior was unreasonable either. We might be more inclined to worry about the person who would be able to make such a ranking.
+Checkpoint 2.1: Why beliefs matter
+Considering the coordination problems studied in Chapter 1
+a. Explain why in the Assurance Game representing planting in Palanpur the action a farmer takes to bring about the preferred outcome depends on the farmer's belief about what other farmers will do.
+b. In the same game explain why the farmer who believes most other farmers will plant late, will also plant late.
+c. Explain why Ben's belief about what Aisha will do matters for how he will play in the Disagreement Game.
+d. Are there any games you have learned so far in which beliefs about what the other does did not affect the outcome of the game?
+
+CONSISTENT PREFERENCES Preferences are consistent if whenever an individual prefers a bundle of goods A to another bundle B, and bundle B to a third bundle, C, they also prefer A to C. Consistent preferences are also known as transitive preferences.
+
+2.3 Taking risks: Payoffs and probabilities
+Beliefs become especially important in cases where we have to take some action without knowing for sure what the outcome will be. You make many of this kind of choices every day, from the important choices of what to study at university, to more trivial choices like whether to take an umbrella to class. The theory of decision-making in these cases rests on the idea that the evaluation of how good a course of action is depends on
+
+Figure 2.3: Amartya Sen, born in 1933 in the then British colony of India and a Nobel Laureate in economics, has combined economic and philosophical reasoning to propose a new view of human well being based not on what we have but what we can do ­ our capabilities. His book Development as Freedom makes the case that the success of an economy should be judged by the scope of the real choices that are open to all. His essay "More than 100 million women are missing" documented the differential mortality of men and women ­ especially as infants ­ associated with limited rights and power of women. Image Credit: Norman McBeath / National Portrait Gallery, London
+
+58 M I C R O E C O N O M I C S - D R A F T
+
+· how much the decision-maker values each of the possible but uncertain outcomes of the action and
+· the decision-maker's beliefs about how likely each outcome is.
+Here we introduce a basic concept for decision-making with risk ­ expected payoffs ­ that will be used throughout the book. In Chapter 13 we return to the topic of risk including preferences about taking risks and the value of insurance.
+The value of uncertain outcomes: Expected payoffs
+There are two possible but uncertain outcomes of the action "take an umbrella to class," namely, "keep dry walking home in the rain" and "carry the umbrella to and from class without even opening it, because it does not rain." The feasible actions of the decision-maker are just: take the umbrella or not.
+According to the preferences, beliefs, and constraints approach, the decision maker assigns numbers indicating how much she values each of the possible four outcomes shown in Table 2.2. These numbers give the ranking of the four possible outcomes: (Don't take the umbrella, No rain) is better than (Take the umbrella, Rain) and so on. But if they are to provide a framework for making a decision when you do not know for sure if it is going to rain or not, the numbers have to be more than a ranking. They have to indicate how much the actor values each of the possible four outcomes. So for example taking the umbrella when it rains is 5 times better than not taking the umbrella when it rains.
+We call these numbers the payoffs to each of the four possible outcomes.
+The likelihood of uncertain outcomes: Beliefs
+Only one of these two uncertain events will occur. Whether, at the end of the day, it turned out to have been a good idea to have brought the umbrella is said to be contingent on (meaning: depends on) whether it rains or not. The payoff to the two actions in this case is said to depend on a contingency. The contingency in this case is whether or not it rains, and the payoff to taking the umbrella is contingent on (depends on) its occurrence.
+When you decide what to study at university before knowing what kind of work you'll do after, you're making choices about contingencies too: do you go risky and study drama, or do you go safe and do accounting? In this case, the contingencies include the the uncertainty about how good you will be at the field you choose and your chance of getting a job in your field. We return to risky choices about education in Chapter 13.
+The theory of decision-making about risky outcomes concerns a decisionmaker, call her Anoushka, who has beliefs about the probabilities (Pi) that
+
+Uncertain event
+
+(contingency)
+
+Rain No Rain
+
+Action
+
+Take Don't take
+
+15 3
+
+8 20
+
+Table 2.2: Two contingencies (rain or don't
+
+rain) and two actions (Take the umbrella, or
+
+Don't). The payoffs correspond to the coincidence
+
+of an action and a contingency, so Anoushka
+
+receives 15 if she plays Take the umbrella when the
+
+contingency is Rain, and she receives 8 if she plays
+
+Take the umbrella and the contingency is No rain.
+
+CONTINGENCY A contingency is a state of the world that may or may not happen and that affects the payoff to some action.
+PROBABILITY DISTRIBUTION A probability distribution for n contingent outcomes of a decision is a list of non-negative numbers {P1, P2, . . . , Pn} that add up to 1. These probabilities express the decision-maker's belief about the likelihood that each of the of n contingent outcomes will occur.
+RISK The term risk is conventionally used in economics to describe situations in which payoffs depend on contingencies, of which the probabilities of occurring are known. UNCERTAINTY The term uncertainty describes situations where the decision-maker does not know and cannot learn the probabilities of the contingencies affecting their payoffs.
+
+P E O P L E : P R E F E R E N C E S, B E L I E F S A N D C O N S T R A I N T S 59
+
+each of the contingencies i = 1, . . . , n will occur. Her beliefs can be based on
+observation, on empirical studies, guessing, experience, or superstition. They need not be correct.
+For simplicity we consider contingencies with just two outcomes (like "it rains" or "it does not rain" above). The basic principles of decision-making are the same no matter how many contingent outcomes there are. In this case, we use the symbol P for the probability the contingency occurs, understanding that 1 P is the probability the contingency does not occur.
+
+The decision rule: Maximize expected payoffs
+Often we must take an action prior to the realization of the contingency. But you have to make a choice anyway.
+To take account of the "action now, contingency later" aspect of the decision problem we distinguish between:
+· Expected payoff : how much the actor values taking the action given her beliefs about the probability that the various contingencies will occur and
+· Realized payoff : how much she values the outcome that actually happens, that is, after a contingency has been realized ("realized" here means really happened, or actually occurring).
+The expected payoff of an action is the basis for her choosing one course of action over another: Anoushka chooses the action with the highest expected payoff. Here is how she can calculate expected payoffs.
+For each contingency, i, and each action she can take, x, Anoushka knows the payoff of taking action x conditional on i happening, which we write as p (x|i). For example, if i is the contingency of rain in the afternoon, and x is the action of taking her umbrella with her in the morning, then her realized payoff is p (x|i) associated with her having the umbrella when it rains. The vertical line | is read "conditional on", or "given", so p (umbrella|rain) is Anoushka's payoff to having the umbrella (x) conditional on (|), or given, rain (i) in the afternoon. For a contingency with two outcomes ­ numbered 1 and 2 ­ we have to consider only two payoffs and the corresponding probabilities of each, (p(x|1), P), (p(x|2), 1 P). The expected payoff to an action x given a list of contingent payoffs is the weighted average of the payoffs for each contingency where the weights are the decision-maker's belief about the probability of each contingency being realized. We abbreviate the expected payoff to choosing x given the probabilities (P) of contingencies 1 and 2 being realized as E(px, P) = E((p(x|1), P), (p(x|2), 1 P)):
+Expected Payoff E(px, P) = Pp(x|1) + (1 P)p(x|2) (2.1)
+
+H I S TO RY In 1947 John von Neumann and Oskar Morgenstern showed a way to think about how people can evaluate risky choices. When the outcome of an action is subject to a risky contingency, how much we value an action that we can take can be expressed as a weighted sum of how much we value the alternative outcomes of our actions (depending on the realization of the contingency). The weights in the sum are the probability of each outcome occurring if we take the action.
+EXPECTED PAYOFF In a situation of risk, the expected payoff to an action is the sum of payoffs occurring under each contingency multiplied by the probabilities that each contingency occurs.
+E X A M P L E If Anoushka's payoffs for the four possible outcomes of her actions are as in Table 2.2, and the probability of rain in the afternoon as 0.6, her system of contingent payoffs for taking the umbrella
+is ((15, 0.6), (8, 0.4)). These numbers can
+be interpreted as follows: since there is a 60% chance of rain, Anoushka has a 60% chance of receiving a payoff of 15 if she takes the umbrella. Further, this means that there is a 40% chance of no rain, therefore, if Anoushka takes the umbrella she has a 40% chance of having a payoff of 8.
+
+60 M I C R O E C O N O M I C S - D R A F T
+
+Bina
+
+Early
+
+Late
+
+4
+
+4
+0
+3
+
+3
+0
+2
+
+2
+
+Figure 2.4: Planting in Palanpur: An Assurance Game. Aram's payoffs are listed in the blue bottomleft corner. Bina's payoffs are listed in the pink top-right corner. Aram's best response to Bina's choice of strategy is indicated by a black dot in the relevant cell, while Bina's best responses are indicated by hollow circles. The Plant Early Nash equilibrium is Pareto-efficient. The Plant Late equilibrium is not.
+
+Aram
+Late Early
+
+Equation 2.1 expresses the fact that the greater the probability of an outcome, the greater its weight in the weighted average calculated by the expected payoff. For example, using the values from Table 2.2, Anoushka's expected
+payoff to taking the umbrella, assuming the probability of rain, P = 0.6, would be 0.6 · (15) + 0.4 · (8) = 9 + 3.2 = 12.2, that is, closer to 15 than to 8
+because the probability of rain is greater than one half.
+Calculating expected payoffs with probabilities is essential to understanding strategic interactions, such as the games we introduced in Chapter 1. But in games ­ that is strategic interactions with other people ­ the contingencies include the strategies chosen by the other player, not just things like whether it rains.
+Checkpoint 2.2: Basis of probability assessments
+a. Imagine that you are rolling two six-sided dice with sides corresponding to one of each of the numbers 1, 2, 3, 4, 5, and 6. You calculate the sum each time you roll the two dice simultaneously, for example, 1 + 2 = 3. Explain why the probability of getting a total of 7 from rolling the two dice is 1/6.
+b. What is the expected payoff if you get paid $5 for rolling a sum of 6 or 8 on a roll of the two dice and $0 otherwise?
+c. Go back to Table 2.2, what would Anoushka's expected payoff to not taking
+the umbrella be given the probability of rain being P = 0.6?
+
+2.4 Expected payoffs and the persistence of poverty
+In games like the Prisoners' Dilemma which have a dominant strategy equilibrium, the action that will maximize your payoffs does not depend on what the other player does, so it does not matter that you do not know what the other will do.
+But if ­ like in most games ­ you are a player who does not have a dominant strategy, your best response will depend on what the others do. We need to take account of this in our decision-making rule. We can use expected payoffs
+
+R E M I N D E R A player's dominant strategy is one that is a best response for all of the other player's strategies; a dominant strategy equilibrium is a strategy profile in which all players play a dominant strategy.
+
+P E O P L E : P R E F E R E N C E S, B E L I E F S A N D C O N S T R A I N T S 61
+
+Bina
+
+Early (P)
+
+Late (1-P)
+
+4P
+
+0(1-P)
+
+3P
+
+2(1-P)
+
+Figure 2.5: Aram's view of Planting in Palanpur. The figure shows Aram's payoffs only and his belief about the probability that Bina will play her two strategies: Plant Early with probability P and Plant Late with probability 1 P. In any given row Aram's payoffs in a cell are multiplied by the probability that Bina plays the strategy given by the column that the cell is in. We can calculate Aram's expected payoffs if he plants early by adding the payoff in each cell multiplied by the probability that he will receive that payoff if he plants early. So we have: Plant Early: p^Early = 4 · P + 0 · (1 P). And similarly for the other strategy: Plant Late: p^Late = 3 · P + 2 · (1 P).
+
+Early
+
+Aram
+
+Late
+
+to understand the choice of which strategy to play in an Assurance Game, like a farmer's choice between Planting Early or Planting Late in the Planting in Palanpur Game.
+The game is shown in Figure 2.4 to remind you of the game's structure. The payoffs in each cell indicate how much the farmer values the outcome resulting from the strategy profile given by the particular row and column.
+As you can see from the circles and dots, the game has two Nash equilibria: (Early, Early) and (Late, Late). Comparing the payoffs at the two Nash equilibria you also see that (Early, Early) is Pareto-superior to (Late, Late) because (4,4) is better for both than (2,2). But recall that the actual Palanpur farmers plant late.
+To see why this occurs, place yourself in the situation of one of the farmers: you will consider what some other farmer will do as a contingency, with P the probability that she will plant early. A farmer believing with probability P that the other farmer will plant early and probability (1 P) that the other farmer will plant late is an example of decision-making under risk, since the farmer assigns probabilities to a contingency. In this case, the contingency is the other farmer's behavior.
+We do not explore where these beliefs about probabilities come from, but we can imagine that the farmer will form beliefs based on what other farmers tell him or on the basis of their behavior in past planting seasons. We will include just Aram and Bina in the game, but remember we use only two players to simplify our analysis of what is really a much larger population of many people like Aram and Bina.
+If Aram believes that the probability of Bina planting early is P we can construct his expected payoffs to each of his strategies, each part of which is shown by Figure 2.6. We use a "hat" on a variable to mean "expected," so p^ reads "p hat." Using these probabilities, Aram's expected payoff (E(p ) or p^ )
+
+62 M I C R O E C O N O M I C S - D R A F T
+
+4
+
+Equal expected
+
+Strategy with higher
+
+payoffs at Pi = 2 3
+
+expected payoff at P = 1 2
+
+is risk-dominant
+
+3
+
+2.67 2.5
+
+r
+
+i
+
+2 Expected payoff to Plant Late, ^L
+
+Figure 2.6: Aram's expected payoffs to planting
+
+early or late depend on his belief about the
+
+probability that Bina will Plant Early. Aram
+
+evaluated the expected payoffs to his strategies
+
+based on the probability that Bina will play Early.
+
+The indifference probability where the two
+
+strategies have the same expected payoff is
+
+Pi
+
+=
+
+2 3
+
+,
+
+and
+
+the
+
+payoff
+
+to
+
+Planting
+
+Late
+
+is
+
+greater
+
+than
+
+the
+
+payoff
+
+to
+
+Planting
+
+Early
+
+for
+
+P
+
+=
+
+1 2
+
+.
+
+The
+
+intercepts of the vertical axes are the payoffs in the
+
+payoff matrix for the planting game in Chapter 1
+
+(Figure 2.4).
+
+Expected payoff, ^
+
+Expected payoff to Plant Early, ^E
+
+0
+
+P = 1 2 Pi = 2 3
+
+1
+
+Probability Bina will Plant Early, P
+
+to playing Plant Early is:
+p^ = p^ (Plant Early) = Pp (Plant Early|Bina Plants Early) +(1 P)p (Plant Early|Bina Plant's Late)
+Aram's expected payoff to planting late is:
+p^ (Plant Late) = Pp (Plant Late|others Plant Early) +(1 P)p (Plant Late|Bina Plant's Late)
+An expected payoff-maximizing farmer will choose to plant early or late depending on which expected payoff is higher. As Figure 2.6 shows, for Aram, which action this will be depends on the probability that he thinks Bina will plant early. The vertical axis is the expected payoff to each strategy: Plant Early or Plant Late. The horizontal axis is the probability, P, that Aram attributes to the contingency that Bina plants early: from left to right P goes from
+P = 0 (the Bina plants late with certainty) to P = 1 (the Bina plants early with
+certainty).
+The two upward-sloping lines plot Aram's expected payoffs to the two strategies, Plant Early and Plant Late, showing how these depend on his belief about the probability that Bina will plant early (that is, for each value of P).
+The blue line graphs the equation for the expected payoff to Aram playing the
+strategy Plant Early which (repeating it from above) is p^Early(P) = P · 4 + (1 P) · 0 = 4P. When the probability the other farmer plants early is zero, i.e. P = 0, the payoff to Plant Early is zero. When the probability the other farmer will Plant Early is 1, i.e. P = 1, the payoff to Plant Early is 4.
+
+P E O P L E : P R E F E R E N C E S, B E L I E F S A N D C O N S T R A I N T S 63
+
+We can draw the expected payoff line for Plant Late in the same way, where
+the expected payoff to Plant Late is p^Late(P) = P · 3 + (1 P) · 2 = 2 + P depicted in green, and where pLate(P = 0) = 2 and pLate(P = 1) = 3. We can
+then interpret the expected payoffs as follows:
+
+·
+
+Plant
+
+Late
+
+provides
+
+a
+
+higher
+
+expected
+
+payoff
+
+for
+
+all
+
+P
+
+<
+
+2 3
+
+.
+
+·
+
+Plant
+
+Early
+
+provides
+
+a
+
+higher
+
+expected
+
+payoff
+
+when
+
+P
+
+>
+
+2 3
+
+.
+
+· The expected payoffs to the strategies are equal at the indifference prob-
+
+ability
+
+Pi
+
+=
+
+2 3
+
+(where
+
+a
+
+farmer
+
+is
+
+indifferent
+
+between
+
+Plant
+
+Early
+
+and
+
+Plant
+
+Late).
+
+The result is that Aram will choose Plant Late as long as he believes that the probability that Bina will Plant Early is less than two-thirds. Bina, facing the identical situation, has the same decision rule: Plant Late unless you think that Aram is going to Plant Early with a probability of at least two-thirds.
+
+They will remain poor even though, had they somehow started off both planting early, they would both had twice the payoff (4 rather than 2). The poverty trap in which they find themselves is not the result of rudimentary technology or infertile soil. What they lack is the "social technology" that would allow them to coordinate on the Pareto-superior strategy profile, planting early. Their poverty is due to the rules of the game, which make coordination difficult.
+
+2.5 Decision-making under uncertainty: Risk-dominance
+So far we have assumed that Aram and Bina have some idea (maybe a guess) of the likelihood that the other would plant early. They faced risk (they had some information on the probability of the contingent event), but not uncertainty (no information at all). Decision making under uncertainty is especially important in the field of climate change, where there are some contingencies for which there is no way to assign probabilities of their occurrence. We can explore uncertainty by continuing with the Palanpur farmers, but under slightly altered assumptions.
+What is the farmer facing uncertainty to do? Economics does not have a very good answer.
+
+H I S TO RY The "principle of insufficient reason" due to the Swiss mathematician Jakob Bernoulli (1655-1705) states that if we have no information on which to estimate the probability that one of two contingencies will occur, we should consider them to be equally likely. Not everyone finds this satisfactory. John Maynard Keynes found it "paradoxical and even contradictory."5
+
+A two-person risk-dominant equilibrium
+
+Economists often use what is called the "principle of insufficient reason"
+
+when a player has no information on which to place a probability on some
+
+contingency. This principle holds that the farmer who has no information on
+
+likely strategy choice of his neighbor will assign equal probability to the two
+
+events
+
+and
+
+hence use
+
+the
+
+probability P
+
+=
+
+1 2
+
+that the
+
+other will
+
+plant early.
+
+64 M I C R O E C O N O M I C S - D R A F T
+
+What is termed the risk dominant strategy is that which yields the highest expected payoff when a player attributes equal probability to the two actions of the other player is the risk dominant strategy.
+
+In the Planting in Palanpur Game, you can see from Figure 2.6 that a farmer
+
+who
+
+assigns
+
+the
+
+probability
+
+P
+
+=
+
+1 2
+
+to
+
+the
+
+contingency
+
+that
+
+the
+
+other
+
+farmer
+
+will
+
+Plant Early will himself Plant Late (the green Plant Late expected profits line
+
+is above the blue Plant Early expected profits line). His expected payoffs are
+
+2
+
+=
+
+1 2
+
+·4
+
+for
+
+Plant
+
+Early,
+
+and
+
+2.5
+
+=
+
+1 2
+
+·3+
+
+1 2
+
+·2
+
+for
+
+Plant
+
+Late.
+
+Plant Late is therefore the risk-dominant strategy, that is, the strategy that
+
+maximizes
+
+the
+
+farmer's
+
+expected
+
+payoffs
+
+when
+
+P
+
+=
+
+1 2
+
+.
+
+You
+
+can
+
+confirm
+
+this
+
+by
+
+going
+
+back
+
+to
+
+Figure
+
+2.6:
+
+at
+
+P
+
+=
+
+1 2
+
+the
+
+green
+
+line
+
+(expected
+
+payoff
+
+to
+
+planting
+
+late) is above the blue line (expected payoff to planting early). Because this
+
+is true for the other farmer as well, both farmers Planting Late is the risk-
+
+dominant equilibrium.
+
+Planting Late in the Planting in Palanpur Game is risk dominant because planting early when the other plants late is much worse (you get zero rather than the payoff of two you would have received had you also planted late) than planting late when the other plants early (you get three rather than the four you would have received had you also planted early).
+
+Checkpoint 2.3: Risk dominance and the worst case outcome
+
+a. Redraw the expected payoff line for planting early with the payoff to planting early when the other plants late to be even worse than shown in the figure, e.g. -2 instead of 0.
+b. In this case what is the indifference probability?
+c. What is the least payoff to planting early when the other plants late that would make planting late no longer risk dominant?
+
+RISK DOMINANT STRATEGY The strategy in a 2  2 game that yields the highest expected payoff when the player attributes equal probability to the two actions of the other player.
+
+A risk dominant equilibrium in a large population
+Instead of thinking about only two farmers, we can interpret the model as portraying a population of farmers in a village like Palanpur itself. Like Aram and Bina, the farmers face a multi-player coordination problem: doing well if they all plant early and doing poorly if they all plant late. They are currently stuck in the poor equilibrium
+We can re-purpose Figure 2.6 such that the horizontal axis is the fraction of the population going from 0 to 1 who choose Plant Early, P (reading left to right) as shown in Figure 2.7. The payoff lines in the figure have the same interpretation as before: They are the expected payoffs for any one of the large number of identical farmers in the village. The probabilities translate to population fractions too:
+
+P E O P L E : P R E F E R E N C E S, B E L I E F S A N D C O N S T R A I N T S 65
+
+Expected payoff, ^
+
+4
+
+2.67 2.5
+
+3
+
+r
+
+i
+
+2 Expected payoff to Plant Late, ^L
+
+Expected payoff to Plant Early, ^E
+
+0
+
+P = 1 2 Pi = 2 3
+
+1
+
+Fraction playing Plant Early, P
+
+Figure 2.7: Fraction of farmers planting early. P is the fraction of farmers playing Plant Early. 1 P is the fraction of farmers playing Plant Late. In the case of the population as a whole, the indifference probability (or in the case of a population of players, the indifference fraction) shown at point i with fraction Pi corresponds to the fraction of the population at which the players are indifferent between the strategies (Plant Early or Plant Late). In the case of the whole population, point i is also the tipping point: when a fraction of the population less than Pi plays Plant Early all farmers will want to play Plant Late; when a fraction of the population greater than Pi plays Plant Early all of the farmers will want to play Plant Early. The arrows indicate this movement to the extremes of P = 0 or P = 1.
+
+·
+
+P
+
+<
+
+2 3
+
+:
+
+When
+
+less
+
+than
+
+two-thirds
+
+of
+
+the population choose
+
+Plant
+
+Early
+
+(i.e. more than one-third play Plant Late), the Plant Late strategy has a
+
+higher
+
+expected
+
+payoff.
+
+So
+
+if
+
+last
+
+year
+
+P
+
+<
+
+2 3
+
+,
+
+then
+
+all
+
+farmers
+
+whether
+
+they
+
+planted early or late, will reason that they should play Plant Late this year.
+
+If they do that, then all of the farmers will end up with a payoff of 2.
+
+·
+
+P
+
+>
+
+2 3
+
+:
+
+When
+
+more
+
+than
+
+two-thirds
+
+of
+
+the
+
+population
+
+select
+
+Plant
+
+Early
+
+(i.e. less than one third select Plant Late), the Plant Early strategy has a
+
+higher
+
+expected
+
+payoff.
+
+At
+
+any
+
+fraction
+
+P
+
+>
+
+2 3
+
+,
+
+all
+
+farmers
+
+will
+
+do
+
+better
+
+by
+
+choosing Plant Early. If they do so, they will end up with a payoff of 4.
+
+·
+
+P
+
+=
+
+2 3
+
+:
+
+At
+
+two-thirds
+
+Planting
+
+Early
+
+and
+
+one-third
+
+Planting Late,
+
+the
+
+ex-
+
+pected payoffs are equal. The point at which the expected payoffs are
+
+equal is a tipping point as a small change in the tradition of planting early
+
+will drive all players to adopt one or the other strategy: Plant Early or Plant
+
+Late.
+
+Now imagine that, as in the village of Palanpur, virtually all of the farmers have been planting late year after year (maybe even generation after generation). There would not be much uncertainty about what fraction of the population would plant late the next planting season. Each of the farmers would hold the belief that P is close to zero and as a result they all would plant late, confirming their beliefs. The belief that almost nobody would plant early sustains both the low income of the farmers, and the belief itself, which year after year turns out to be correct.
+
+Why does this occur? In the Fishermen's Dilemma the best outcome for one of the players is the worst for the other, so there is a conflict of interest between the two. And this contributes to the difficulty of finding some way of coordinating so as to avoid over-exploitation of the fishing stock.
+
+TIPPING POINT An unstable equilibrium at the boundary between two regions characterized by distinct movements in some variable.
+
+66 M I C R O E C O N O M I C S - D R A F T
+
+This is not the problem in the Assurance Game. There is no conflict of interest: All of the Palanpur farmers prefer the outcome when they all Plant Early to any other outcome. Their failure to implement the mutually desired outcome is the result of their inability to coordinate on planting early rather than late.
+Is there a way things could have turned out better for the farmers? What may seem to be a minor tweak to the rules of the game under which the farmers are interacting can help them escape their poverty trap.
+
+2.6 Leadership in sequential games: When order of play matters
+The game we introduced to model the coordination problem facing Aram and Bina was unlike many real world social interactions, they were total strangers who had no way of coordinating their actions, and they acted simultaneously (or at least, without knowledge of what the other had done.)
+But it might be that rather than playing simultaneously, they play sequentially. Playing sequentially is a change in the rules of the game; it represents a change in the institutions governing their interaction. We will see that this seemingly small change makes it an entirely different kind of game possibly even allowing Pareto-efficient outcomes.
+To see how this could work, suppose the Planting in Palanpur Game (Assurance Game) is now sequential. Aram moves first (he is called the first mover) and Bina moves second. How will Aram reason?
+He has to think about what Bina will do in response to his planting early or late. He knows that:
+· Bina's best response to his planting late is to plant late and the best response to his planting early is to plant early, and
+· his payoff is greater if they both plant early.
+So he will announce that he will plant early, and Bina will respond with planting early. Rather than being stuck planting late with a small harvest, they have now solved their coordination failure. How did they manage it?
+
+E X A M P L E The timing of a sequential game does not depend on actions being taken in that sequence, as long as commitments to those actions can be taken in sequence. A professor commits to a grading policy in her syllabus even if her students haven't written a midterm exam or solved a problem set yet. To design the syllabus the professor, using backward induction, thought through what a student would most likely do in response to her commitments in the syllabus.
+
+Game trees and extensive form games
+The answer is that the sequential nature of the game gave them a way of acting together even if they had no way of coming to some kind of enforceable agreement. By looking ahead to how Bina would respond to his move, he got the highest possible payoff (4). And while this was not his intention, he acted so that they would together implement the single Pareto-efficient outcome.
+
+NORMAL FORM REPRESENTATION OF A GAME The description of a game by a matrix of strategies with payoffs associated with each strategy profile is the normal form (or strategic) representation of a game. See also extensive form representation of a game.
+EXTENSIVE FORM REPRESENTATION OF A GAME An extensive form representation of a game includes, in addition to the strategies with payoffs associated with each strategy profile, the time dimension ­ who knows
+
+P E O P L E : P R E F E R E N C E S, B E L I E F S A N D C O N S T R A I N T S 67
+
+What Aram did is called backward induction, a procedure by which a player in a sequential game chooses a strategy at one step of the game by anticipating the strategies that will be chosen in response by other players in subsequent steps.
+Sequential games provide opportunities for coordination among players; and they also require a new way of modeling a game. So far we have studied games in which we could represent the payoffs of each player in a matrix in which each cell is a particular strategy profile. This is called a normal form (or strategic form) representation of a game. To study sequential games we need to keep track of before and after, so we use what is called a game tree (we will show one for the Palanpur farmers).
+Game Trees have the same basic information as a normal form representation by a payoff matrix ­ they show the strategy set and the payoffs associated with each strategy profile ­ except that the tree-like structure tells us something about who moves when; and a strategy profile is now a path through the branches of the tree.
+A game tree for the sequential version of the Planting in Palanpur Game is shown in Figure 2.8. The player at the top of the tree moves first, with subsequent players moving in sequence after the first player. (The "top" of the tree is the trunk, and the branches extending from it are shown below the trunk. The passage of time is shown as a movement down in the figure from the trunk to the branches).
+A strategy in a sequential game is a statement of the action a player will take at any point in the tree at which it is her turn to act (whether or not that point will ever be reached). This differs from the strategies we have considered so far, which were simply actions like Fish 10 hours or Plant Late. Strategies are now contingent on what has happened so far in the game. So in the example above Bina's strategy was Plant Early if Aram Plants Early.
+Aram is the first mover, so he is at the top of the game tree. Bina is the second mover, so she is shown farther down the tree, acting knowing what strategy Aram has chosen. Each player's action ­ planting early or planting late ­ is shown alongside a branch of the tree to indicate which action the player chooses as they move along that branch.
+Players best respond based on their payoffs, shown at the end of a branch of the game tree that indicates a specific path to that end point, Aram planting early, then Bina planting early; Aram planting early, then Bina planting late; and so on. The payoffs (First mover's payoff, Second mover's payoff) are those shown in the normal form representation of the simultaneous game in Figure 2.4 (which we saw in Chapter 1). Because of the branching tree-like structure of the figure there is only one path from the start of the game to each of the end points.
+
+BACKWARD INDUCTION Backward induction is a procedure by which a player in a sequential game chooses a strategy at one step of the game by anticipating the strategies that will be chosen by other players in subsequent steps in response to her choice.
+
+68 M I C R O E C O N O M I C S - D R A F T
+
+Aram
+
+Plant early
+
+Plant late
+
+Bina
+Plant early
+
+Plant late
+
+Plant early
+
+Bina
+Plant late
+
+Aram
+
+Plant early
+
+Plant late
+
+Bina
+Plant early
+
+Plant late
+
+Plant early
+
+Bina
+Plant late
+
+Aram
+
+Plant early
+
+Plant late
+
+Bina
+Plant early
+
+Plant late
+
+Plant early
+
+Bina
+Plant late
+
+(4,4)
+
+(0,3)
+
+(3,0)
+
+(2,2)
+
+(4,4)
+
+(0,3)
+
+(3,0)
+
+(2,2)
+
+(a) Full game tree
+
+(b) Aram's reduced choice of Actions
+
+In Figure 2.8 on the left-hand side we have the full game tree, showing all the potential payoffs for the game. Bina is the second-mover and she needs to decide what to do at each point where she could move. If Aram plants early, Bina can get a payoff of 4 for planting early, or a payoff of 3 for planting late. So if Bina is self-interested, then she will plant early when Aram plants early (4 > 3).
+
+Bina also has to make a choice between her actions if Aram plants late. Bina can get a payoff of 0 if she plants early given Aram planting late or a payoff of 2 if she plants late given that Aram plants late (2 > 0). So Bina will plant late when Aram plants late.
+
+We now know what Bina will do, but what will Aram choose to do knowing this? Using backward induction Aram will have a choice between a smaller set of payoffs, shown in the Figure 2.8 b: either 4 if he plants early or 2 if he plants late. So he will choose to plant early. As a result, the only Nash equilibrium of the game is (Plant Early, Plant Early) with payoffs (4, 4).
+
+Checkpoint 2.4: Back in Palanpur
+
+Making the game sequential solved the problem for Aram and Bina. But would that work for the couple of hundred families in Palanpur? Suppose some order of play was determined and that the first family had announced that they would plant early. Would the second family then follow? And the third? What would you do if you were first mover in this game? If you were 27th mover and the first 26 had all chosen Plant Early?
+
+(4,4)
+
+(0,3)
+
+(3,0)
+
+(2,2)
+
+(c) Fully solved Game
+
+Figure 2.8: Game tree of the sequential Planting in Palanpur (Assurance) Game. Panel a presents the full game tree for both players. The color on the branches representing actions taken by the player (blue for Aram, red for Bina) match the payoff numbers at the end of the branches (First mover's payoff first, Second mover's payoff second.) In Panel b we illustrate how Aram uses backward induction by crossing out the branches that he knows Bina will not take if that point in the game is reached. If he has planted late she will definitely not plant early. Considering the remaining branches Aram's possible payoffs are now reduced to 4 if he plants early and 2 if he plants late. So backward induction leads to the solved game in panel c with the arrows indicating the path to the NEaXsAhMePquLiElibTriuhmink(Polafnat Esatrralyt,ePglyanint Eaarslye)q. uential game as a complete list of instructions
+covering any possible situation that could
+come up that the player could leave with an
+assistant, if the player could not be present
+for the actual play of the game.
+
+2.7 Equilibrium selection: First-mover advantage in a sequential game
+Being first mover did not give Aram any particular advantage over Bina in the Planting in Palanpur Game, it just allowed him and Bina jointly to coordinate on the Pareto-efficient Nash equilibrium. The result would have been the same had Bina been first mover.
+But sometimes it is advantageous for a player to move first; this person then
+
+P E O P L E : P R E F E R E N C E S, B E L I E F S A N D C O N S T R A I N T S 69
+
+Aisha 
+
+Stick to Swahili
+
+Improve English
+
+Aisha 
+
+Stick to Swahili
+
+Improve English
+
+Ben 
+
+Improve Swahili
+
+Stick to English
+
+ Ben
+
+Improve Swahili
+
+Stick to English
+
+Ben
+Improve Swahili
+
+Stick to English
+
+Improve Swahili
+
+Ben
+Stick to English
+
+
+(4,2)
+
+
+(0,0)
+
+
+(0,0)
+
+(a) Full game tree
+
+
+(2,4)
+
+(4,2)
+
+(0,0)
+
+(0,0)
+
+(b) Solved game tree
+
+(2,4)
+
+has what is called first-mover advantage.
+Think about the Disagreement Game from Chapter 1. Recall that two players, Aisha and Ben, have a disagreement over which (or perhaps both) of them should study to improve the language spoken by the other. Both prefer that they both be good at speaking some common language. But, Aisha prefers that it be Swahili and Ben prefers that it be English. What happens in this game when Aisha is the first mover rather than when they both move simultaneously?
+Considering the game tree in Figure 2.9, we can solve the game by backward induction and see that the Nash equilibrium of the game is (Stick to Swahili (for Aisha), Improve Swahili (for Ben)) with payoffs (4, 2). The outcome (Improve English, Stick to English) which was one of two Nash equilibria in the simultaneous version of the game is no longer a solution in the sequential version of the game if Aisha is first mover. Aisha does better as a first-mover because she obtains her preferred outcome. Ben would have benefited in the same way had he been first mover.
+
+FFiIgRuSreT-2M.9O: VGEaRmeAtrpeleayoefrthwehLoacnagnuacgoem(Dmisit-to a asgtrraeteemgyenint) agagmaem. eThbeelfeofrt-ehaonthdesridpelapyreesresnhtsave tahcetefudll igsaamefirtsret emfoorvbeor.th players. The right-hand side figure shows the solved game tree with the arrows indicating the path to the Nash equilibrium (Stick to Swahili, Improve Swahili). Aisha's actions are shown by the blue branches and Ben's by the red branches. Aisha's actions are reduced because she has projected forward in time and used backward induction to work out what Ben will do. This reduces Aisha's choices to a payoff of 4 if she plays Stick to Swahili and a payoff of 2 if she plays Improve English. So backward induction leads to the Nash equilibrium of the game being (Stick to Swahili, Improve Swahili) with payoffs (4,2). The outcome favors Aisha over Ben because she has a first-mover advantage.
+
+The reason why being first mover gave Aisha an advantage is that the simultaneous game has two Nash equilibria ­ one preferred by Aisha and the other by Ben. In the sequential game the first mover determines which of the two Nash equilibria will occur. Once Aisha has moved and has established that she will Stick to Swahili (and not try to Improve English). Ben needs to take Aisha's move as given. He must therefore choose his best response to Aisha choosing Stick to Swahili. Given that he would like to communicate with Aisha, his best response is to Improve his Swahili.
+
+Remember that Aram's first mover status did not allow him to benefit at Bina's expense; but this was not the case with Aisha, her first mover status gave her
+
+70 M I C R O E C O N O M I C S - D R A F T
+an advantage over Ben.
+First movers in a modern economy are more like Aisha:
+· Employers: they commit to the wage, job requirements and working conditions; workers ­ actual and prospective ­ best respond to that.
+· Banks and other lenders: they set to the interest rate, repayment schedule and other aspects of a loan contract. Borrowers and would be borrowers best respond to that.
+· Owners of major companies: in the U.S. Walmart, Amazon, Apple ­ commit to prices and delivery schedules. Consumers best respond.
+The fact that people occupy different positions in our economy ­ employers and workers, lender and borrowers ­ interacting under rules of the game that give some first mover status and other special advantages is an important part of the explanation of inequality of wealth and income, as we will see in Chapters 11, 12, 13, and 15.
+Checkpoint 2.5: Ben has the first-mover advantage
+a. Consider the sequential Disagreement Game shown in Figure 2.9. Re-draw the game tree, but with Ben as the first mover rather than Aisha. Show that (Improve English, Stick to English) is the Nash equilibrium of the game.
+b. Assuming that the payoffs in the Disagreement Game are in hundreds of dollars and that you are Ben, how much would you pay for the privilege of being first mover a) if otherwise Aisha would be first mover, and b) if the game were to be played simultaneously (so that there is no first mover)?
+2.8 Institutional challenges: Common property resources, public goods, and club goods
+In the games you have studied ­ Prisoners' Dilemma, Assurance, Disagreement, and others ­ coordination problems arise because when we interact with others we affect their well-being ­ positively or negatively ­ and these external effects are not taken into account when we decide on a course of action. The nature of these external effects and how changes in the rules of the game can avoid or lessen the resulting coordination failures depend on the nature of the goods in question.
+A taxonomy of goods
+To better understand the kind of coordination problem that we face and how we might design effective remedies, we classify goods according to the kinds of external effects associated with them and the reason why these are a problem. To do this we ask two questions, introducing two new terms:
+
+P E O P L E : P R E F E R E N C E S, B E L I E F S A N D C O N S T R A I N T S 71
+
+· Is the good rival or non-rival?
+· Is the good excludable or non-excludable?
+When a good is rival, the benefits of its use are limited: more people using the good reduces the benefit available to others. Your phone is a rival good: your using it precludes me using it at the same time. But information typically is non-rival: the fact that I know what time it is and give this information to you does not deprive me of the same information, as would be the case if I gave you my phone.
+So, to remember the distinction between rival and non rival goods think how different the reaction would be if you met someone in the street and politely asked:
+· "Excuse me could you give me the time of day?" or
+· "Excuse me, could you give me your phone?"
+When a good is excludable a potential user may be denied access to the good (or excluded from its usage) at low cost. Your home is an excludable good: all you have to do is lock the door. The music from an outdoor concert in a park is non-excludable.
+We make use of these distinctions to provide the taxonomy shown in Table 2.3. The four categories shown there are "pure cases" introduced to clarify distinctions. In reality many goods or resources have some aspects of a public good (they may be a little bit rival and a little bit excludable). The same is true of the other three categories.
+
+RIVAL A good is rival when more people using the good reduces the benefits available to other users.
+EXCLUDABLE A good is excludable when a potential user may be denied access to the good at a low cost.
+
+Non-excludability and external effects
+But if we just think about the pure cases for now, we have the following: Common property resources are rival and non-excludable, like in the Fishermen's Dilemma in Chapter 1. As was the case for the lobstermen above, the more one fished, the less others caught; but in the absence of a permit system like they adopted in Australia, no fishermen could be stopped from fishing, so the common property or pool (the lake or the ocean) was nonexcludable.
+Examples of common property resources and their associated coordination problems include congestion in transportation and communications networks, overuse of open access forests, fisheries, water resources. Status is another common property resource, not everyone can be high status (there is a limited amount to go around) so it is rival. But nobody can be excluded from acquiring status symbols and engaging in other social climbing activities. Using common property resources imposes external costs on others. As a result common pool resources will be over-exploited.
+
+COMMON PROPERTY RESOURCE A common property resource is rival and nonexcludable.
+PUBLIC GOOD A public good is non-rival and non-excludable.
+
+72 M I C R O E C O N O M I C S - D R A F T
+
+Rival Non-rival
+
+Excludable
+Private good (clothing, food) Club good (streaming music, online movies)
+
+Non-excludable
+Common property (Pool) Resource (fishing stocks, potential buyers) Public good (global climate, rules of calculus)
+
+A public good is both non-rival and non-excludable. A private good is neither: it is both rival and excludable. A slice of pizza is a private good: it is rival because if you eat it nobody else can enjoy it. It is excludable because the pizza seller can exclude you from eating it if you do not pay for it. By contrast, weather forecasts (on your phone, website, or the radio) are a public good. As more people use the weather forecasts the benefits that those already using the forecasts receive do not decrease, the benefits of the weather forecasts are non-rival. No person can be excluded from access to the information about the weather, therefore the benefits are non-excludable.
+
+Table 2.3: Public, private, common property and club goods. In parentheses are examples of the kinds of goods.
+PRIVATE GOOD A private good is rival and excludable.
+
+When a person contributes to a public good ­ for example by producing some new information of value to everyone ­ she is contributing benefits to others, so she confers external benefits on others. The problem here is that the person does not benefit from the positive external effects that her actions convey on others. So unless the actor values the well being of others as much as her own (very unlikely) the public good will be under-provided.
+In contrast with public goods and common property resources, there are club goods. Club goods are non-rival, but people can be excluded from their consumption. Common examples include collecting a toll on a little used highway, charging admission to an uncrowded museum, or requiring people to pay for streaming video and music.
+
+CLUB GOOD A club good is non-rival and excludable.
+E X A M P L E : C L U B G O O D S. The physical book you are reading is a private good ­ though you can access a free pdf online so its content is a public good ­ but another recent economics textbook The Economy by the CORE team (including one of your current authors) is a public good entirely available in open access digital form on any device.
+
+Intellectual property rights such as patents and copyrights are club goods. These legal devices give a person ­ the patent or copyright holder ­ a monopoly over a piece of information or a design. This monopoly allows the owner to exclude people from the use of information, which in the absence of the intellectual property rights would be a public good.
+
+This makes it clear that how some good or resource is classified in our two-bytwo taxonomy depends not only the nature of the good itself, but also on the rules of the game that determine whether it is excludable or not. Information is typically a public good, but it can be made a club good if a person is granted a copyright or patent making some piece of information excludable.
+
+We analyse the coordination problem that occurs when our economic activities are over-exploiting a common property resource in Chapter 5. Here we study the problem of public goods.
+
+P E O P L E : P R E F E R E N C E S, B E L I E F S A N D C O N S T R A I N T S 73
+Checkpoint 2.6: A taxonomy of types of goods
+a. Look again at Table 2.3 and think of at least two further examples for each of the four categories of goods.
+b. Why are the rules of calculus a public good, but the formula for making Coca Cola not?
+c. What kind of good is the formula for making Coca Cola?
+2.9 The Public Goods Game
+We start with an example ­ one with which you may have first hand experience. Consider a group project in which, say, 5 students collaborate on a report and a presentation and all receive the same grade based on the quality of their joint work. A project like this is a public good.
+A more pressing example is global climate: it is experienced by everyone. Efforts to address the problem of climate change contribute to a public good: that is, a more sustainable environment. Another example is the rules of calculus: if you learn how to differentiate that does not deprive others of the knowledge of the same rules of differentiation.
+This sounds like a good thing. But there is a problem. Why do people produce or contribute to the provision of a public good? If nobody can be excluded from enjoying the good, its hard to see how it would be possible to make money by providing it. (Imagine trying to make a living by selling or renting the rules of calculus!)
+We can describe the problem of provision of a public good by a game. It shares with the Prisoner's Dilemma Game the feature that everyone could do better if they agreed on a common course of action (i.e. they all contribute) but the dominant strategy for a self-regarding player is not to contribute. Because it has the same incentive structure, the Public Goods Game is sometimes called an n-person Prisoners' Dilemma. The Public Goods Game has been played as an experiment around the world.
+Rules of the Public Goods Game
+Here are the rules of the experimental game:
+· n players are each given some amount of money z called an endowment. · Each player simultaneously selects an amount ei, 0  ei  z to contribute
+to the public good (think of ei as players' "effort" in contributing to the public good).
+· The amount of the public good produced depends on the level of contributions. For example it could be half of the sum of all of the contributions. In
+
+74 M I C R O E C O N O M I C S - D R A F T
+
+Payoff, $
+
+25
+
+Contribute
+
+20
+
+Don't contribute
+
+15
+
+10
+
+5
+
+0
+
+0
+
+1
+
+2
+
+3
+
+Number of others playing Contribute
+
+Figure 2.10: A 4-player Public Goods Game with choices to contribute or not. Each player can play either Contribute or Don't contribute, and as there are 4 players, this means that the number of others contributing can be any of the numbers 0, 1, 2, or 3 players playing either of the strategies. Playing Don't contribute yields a higher payoff for the player regardless of how many players play Contribute or Don't. Therefore, Don't contribute is a strictly dominant strategy. The payoffs are consistent with M-Note 2.1.
+
+this case the productivity of contributions would be one-half.
+· Each player, regardless of whether they contribute or not, obtains the entire benefit of the total amount of the public good produced.
+As a result of the rules, each player's payoff can be read as follows:
+Own payoff = Endowment Contribution + Productivity  Total Contributions
+Figure 2.10 illustrates the benefits of the public good minus the costs of contributing to a public good in a 4-person Public Goods Game. In the version of the game we depict, they can each contribute $10 or $0: which we call "Contribute" or "Don't." Now compare how a player does if they Contribute (red line) or Don't (blue line) if they are the only one who contributes, or there are 1, 2, or all 3 others contributing. You can see that in every case she will earn higher payoffs by not contributing. Therefore, if all players are self-regarding, the dominant strategy equilibrium is Pareto-inefficient and an alternative outcome, full contribution by all, which is not a Nash equilibrium, is Paretoefficient.
+As a result, economists expected that when this game is played for real money that no player would contribute. They were in for a surprise. But first we will explain the logic of the experiments that provided the surprise.
+M-Note 2.1: The Public Goods Game: Another coordination problem
+
+In Figure 2.10, there are four players and we limited their actions to either contributing
+$10 or contributing $0, but in a standard Public Goods Game players can contribute any
+amount up to and including their entire endowment (such that for player i, ei = z). Then
+
+P E O P L E : P R E F E R E N C E S, B E L I E F S A N D C O N S T R A I N T S 75
+
+player i's payoff is given by :
+pi = z
+
+ei + M Â e j for j = 1, . . . n j
+
+where:
+
+(2.2)
+
+· z is the endowment of money the player receives from the experimenters. · ei is the contribution player i makes · M is the multiplier, or the productivity of contributions < 1. · n is the number of players with nM > 1 · Â j e j is the total amount contributed by all players including player i.
+Why the public good is good. The requirement that nM > 1 ensures the total benefits of contributing to the public good exceed the costs. You can see that because contributing one more unit produces some fraction M a unit of the public good that is enjoyed by all n players the total benefit is nM > 1 so the total benefit (to all members of the population) exceeds the cost of a single member's contribution.
+
+Why not contributing is a dominant strategy. You can also see from Equation 2.2 if you differentiate p with respect to ei that contributing, say, one unit more changes person i's
+payoff by 1 + M. This is the cost of contributing minus the public good that the contributor herself enjoys as the result of her own contribution. But M < 1 so contributing anything
+reduces the contributor's payoffs. And this is independent of the amounts contributed by others. This is why not contributing is the dominant strategy.
+
+Checkpoint 2.7: Two-action Public Goods Game
+a. Draw a payoff table with two players, A and B, playing the Public Goods
+Game. Limit their actions to contributions (e) of e = 10 and e = 0 with M = 0.5. Check which is the dominant strategy and explain why. What happens if M = 0.75?
+b. Revise your payoff table and check what would happen if the strategies were
+e = 1 and e = 0 with M = 0.5? Would anything change? What happens if M = 0.75?
+c. Think about the condition M < 1 < Mn. Why must this be true for the game to be an n-person Prisoners' Dilemma game? (Hint: Think about what would happen if it were not true. What would happen if M > 1? What would happen if Mn < 1?)
+
+2.10 Application: Experiments on economic behavior
+Suppose you wanted to know if someone has altruistic preferences, that is willing to help others at a cost to herself. How would you find out? Would you ask her? Well, that could provide some information, but merely asking might not be entirely convincing, because many people would like others to think they are altruistic even when they are not, so they might lie.
+What about observing her behavior ­ for example the help that she actually offers to others ­ and comparing her behavior to how others behave? This
+
+76 M I C R O E C O N O M I C S - D R A F T
+
+would be informative, but how much she helped others would be influenced not only by her preferences, but also by how much free time she has or how wealthy she is.
+Economists use experiments to study preferences because at least ideally this allows us to control for (hold constant) other influences on a person's behavior ­ the constraints they face and their beliefs -- to focus on their preferences. Experiments allow economists to implement the ceteris paribus ­ other things equal ­ assumption that we think is so important when we are trying to identify causes and consequences of some change or difference.
+To understand how common different types of preferences are, and how they affect our behavior, economists use laboratory experiments in which subjects interact in games like the ones you have already studied, designed to elicit the nature of their motivations.
+Experiments play a central role in science: they allow predictions made from theories to be tested empirically. This has been done, for example, with the prediction that players in a Prisoners' Dilemma experiment choose the dominant strategy equilibrium, that is, Defect.
+But in Prisoners' Dilemma experiments, in which payoffs took the form of money that a player could win, the proportion of players who cooperate rather than defect is commonly between 40 and 60 percent.6
+This means the prediction based on the assumption that people are entirely self-regarding was borne out for some but far from all of the subjects. The finding therefore provoked some rethinking of the assumption that people are entirely self-regarding.
+Many subjects prefer the mutual cooperation outcome and are willing to take a chance on the other player also not defecting, rather than the higher material payoff they can obtain by defecting when the other cooperates. When subjects defect, experimental evidence suggests it is because they dislike being taken advantage of, not because defection is the payoff maximizing strategy independently of the other participant's actions.
+We use a specific vocabulary when we talk about behavioral experiments in economics. The following terms will come up often:
+· Subject/participant: A subject or participant is a person who participates in an experiment.
+· Endowment: The endowment is an initial amount of money or tokens later converted to money that subjects receive at the beginning of the experiment, and later make decisions about in the experiment.
+· Incentives: The fact that players stand to win material rewards in varying degrees depending on how they play the experimental game means that
+
+CETERIS PARIBUS A Latin term that means `other things equal.' In an economic model it means an analysis `holds other things constant'.
+F AC T C H E C K Behavioral experiments are a recent addition to economists' tool kits; but they have been used in psychology for almost a century and a half. The main innovations that economists have made to experimental social science are the use of game theory to clarify the role of beliefs and preferences and nature of incentives and the common use of monetary payoffs.
+
+P E O P L E : P R E F E R E N C E S, B E L I E F S A N D C O N S T R A I N T S 77
+the experiment mimics many real economic interactions.
+· Payoffs: In Chapter 1 we introduced the term payoff (for example in a payoff matrix of a game) as a number indicating the player's evaluation of a particular strategy profile, so that a player will best respond by choosing a strategy with the highest possible payoff. But we have already seen (just above) that people do not always choose strategies that maximize the money they receive from an experiment. In experimental economics a "payoff" is money that a player gets from the game. In the next section we will see more evidence that payoffs are not the only thing people care about.
+· One-shot vs. repeated: A one-shot experiment occurs once and subjects make one decision in the experiment as a whole and are paid for that one decision. A repeated experiment involves subjects making repeated decisions often with information about the play of others on previous rounds, sometimes with the same subjects in a group or sometimes with different subjects.
+· Replication: Experimental evidence carries little weight unless the experiment can be replicated, different independent researchers reaching the same results.
+2.11 Application: Changing the rules matters: Experimental evidence
+The prediction of the model based on self-regarding preferences that all players in a Public Goods Game will contribute nothing is consistently contradicted by the experimental evidence. The evidence we have comes from people playing one-shot games and from people playing repeated games with as few as 5 rounds and as many as 50 rounds.7 In one-shot games, contributions average about half of the endowment, while in repeated games, as you can see in the first 10 periods of play in Figure 2.11 contributions at a substantial level but then decline so that a majority of players contribute nothing in the final round of a ten-round game.
+Researchers have interpreted the decline in the first half as a reflection of people getting disappointed about the expectations they had that other people would contribute more, along with the desire people have to punish low contributors (or at least not to be taken advantage of) in a situation in which one person can punish a low contributor only by reducing their own contributions.
+In this interpretation it is the higher contributing subjects, disappointed or angry about their free-riding fellow subjects that explains why cooperation unravels. So the decline in contributions becomes a vicious circle: only by
+
+78 M I C R O E C O N O M I C S - D R A F T
+reducing how much they contribute can people punish others, but in so doing other people might want to punish them for their low contributions by contributing yet less again.
+The idea that the decline in contributions is due to the fact that in the standard game contributing less is the only way to punish low contributors is supported by an ingenious experiment. This has the same public goods structure but with what turned out to be a major difference: after subjects contributed, the contributions of each ­ by a code, not the player's name ­ were then made public to all the group members. Members then had the opportunity to punish others in the group. reducing their target's total payoff. In order to impose this cost, however, the Punisher also had to pay a cost themselves.
+The change in the rules of the game ­ adding the punishment option ­ represents a change in the institutions governing contributions to the public good. In the language of experiments the new rules are termed a new treatment. So the standard game is one treatment and the game with punishment is a second treatment.
+In the experiment subjects engaged in extensive punishment of low contributors. At the start of the game people contributed over half of the endowment and then, apparently in response to punishment of low contributors, they contributed more over the course of the game. The change in institutions modeled by adding the punishment option altered the result dramatically as you can see from 2.11.
+To see if subjects' willingness to punish could be based on the expectation that they would benefit in subsequent rounds of the game, a slightly different experiment was tried. The researchers adopted what they called a "perfect strangers" treatment: after each round of the ten-round experiment the groups were re-shuffled, so that no player ever encountered any other player more than once. The "perfect strangers treatment" turned the experiment into a series of one-shot games.
+Since every player would encounter every other player only once, if lowcontributors responded to punishment by contributing more in subsequent rounds, they would raise the payoffs of others but not the punisher (who would never again be in the same group with the target of her punishment).
+In this way, punishment itself became a public good. This is because a punisher incurs a cost, except that the punisher is not a beneficiary of the good. In the perfect stranger treatment, for a self-regarding player not punishing, like not contributing to the public good is the dominant strategy. Even in the perfect stranger treatment subjects avidly punished low contributors.
+Further evidence comes from the fact that people punish low contributors even in the last round of the game when punishment cannot be motivated by the
+
+Average contributions
+
+P E O P L E : P R E F E R E N C E S, B E L I E F S A N D C O N S T R A I N T S 79
+
+Treatment
+
+12
+
+With punishment Without punishment
+
+10
+
+8
+
+6
+
+4
+
+2
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 Periods
+
+Figure 2.11: Public Goods Game with punishment. Average contributions over periods 1 to 10 decrease without punishment. Over periods 11 to 20, subjects can be punished by their peers and average contributions are higher on average than in the first 10 rounds. The vertical axis is the average contribution each round. The horizontal axis is the period. At period 11 the subjects are given the opportunity punish each other. There are three treatments in this Public Goods Game experiment. This figure portrays the behavior in the "Strangers" treatment where players are randomly re-matched each round. The two other treatments, which show similar results, are "Partners" where players are in the same group for all the rounds; and "Perfect Strangers" where players are re-matched, but no player will encounter any other more than once during the experiment. Source: Fehr and Gächter (2000a).
+
+expectation that the punisher will benefit from their target's improved behavior in the future. There is no future (the game ends after they punish). So the pleasure of punishing someone who is violating a social norm is most likely involved.8
+
+2.12 Social preferences: Blame economic man for coordination fail-
+
+ures?
+The fact that for self-regarding people, not contributing to the public good is the dominant strategy definitely constitutes an institutional challenge. But we will also see that although being concerned about how your actions affect others will help to address coordination failures, it will not be sufficient.
+Homo economicus or "economic man" is the term economists have used to designate an entirely self-regarding and amoral actor, a person who is not motivated by either a concern for others, or a desire to conform to any ethical principles. The term is often put in italics to parallel the biological terminology
+
+H I S TO RY The idea of basing economics on the assumption that people are entirely self-regarding ­"solely as a being who desires to possess wealth" goes back to the last of the great classical economists, John Stuart Mill author of Principles of Political Economy (1848), considered to be the first economics textbook in the English language. He considered this view of people to be "an arbitrary definition of man." In other words, like economists since then, he was making a simplifying assumption in order to model human behavior.9
+
+for a species (like Homo sapiens). Homo economicus, however is a fictional
+
+character representing one possible variety of human behavior.
+
+Models based on Homo economicus have provided predictions about behavior that are borne out by empirical studies that range from how American windshield installers and Tunisian sharecroppers respond to different work incentives to the effect of taxes on cigarette consumption. But, as we shall see, Homo economicus is not an accurate depiction of how most people behave:
+
+· People volunteer for fire fighting, delivering food to the sick during a pandemic, and other dangerous but socially beneficial tasks, and contribute substantial sums to charity.
+
+· People participate in joint activities such as strikes or protests even know-
+
+80 M I C R O E C O N O M I C S - D R A F T
+
+ing that their individual participation is unlikely to affect the success of the event and that, if successful, the benefits would be widely shared, not confined just to those people participating in the protest.
+· People donate blood for the health of strangers, and wear masks in public places during a pandemic, even knowing that the primary benefit of the mask is to prevent spreading the virus to strangers, not protection against being infected by others.
+· In public opinion polls and in voting, people support taxes that transfer incomes to the poor even when they are sufficiently rich and unlikely ever to benefit directly from these policies.
+Motivated by these and similar observations and augmented by controlled experiments about human behavior (that we will review below), economists have revised our assumptions about Homo economicus to recognize that people are capable of ethical, generous, and other motivations as well as self-regarding motives.
+This is important because as you learned in the first chapter, coordination failures occur because we fail to take adequate account of the effect that our actions have on others. Our concern for others can help to internalize these external effects whether it be our willingness to curb our carbon footprint or willingness to protest for causes whose benefits would be widely shared.
+But coordination failures cannot be blamed entirely on people seeking to maximize their own payoffs. Think again about the real farmers in Palanpur, all planting late when they could all do better if they all switched to planting early. Suppose one of those farmers was deeply concerned about the poverty of his entire village, and wished to improve living standards for everyone. He could not do this by individually planting early.
+Now suppose that every villager shared his concerns for all members of their community. Each one would know that their own decision to plant early would change nothing (except that their seeds would be eaten by the birds). What has captured the people of Palanpur in a poverty trap is not that they care only about their own harvest (they surely care about others'), but their inability to come to a common agreement to plant early. Their poverty stems from a problem of institutions, not motivation.
+To understand individual behavior and its social consequences we need an approach that allows for the full range of human motivation.
+Checkpoint 2.8: Homo economicus goes to the polls
+a. Given that it costs time to cast a vote (going to the voting station, standing in
+
+R E M I N D E R Remember that in Chapter 1 we saw how 'internalizing the external effects' means getting people to pay for the external costs they imposed on others and this resulted in the fishermen choosing to cooperate and fish less in the Fishermen's Dilemma.
+
+P E O P L E : P R E F E R E N C E S, B E L I E F S A N D C O N S T R A I N T S 81
+
+line, and the opportunity cost of your time), do you think a person with Homo economicus preferences would vote in most elections? Why or why not? b. In what circumstances do you think someone with the preferences of a Homo economicus would vote?
+While answering these questions, think about the beliefs the person with Homo economicus preferences would have about the probability his vote will be important to the outcome of the election.
+
+Types of social preferences
+While Homo economicus is among the kinds of actors this approach considers, there are other characters, representing other sides of human behavior such as generosity, fairness, reciprocity and spite. What these four aspects of behavior have in common is that they are other-regarding: the outcomes that a person considers in choosing an action include things experienced by others, not just outcomes affecting the person herself. Here are some forms of other-regarding preferences that experiments of the type surveyed below have shown to be common:
+· Those with altruistic preferences, such as basic generosity, are motivated to help others even at a cost to themselves, they place a positive value on the well-being or payoffs of others.
+· Inequality-averse or fairness-based preferences motivate people to seek to reduce unjust or unfair economic differences even if the actor is herself a beneficiary of these differences.
+· A person with reciprocal preferences is motivated to help others who have themselves behaved generously or upheld other social norms, and also to punish those who have treated others badly.
+· Spite and `us versus them' distinctions that place a negative value on outcomes experienced by others, often motivate hostility towards members of religious, racial, ethnic and other groups. Therefore a negative outcome another person experiences, can result in a positive value for someone who feels spiteful.
+The term "social preferences" is used to describe all types of other-regarding preferences.
+Checkpoint 2.9: Social preferences & social norms
+a. Give an example of a preference you have that is not self-regarding. b. Can you think of any social norms that lead you to act in an other-regarding
+way? c. Suppose that Aram and Bina (in the Planting in Palanpur Game) were of
+
+INEQUALITY AVERSION A preference for more equal outcomes and a dislike for both disadvantageous inequality that occurs when others have more than the actor and advantageous inequality that occurs when the actor has more than others.
+
+82 M I C R O E C O N O M I C S - D R A F T
+
+different religions between which there is hostility, so that each would gain some pleasure from the misfortunes of the other. Can you show how this could change the game so that instead of having the Pareto-efficient mutual early planting as one of its two Nash equilibria, it becomes a prisoners dilemma with planting late as the dominant strategy equilibrium?
+
+2.13 The Ultimatum Game: Reciprocity and retribution
+Observing substantial levels of cooperation in the Prisoners' Dilemma game was a shock to the standard Homo economicus assumptions. But the experiment that has sparked perhaps the greatest reconsideration of the Homo economicus model is the Ultimatum Game.
+Here is the game with its basic treatment:
+· Subjects are anonymously paired for a one-shot interaction with another person.
+· The role of "Proposer" who will be the first mover, is randomly assigned to one of the subjects; the other is then the "Responder".
+· The Proposer is given an endowment, the "pie" (e.g. $10), by the experimenters and the Responder knows the size of the pie.
+· The Proposer then proposes how to divide the endowment between Proposer and Responder, transferring to the Responder any amount between nothing and the entire endowment, e.g. the Proposer chooses to keep $ 8 and give $2 to the Responder.
+· If the Responder accepts the proposed division, the Responder gets the proposed portion, and the Proposer keeps the rest.
+· If the Responder rejects the offer both get nothing and the game ends.
+Figure 2.12 presents a game tree for a variant of the Ultimatum Game in which the Proposer, player A, selects one of two offers to make to the Responder: divide the pie equally and each person gets $5 for an outcome (5, 5) or keep $8 and offer the Responder $2 for an outcome of (8, 2). The Responder, player B, then chooses whether to accept or reject the offer. You can see from the (0,0) labels at the end of the two Reject branches, that if B rejects the offer, both players get zero. The payoffs to each player are listed in the order of play (Player A, Player B), so (8, 2) means Player A gets 8 and Player B gets 2. If the Proposer cares only about her monetary payoffs in the game and believes that the Respondent is similarly self-regarding, then the Proposer (Player A) will reason backwards as follows:
+· Responder (Player B) will accept the offer of $2 because $2 is greater than $0 which is what he gets if he rejects the offer.
+
+E X A M P L E In this video, tinyurl.com/y47onzue Juan Camilo Cardenas talks about his innovative use of experimental economics in real-life situations (from the CORE project. www.core-econ.org)
+
+P E O P L E : P R E F E R E N C E S, B E L I E F S A N D C O N S T R A I N T S 83
+
+Player A
+
+Offer (8,2) split
+
+Offer (5,5) split
+
+Player B
+
+Player B
+
+Accept
+
+Reject
+
+Accept
+
+Reject
+
+Player A
+
+Offer (8,2) split
+
+Offer (5,5) split
+
+Player A
+
+Offer (8, 2) split
+
+Offer (5, 5) split
+
+Player B
+
+Player B
+
+Player B
+
+Player B
+
+Accept
+
+Reject
+
+Accept
+
+Reject
+
+Accept
+
+Reject
+
+Accept
+
+Reject
+
+(8,2)
+
+(0,0)
+
+(5,5)
+
+(0,0)
+
+(a) Full game tree
+
+· So A will propose the (8, 2) split.
+
+(8,2)
+
+(0,0)
+
+(5,5)
+
+(0,0)
+
+(b) Self-regarding players
+
+· And the Responder (B) will accept.
+
+That is not how the experiment worked out.
+
+The Ultimatum Game has been played anonymously, sometimes for substantial sums of money, in hundreds of experiments with university student subjects and other populations ­ businessmen, fishermen, farmers, civil servants ­ in all parts of the world.10
+
+The prediction based on the assumption that people are entirely self-regarding and believe that others are too invariably fails as a description of how people behave. For example:
+
+· Modal offers ­ the most common offers in the experiments ­ are typically half of the pie, and average offers generally exceed 40 percent of the pie, and
+
+· Offers of 20 percent of the pie or less are often rejected; people in the position of Responder choose to reject and get zero rather than accept and get a payoff of, say, $2 offered from the Proposers $10 pie.
+
+As a possible explanation of these results Figure 2.12 c shows how the game might be played if Player B cares both about monetary payoffs and also about being treated fairly. In this case, Player B views an offer of (8, 2) as unfair or demonstrating greed on A's part, and they would rather get a payoff of zero dollars than accept a deal in which they are treated poorly, so they would reject.
+
+If, on the other hand, Player A offers (5, 5) then Player B views that as fair or demonstrating good will and they would prefer a payoff of 5 in that context to a payoff of 0, so they would accept. Player A prefers a payoff of 5 to a payoff of 0 and so the Nash equilibrium of the game is (Offer a (5, 5) Split, Accept) with payoffs (5, 5).
+
+These rejections of small but positive offers from the Proposer are interpreted
+
+(8,2)
+
+(0,0)
+
+(5,5)
+
+(0,0)
+
+(c) Player B cares about being treated fairly
+
+Figure 2.12: Game tree of the ultimatum (bargaining) game. Panel a presents the full game tree for both players. Player A is the Proposer and their actions are shown by the blue branches. Player B is the Responder and their actions are shown by the red branches. Panel b shows the backward induction thinking of the Proposer, A, if she believes that B is self-regarding, that is, cares only about her own payoff being as large as possible. Panel c shows the same process if A believes that B will reject the 8, 2 offer as "unfair."
+
+F AC T C H E C K Did the subjects not understand the game? It is not that complicated a game, and later experiments in which subjects played the game many times with different partners showed they did understand it. Their behavior remained consistent with the one-shot experiments and their results continued to be reproduced with many people making 50-50 splits (or nearly so) and rejecting low offers.
+
+sparked curiosity among a group of behavioral scientists: Was this simply an odd result, perhaps due to the unusual circumstances of the experiment, or had Henrich tapped re8a4l beMhaICviRoOraEl CdOiffNeOreMnIcCeSs, -peDrRhAapFsT reflecting the distinct
+
+provides some comparative information about the societies discussed here. In selecting these, we included societies both sufficiently similar to the Machiguenga to offer the possibility of replicating the original Machiguenga results,
+
+Figure 1. SLooucractieo:nsHoefntrhiceh15etsmala.ll(-2s0ca0l5e)s.ocieties.
+
+BEHAVIORAL AND BRAIN SCIENCES (2005) 28:6
+
+799
+
+as evidence for reciprocity motives on the part of the Responder. Why? Because the Responder is willing to pay a price (giving up a positive payoff) to punish the Proposer for making an unfair offer (an offer the Responder considers too low). Responders apparently consider a low offer to be a violation of a norm of fairness, and a person with reciprocal preferences responds by depriving the proposer of any payoffs at all.
+
+Figure 2.13: Small-scale societies where the Ultimatum Game experiments were conducted. The researchers wanted to ensure cultural diversity in their sample. So they selected communities living in very different physical environments, making their living in diverse ways and very little influenced by the homogenizing influences of markets, governments, and other modern institutions.
+
+Explaining the behavior of Proposers is more complicated. The outcomes of the experiments are not sufficient to say whether the large number of even splits (and other seemingly fair offers) is explained by adherence to fairness norms or altruism by the Proposer or to self-regarding preferences informed by fear that the Responder will reject an unfair offer. The evidence for reciprocity motives therefore, comes from the Responders' behaviors, not the Proposers' behaviors.11
+
+2.14 Application. A global view: Common patterns and cultural differences
+Anthropologists and others were surprised that the results of experiments with the Ultimatum Game have been so similar across the many countries in which they have been conducted. One observed that in virtually all of the early experiments the subjects were from WEIRD countries, meaning Western, Educated, Industrialized, Rich, and Democratic.13 A team of anthropologists and
+
+F AC T C H E C K Some have suggested that the results were due to the relatively low stakes in the game, such as the $10 mentioned earlier. But subsequent experiments conducted among university students in Indonesia for a `pie' equal to three months average expenditures replicated the results as did experiments with U.S. students with a 'pie' ranging in size up to $100. Evidence from France showed similar behavior by proposers with stakes ranging from 40 French francs ($7.20) to 2000 French francs ($360) (this was prior to the adoption of the Euro). A further study in India observed stakes that varied by a magnitude of over 1000: From 20 rupees ($0.41) to 20,000 rupees ($410) as the stakes.12
+
+P E O P L E : P R E F E R E N C E S, B E L I E F S A N D C O N S T R A I N T S 85
+economists (including one of your current authors) designed a series of experiments to explore whether the results reported so far are replicable in societies with quite different cultures and social institutions and whether results differed across the different societies.14 These societies included hunter-gathers, herders, and farmers (some using modern methods, others not even having cattle, horses, or plows). In their Ultimatum Game experiments the pie was substantial, approximately a day's average wages or other income.
+Figure 2.13 shows the location of the 15 small-scale societies around the globe. The team was wondering if they would find cultural differences, and they found them.
+Among the Au and Gnau people in Papua New Guinea offers of more than half of the pie were common, and many of these high offers were rejected. In fact Responders among the Au and Gnau peoples were as likely to reject a offer of much more than half as an offer of much less than half.
+Though this seemed odd to the economists on the team, it did not surprise the anthropologists who study New Guinea. They know that people in New Guinea compete with each other to see who can give more or better gifts. Gift-giving conveys status in their society and people use giving gifts as a way to obtain status over others. Refusing a gift suggests that you are not subordinate to the gift-giver, while accepting it means their status is higher than yours.
+By contrast, among the highly individualistic Machiguenga slash and burn farmers in Amazonian Peru, almost three quarters of the offers were a quarter of the pie or less and there was just a single rejection, a pattern strikingly different from other experiments. The Machiguenga came as close to acting like Homo economicus as any population yet studied. Even among the Machiguenga, however, the mean offer was still 27 percent of the pie, more than close to zero that we'd expect if they all were consistently selfinterested.
+The researchers who analysed the experiments in the 15 small scale societies made the following conclusions:
+· Although behaviors vary greatly across societies, not a single society approximated the behaviors that would be observed if everyone cared only about their own payoffs and believed others were the same.
+· Between-society differences in behavior seem to reflect differences in the kinds of social interaction people experience in everyday life.
+Here is some evidence that the experimental game behavior reflected the lived experiences of the people.
+· The Ache hunter gatherers in Paraguay share meat and honey equally
+
+86 M I C R O E C O N O M I C S - D R A F T
+among all group members. Ache Proposers contributed half of the `pie' or more.
+· Among the Lamalera whale hunters of Indonesia, who hunt in large crews and divide their prey according to strict sharing rules, the average proposal was to give the Responder 58 percent of the pie.
+Given the evidence from small-scale societies like the Lamalera and the Ache, we might ask whether we find other-regarding behavior in real-world situations elsewhere in the industrialized world. A different team of researchers were interested in exactly this question and designed an experiment that mirrors a real life dilemma: what would you do if you found a wallet someone had lost: would you return it?
+The team distributed a total of 17,303 "lost" wallets, some with money in them, some without, in 355 cities across 40 countries.15
+Using transparent wallets with a business card, grocery list, key and cash, the researchers could check how many people contacted the "owner" of the wallet given in the email address listed on the business card to return the wallet.
+Before reading on, ask what you think would happen in your community: how many people would try to return the wallet? Would more people return the wallet if it had money in it, than if it did not?
+The results of people's choices are shown in Figure 2.14. Though there are differences across countries, with just two exceptions among the 40 countries people were more likely to contact the "owner" if the wallet contained money ($13.45, the treatment) in it than if it did not ($0, the control). In a subset of cases ­ in the U.S., U.K., and Poland ­ the researchers added a treatment with even more money in the wallet ($94.15). With a really substantial sum of money in the wallet, people were as likely, if not more so, to contact the listed email address on the business card in the wallet.
+Keep in mind that the countries differ greatly in how much an additional $13.45 would make to a person's standard of living. Per capita income in the richest countries in the sample (Norway for example) is ten and even in some cases 20 times the per capita income in others (Kenya for example), even when account is taken of the differing purchasing power of each national currency at domestic prices.
+The evidence from both the Ultimatum Game and the wallet experiments suggests two important take-aways:
+· Culture matters: people from different parts of the world live by different social norms and mutual expectations ­ what we call "culture." People from different cultures differ in what they consider fair offers and whether
+
+P E O P L E : P R E F E R E N C E S, B E L I E F S A N D C O N S T R A I N T S 87
+
+Country
+
+Switzerland Norway
+Netherlands Denmark Sweden Poland
+Czech Republic New Zealand Germany France Australia Spain Russia Canada Argentina Israel Portugal USA UK Italy Chile Brazil South Africa Thailand Mexico India Turkey Ghana Indonesia Malaysia Kenya Kazakhstan Morocco
+
+ 
+      
+
+
+
+
+
+20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Treatment
+ Money  No money
+
+40
+
+60
+
+80
+
+Reporting rate
+
+Figure 2.14: Wallets were more likely to be returned to their owners when they contained money than when they did not. The "reporting rate" is the fraction of wallets that were "returned"
+
+they think it's acceptable to make a self-regarding offer. They also differ substantially in whether they will return a lost wallet.
+· People are similar in many important respects: people across the world have other-regarding motives including altruism, fairness, and reciprocity. In the "lost wallet" experiment in most countries a substantial fraction of people attempted to return the wallet.
+2.15 Social preferences are not "Irrational"
+People sometimes think of other-regarding and ethical preferences as something special ­ different from the taste for ice cream, for example ­ and requiring a model different from the preferences, beliefs, and constraints approach. But the desire to contribute, to punish those who do not free ride on others' contributions, and otherwise to act on the basis of social preferences, like the desire to consume conventional goods and services, can be represented by preferences that conform to standard definitions of rationality.
+What we know from experiments is that whether its ice cream or contributions to the public good, people respond to trade-offs, taking account of the costs and how much they value the activity in question: the higher the cost of helping others, the less its frequency. In other words, other-regarding preferences are consistent with rationality, namely consistency (transitivity) and
+
+88 M I C R O E C O N O M I C S - D R A F T
+
+completeness.
+Researchers tested the rationality of seemingly altruistic choices by asking 176 subjects to play a version of what is called the Dictator Game.16 One player (the Dictator), Alice, is given a sum of money by the experimenter, and asked to transfer whatever proportion of the money that she wishes to an other (anonymous) subject, Bob. Alice is told that that for every dollar that Bob receives from her, she will have to pay p dollars. So p is the price of altruism: how much she has to pay for every dollar that Bob gets. After Alice makes her decision, the money is transferred, and the game is over.
+In this experiment, 75 percent of the Dictators gave away some money, demonstrating altruistic preferences. The average amount given away was
+a quarter of the endowment when the price p = 1 (a dollar-for-dollar trans-
+fer).17 However, the higher the price of generosity, the less money was transferred. For instance, when each dollar transferred to Bob cost Alice two dollars
+(p = 2), only 14.1 percent of the endowment was given away on average, and
+when each dollar transferred cost four dollars, only 3.4 percent of the dictator's endowment was transferred. The higher the price of altruism, the less did Alice "purchase."
+It may be, as the old saying goes, that "virtue is its own reward." But that does not mean that people will act virtuously no matter what the price. This finding is perfectly consistent with the fact that people respond to the price of virtuous behavior just as the preferences, beliefs, and constraints model predicts.
+Checkpoint 2.10: Dictator Game?
+Is the Dictator Game a game? Think about how we've defined games (check back in Chapter 1 if necessary).
+
+F AC T C H E C K In a Public Goods Game with Punishment experiment researchers found that the level of punishment that subjects inflicted on others was less when each dollar subtracted from the payoffs of the target cost more in foregone payoffs to the punisher.18
+
+2.16 Application. The lab and the street
+Do people behave in the real world the way they do in experiments? The experimental evidence for reciprocity or related forms of other-regarding behavior would not be interesting if was not matched by similar behavior outside the lab. We therefore need to check whether laboratory evidence is externally valid, that is, consistent with behavior observed outside of the laboratory in similar circumstances to those found in the lab. External validity is particularly important for policy questions because policy-makers and governments need to know whether a policy will work outside of the controlled conditions of the laboratory.
+Generalizing directly from experiments to behavior in other contexts is often unwarranted. For example, in the Dictator Game typically more than 60 per-
+
+EXTERNAL VALIDITY Results of experiments or other scientific research that can be generalized to circumstances outside (external to) the laboratory or other setting in which the research was produced, are said to be externally valid.
+
+P E O P L E : P R E F E R E N C E S, B E L I E F S A N D C O N S T R A I N T S 89
+
+cent of the Dictators allocate a positive sum to the recipient, and the average given is about a fifth of the endowment.19 But we would be sadly mistaken if we predicted on the basis of this experimental result that 60 percent of people would spontaneously give money to an anonymous person passing them on the street, or that the same subjects would offer a fifth of the money in their wallet to a homeless person asking for help.
+Many researchers have asked whether behavior in lab experiments predicts behavior outside the lab.
+Along the coast of northeastern Brazil, for example, shrimpers catch shrimp in large plastic bucket-like contraptions. The shrimpers cut holes in the bottoms of the traps to allow the baby shrimp to escape, thereby preserving the stock of shrimp for future catches.
+The shrimpers face a real-world coordination problem: the expected income of each would be greatest if he were to cut smaller holes in his traps (increasing his own catch) while others cut larger holes in theirs (preserving future stocks). In Prisoners' Dilemma terms, small trap holes are a form of defection that maximizes the individual's material payoff irrespective of what others do (it is the dominant strategy if the shrimper is self-regarding). But a shrimper might resist the temptation to defect if he were both public spirited toward the other fishers and sufficiently patient to value the future opportunities that they all would lose were he to use traps with smaller holes.
+Economists Ernst Fehr and Andreas Leibbrandt implemented both a Public Goods game and an experimental measure of impatience with the shrimpers. They found that the shrimpers with both greater patience and greater cooperativeness in the experimental game punched significantly larger holes in their traps, thereby protecting future stocks for the entire community.21
+Additional evidence of external validity comes from a set of experiments and field studies with 49 groups of herders of the Bale Oromo people in Ethiopia, who were engaged in forest-commons management. Economist Devesh Rustagi and his coauthors implemented public-goods experiments with a total of 679 herders, and also studied the success of the herders' cooperative forest projects.22
+The most common behavioral type in their experiments, constituting just over a third of the subjects, were reciprocators who responded to higher contributions by others by contributing more to the public good themselves. The authors found that groups with a larger number of reciprocators were more successful ­ they planted many more trees ­ than those with fewer reciprocators. This was in part because members of groups with more reciprocators spent significantly more time monitoring others' use of the forest.
+
+F AC T C H E C K In an experimental game about trust and reciprocity played by groups of students and groups of chief executive officers of Costa Rican businesses, the businessmen were both more trusting of others and also reciprocated the generosity of their game partners to a far greater degree than did the students.20 Based on existing experimental evidence, students are not particularly other-regarding.
+Figure 2.15: A shrimping bucket with holes in it
+
+90 M I C R O E C O N O M I C S - D R A F T
+Checkpoint 2.11: Masks in a pandemic: Not just a game
+During the COVID-19 pandemic of 2020-2021 public health experts advised (and some governments required) people to wear face masks when in public places. The masks were more effective in preventing the mask wearer from infecting others than in protecting the wearer themselves. People found it somewhat uncomfortable to wear a mask.
+a. Suppose there are just two people, and that both are entirely self-regarding (they care only about their own comfort and health). Write down a payoff matrix for the two strategies: Wear (the mask) and Don't.
+b. What kind of game is this? c. What does the model predict about mask wearing? d. In many parts of the world mask-wearing in public became common without
+any legally enforced requirement to do so. What do you think explains this? e. Using what you have learned from the behavioral experiments write down a
+new payoff matrix that could explain mask wearing by both players? f. How would you describe the social preferences that could account for this
+change in what the model predicts.
+2.17 Application: A fine is a price
+How might a policy-maker or CEO of a business make use of the fact that people care about what happens to others and they value behaving ethically?
+Think about a set of rules for compensating employees. The rules typically specify pay and provision for time off, sick days and the like. But problems arise with using purely material incentives to influence how people behave. Here is an example.
+Having noticed a suspicious bunching of sick call-ins on Mondays and Fridays, the Boston Fire Commissioner on December 1, 2001 ended the Department's policy of unlimited paid sick days. Instead, the Commissioner imposed a 15-day sick day limit. The pay of firefighters exceeding that limit would be cut. The firefighters responded to the new incentives: those calling in sick on Christmas and New Year's Day increased ten times over the previous year's sick days.
+The Fire Commissioner retaliated by cancelling their holiday bonus checks. The firefighters were unimpressed: the next year they claimed 13,431 sick days; up from 6,432 the previous year.23
+Many of the firefighters, apparently insulted by the new system, abused it, or abandoned their previous ethic of serving the public even when injured or not feeling well. In the language of the Ultimatum Game, they responded
+
+P E O P L E : P R E F E R E N C E S, B E L I E F S A N D C O N S T R A I N T S 91
+
+Late arrivals
+
+Fines
+
+20
+
+Group with fine
+
+Control group
+
+18
+
+16
+
+14
+
+12
+
+10
+
+8
+
+6
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 Week number
+
+Figure 2.16: The effect of a fine for lateness in Haifa's daycare centers. Source: Gneezy and Rustichini (2000a). The fine was imposed in week 5 and retracted in week 17.
+
+reciprocally to an offer they disliked by rejecting it. They were trying to punish the Commissioner at a cost to themselves.
+The Commissioner's difficulties are far from exceptional.
+Consider the following experiment in Haifa, Israel.24 Parents everywhere are sometimes late in picking up their children at day care centers. Uri Gneezy and Aldo Rustichi wanted to understand whether fining parents if they were late would result in parents arriving on time. So they implemented an experiment in a set of daycare centers.
+· Treatment: At six randomly chosen daycare centers, a fine was imposed for parents picking up their children late.
+· Control: In a control group of daycare centers no fine was imposed.
+Researchers expected parents to arrive on time because of the fine. But parents responded to the fine by arriving late more often: the fraction of parents picking up their kids late more than doubled. When the fine was taken away after 16 weeks, the parents continued to arrive late, showing no tendency to return to the status quo prior to the experiment. Over the entire 20 weeks of the experiment, there were no changes in the degree of lateness at the day care centers in the control group.
+The researchers reason that the fine was a contextual cue, unintentionally providing information about appropriate behavior. The effect was to convert lateness from the violation of a social norm or obligation that the parents were to respect, to a choice with a price that many were willing to pay. They titled their study "A Fine is a Price" and concluded that imposing a fine labeled the interaction as a market-like situation, one in which parents were more than willing to buy lateness for money. Revoking the fine did not restore the initial context.
+When monetary incentives undermine social preferences as they did among the Boston firefighters and Haifa parents, this is called crowding out. These two cases are cautions that the use of monetary incentives may be inappro-
+
+MOTIVATIONAL CROWDING OUT Motivational crowding out occurs when monetary or other material incentives or attempts to control someone diminish that person's other-regarding or ethical preferences.
+
+92 M I C R O E C O N O M I C S - D R A F T
+priate where the targets of the incentives are motivated by other-regarding preferences. But they are not reasons to think that incentives are ineffective, as we will see in many examples to follow. We have no doubt that had the fine for lateness in Haifa been 500 New Israeli Shekels rather than just 10, the parents would have found a way to pick up their kids on time.
+2.18 Complexity: diverse, versatile, and changeable people
+The experimental and observational evidence suggests an adequate understanding of preferences should recognize four aspects in human social behavior.
+· Diversity : people differ in their preferences both within populations and across cultures.
+· Versatility : even a single person has a diversity of preferences, and which of these is salient for making a decision depends on the situation, for example, when shopping as opposed to when spending time with friends.
+· Changeability : people learn new preferences ­ often unwittingly ­ under the influence of their experiences.
+These three aspects of our preferences contribute to a fourth attribute of how human beings interact:
+· Complexity or "the whole is not the sum of its parts" : the outcome of an interaction of many people cannot be deduced in any simple way from the characteristics of the individual people involved.
+Diversity
+What motivates people differs, both locally and across different cultures and across time. Using data from a wide range of experiments, researchers estimate that between 40 and 65 percent of people exhibit other-regarding preferences of some kind. The same studies suggest that between 20 and 35 percent of the subjects exhibit conventional self-regarding preferences.25 The authors of another study (in the U.S.) termed 29 percent of their experimental subjects as "ruthless competitors" (presumably resembling Homo economicus) and 22 per cent as "saints."26
+Versatility
+A common observation about human behavior made by psychologists is that the same person can act differently depending on the situation. As a result, we say that people are versatile: we change how we act in response to what our situation seems to require of us, for example, being self-regarding while shopping and other-regarding with one's neighbors.
+
+P E O P L E : P R E F E R E N C E S, B E L I E F S A N D C O N S T R A I N T S 93
+
+In the Ultimatum Game, people randomly assigned to the role of Proposer often offer amounts which maximize their expected payoffs given how likely low offers are to be rejected. But people randomly assigned to be a Responder rarely act in ways that maximize their payoffs. If they did they would never reject a positive offer. The fact that in the role of Proposer people are more like "ruthless competitors" while people from the same culture in the role of Responder are more like "saints" is evidence of our versatility.
+Changeability
+Some preferences are part of our genetic makeup, having a taste for sweet and fatty foods, for example.
+But most preferences are learned rather than given by our genetic inheritance. Durable changes in an individual's evaluations of outcomes often take place as a result of experience. When this occurs we say that preferences are endogenous, meaning that they change as a result of influences such as where a person lives, how they make their living or the rules of the game that govern how they interact with others.
+Over a lifetime or even generations, migrants to a new country, or those moving from a rural to an urban area often adopt new preferences (for example concerning food tastes). The fact that preferences are learned may account for the fact that, as we saw from the experiments in small scale societies, people who hunt large animals tend be generous with the meat they acquire; and they seem to generalize these habits to other realms of life.
+A consequence: Complexity
+In everyday language the word "complexity" refers to the state of being intricate or complicated. The term is used in quite a different way in the study of interactions of a large number of independent entities ­ whether particles or people. A complex system is one for which the results of these interactions for the system as a whole cannot be predicted in any simple way from even the most detailed knowledge of the interacting entities. The economy is a complex system.
+The best example of complexity in the social sciences is Adam Smith's invisible hand. What Smith suggested two and a half centuries ago, and modern economics has shown (as seen in Chapter 15) is that under some conditions uncoordinated interactions among entirely self-regarding total strangers through competition in markets among private property owners can (unwittingly) create an outcome that is better for all than many of the alternatives.
+The idea of complexity is often expressed by the saying: "the whole is different from the sum of the parts." The key here is not that the "whole" may be greater
+
+F AC T C H E C K In experimental games about dishonesty, people who grew up in Communist Party ruled East Germany are more likely to cheat than those who grew up in West Germany.27
+ENDOGENOUS PREFERENCES Preferences are endogenous if one's experiences result in durable changes in preferences. See also exogenous preferences. EXOGENOUS PREFERENCES Preferences are exogenous if they change in response only to influences external to the economy or at least outside of the economic subject matter under study. See also endogenous preferences.
+Figure 2.17: Gary Becker (1930-2014) was a professor of economics and sociology at the University of Chicago for four decades. In 1977 he coauthored an article "De Gustibus Non Est Disputandum" the Latin expression usually translated in English as "there's no accounting for tastes" in which he and his co-author George Stigler analogized preferences to "the Rocky Mountains ­ both are there, will be there next year too, and are the same to all men." The book he published than two decades later was Accounting for Tastes, in which he analysed how preferences change. He was awarded the Nobel Prize in economics for contributions to our understanding of marriage, crime, politics, discrimination and other aspects of social interactions.28
+
+94 M I C R O E C O N O M I C S - D R A F T
+
+or less than the sum; it is that summing the parts is not the right way to calculate the whole. Averaging the components of some interacting system will not give what their interactions will actually add up to. The results of the interaction ­ called their emergent property ­ may be surprising given the nature of the interacting entities.
+Here are some examples of surprises (with which you are already familiar) in the properties that emerge from people with diverse and versatile preferences interacting.
+· Small differences in the distribution of types ­ the presence in a population of people willing to punish those who do not contribute in a Public Goods Game, for example ­ can have large effects on how everyone behaves, getting self-regarding people to act as if they were cooperators. You have seen this in Figure 2.11.
+· Seemingly small differences in institutions can make large and surprising differences in outcomes. Why did adding the punishment option so radically change the outcomes in the Public Goods Game? We know that cooperation ­ contributing to the public good ­ unravels in the absence of the punishment option. But the incentives to punish would seem identical to the incentives to contribute to the public good in the first place: everyone would like someone else to bear the cost of punishing the free riders. So not contributing and not punishing should be the dominant strategy in this game. But we now know that that is not what we observe.
+· While imposing a fine or other cost on socially undesirable behaviors may create socially desirable outcomes in certain circumstances such as getting people to stop using plastic grocery bags, a fine on parents arriving late to pick up their kids backfired. We saw that the nominal fine decreased parents' willingness to pick up their children on time perhaps because they viewed the fine as a price to pay for additional day care: the fine changed what they viewed as socially acceptable behavior.
+· Letting a self-regarding player be the first mover in a Prisoners' Dilemma Game when she knows that the other player has strong reciprocity motives can avert the coordination failure resulting in mutual cooperation. Letting the Reciprocator be the first mover would have the opposite result: both players would defect, resulting in the Pareto inefficient outcome. You can confirm this by doing the checkpoint below.
+Checkpoint 2.12: Sequential Prisoners' Dilemma
+For a sequential Prisoners' Dilemma game where the first player is selfinterested and the second player is reciprocal draw a game tree in which the Nash equilibrium may be (Cooperate, Cooperate) and explain why could occur.
+
+FREE RIDER A free rider is a person who benefits from the cooperation or generosity of others, while not reciprocating in a cooperative or generous way, for example, not contributing in a Public Goods Game.
+
+P E O P L E : P R E F E R E N C E S, B E L I E F S A N D C O N S T R A I N T S 95
+2.19 Conclusion
+Recognizing the complexity of social interactions makes it harder to reach simple conclusions about the economy. But this is a good thing, not a shortcoming of the approach we have outlined; a feature, not a bug.
+We have introduced the preferences, beliefs and constraints approach and showed how games can help us understand the coordination problems that communities of people face. Examples are poverty traps that occur in Assurance Games, and the under-provision of public goods such as a sustainable environment in the Public Goods Game.
+We also showed how changing the rules of the game can sometimes avert or mitigate a coordination failure. Examples include introducing the possibility of leadership by letting the Assurance Game be played sequentially, and introducing the option of peer punishment of low contributors in the Public Goods Game.
+Finally the preferences, beliefs and constraints approach and game theory are the basis of experiments that allow us to study preferences empirically with some surprising results. Included is the finding that in most populations studied many people are not entirely self-regarding but are also other-regarding, caring for better or worse about how their actions affect other people. Among the preferences the experiments have identified are: altruism, fairness, reciprocity and spite (or "us versus them").
+A key concept introduced in this and the previous chapter is the Nash equilibrium based on the idea of a best response. The choices we have posited for our actors have been overly simplified: Contribute to the public good or Don't contribute, Accept or Reject the Proposer's offer in the Ultimatum Game.
+The preferences, beliefs and constraints approach is capable of a far more realistic view of the strategy sets open to us allowing us to contribute some or a lot, for example. But to benefit from this we need to develop the mathematical tools of constrained optimization. We take up this task in the next chapter.
+Making connections
+Preferences, beliefs, and constraints: This framework for analyzing decisions will be used throughout the rest of the book.
+Risk and uncertainty: Many, maybe most, of the important decisions that people make are risky because the resulting outcome depends on contingencies the probability of which occurring the actor may or may not know.
+
+
